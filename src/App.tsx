@@ -40,7 +40,7 @@ const Home: React.FC = () => {
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/Ale-ISF">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/test" element={<TestPage />} />
