@@ -6,7 +6,7 @@ interface TimerProps {
 }
 
 const Timer: React.FC<TimerProps> = ({ onTimeUp }) => {
-  const [timeLeft, setTimeLeft] = useState(2 * 60); // 30 minutes in seconds
+  const [timeLeft, setTimeLeft] = useState(40 * 60); // 40 minutes in seconds
 
   useEffect(() => {
     const timer = setInterval(() => {

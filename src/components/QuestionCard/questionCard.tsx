@@ -49,53 +49,55 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
 
   return (
     <Box display="flex" flexDirection="column" alignItems="center" p={2}>
-      <Typography variant="h5" component="h2" gutterBottom>
-        {questionData.question}
-      </Typography>
-      <RadioGroup value={selectedAnswer} onChange={handleAnswerChange}>
-        {questionData.answers.map((answer, index) => {
-          const isSelected = selectedAnswer === answer;
-          const isCorrectAnswer = answer === questionData.correct;
-          const isIncorrectAnswer = isSelected && !isCorrectAnswer;
+      <Box maxWidth="800px" width="100%">
+        <Typography variant="h5" component="h2" gutterBottom maxWidth="800px">
+          {questionData.question}
+        </Typography>
+        <RadioGroup value={selectedAnswer} onChange={handleAnswerChange}>
+          {questionData.answers.map((answer, index) => {
+            const isSelected = selectedAnswer === answer;
+            const isCorrectAnswer = answer === questionData.correct;
+            const isIncorrectAnswer = isSelected && !isCorrectAnswer;
 
-          return (
-            <FormControlLabel
-              key={index}
-              value={answer}
-              control={<Radio />}
-              label={answer}
-              sx={{
-                color: isAnswered
-                  ? isCorrectAnswer
-                    ? "lightgreen"
-                    : isIncorrectAnswer
-                    ? "lightcoral"
-                    : "inherit"
-                  : "inherit",
-                border: isAnswered
-                  ? isCorrectAnswer
-                    ? "2px solid green"
-                    : isIncorrectAnswer
-                    ? "2px solid red"
-                    : "none"
-                  : "none",
-                borderRadius: "4px",
-                marginBottom: "8px",
-                padding: "4px",
-                "& .MuiRadio-root": {
+            return (
+              <FormControlLabel
+                key={index}
+                value={answer}
+                control={<Radio />}
+                label={answer}
+                sx={{
                   color: isAnswered
                     ? isCorrectAnswer
-                      ? "green"
+                      ? "lightgreen"
                       : isIncorrectAnswer
-                      ? "red"
+                      ? "lightcoral"
                       : "inherit"
                     : "inherit",
-                },
-              }}
-            />
-          );
-        })}
-      </RadioGroup>
+                  border: isAnswered
+                    ? isCorrectAnswer
+                      ? "2px solid green"
+                      : isIncorrectAnswer
+                      ? "2px solid red"
+                      : "none"
+                    : "none",
+                  borderRadius: "4px",
+                  marginBottom: "8px",
+                  padding: "4px",
+                  "& .MuiRadio-root": {
+                    color: isAnswered
+                      ? isCorrectAnswer
+                        ? "green"
+                        : isIncorrectAnswer
+                        ? "red"
+                        : "inherit"
+                      : "inherit",
+                  },
+                }}
+              />
+            );
+          })}
+        </RadioGroup>
+      </Box>
       <Button
         variant="contained"
         color="primary"
