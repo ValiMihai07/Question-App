@@ -48,11 +48,26 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
   };
 
   return (
-    <Box display="flex" flexDirection="column" alignItems="center" p={2}>
-      <Box maxWidth="800px" width="100%">
-        <Typography variant="h5" component="h2" gutterBottom maxWidth="800px">
-          {questionData.question}
-        </Typography>
+    <Box
+      display="flex"
+      flexDirection="column"
+      alignItems="center"
+      p={3}
+      sx={{
+        maxWidth: "600px",
+        width: "100%",
+        border: "1px solid #ccc",
+        borderRadius: "8px",
+        boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
+        backgroundColor: "#000", // Fundal negru
+        color: "#fff", // Text alb pentru contrast
+        margin: "16px auto",
+      }}
+    >
+      <Typography variant="h5" component="h2" gutterBottom>
+        {questionData.question}
+      </Typography>
+      <Box>
         <RadioGroup value={selectedAnswer} onChange={handleAnswerChange}>
           {questionData.answers.map((answer, index) => {
             const isSelected = selectedAnswer === answer;
@@ -105,7 +120,7 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
         sx={{ mt: 2 }}
         disabled={isAnswered}
       >
-        Verifica raspunsul
+        Verifică răspunsul
       </Button>
       <Button
         variant="contained"
@@ -114,7 +129,7 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
         sx={{ mt: 2 }}
         disabled={!isAnswered}
       >
-        Urmatoarea intrebare
+        Următoarea întrebare
       </Button>
     </Box>
   );

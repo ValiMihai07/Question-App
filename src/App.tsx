@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import { Box, Button, Container, Typography } from "@mui/material";
 import TestPage from "./components/test";
+import TestMama from "./components/testMama";
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
@@ -14,6 +15,13 @@ const Home: React.FC = () => {
   const startTest = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     navigate("/test");
+  };
+
+  const startFinancialDecisionsTest = (
+    e: React.MouseEvent<HTMLButtonElement>
+  ) => {
+    e.preventDefault();
+    navigate("/testDeciziiFinanciare");
   };
 
   return (
@@ -28,10 +36,18 @@ const Home: React.FC = () => {
     >
       <Box display="flex" flexDirection="column" alignItems="center" p={2}>
         <Typography variant="h4" component="h1" gutterBottom>
-          Test ISF
+          Teste
         </Typography>
         <Button variant="contained" color="primary" onClick={startTest}>
-          Start Test
+          STest ISF
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startFinancialDecisionsTest}
+          sx={{ marginTop: 2 }}
+        >
+          Test Deciziile Financiare ale Firmei
         </Button>
       </Box>
     </Container>
@@ -40,10 +56,11 @@ const Home: React.FC = () => {
 
 const App: React.FC = () => {
   return (
-    <Router basename="/Ale-ISF">
+    <Router basename="/Question-App">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/test" element={<TestPage />} />
+        <Route path="/testDeciziiFinanciare" element={<TestMama />} />
       </Routes>
     </Router>
   );

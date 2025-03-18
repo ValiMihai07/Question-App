@@ -1,0 +1,200 @@
+[
+  {
+    "question": "1. Constituie modalitate de îndatorare pe termen scurt următoarele:",
+    "answers": [
+      "a) creditul bancar pe termen mediu şi lung;",
+      "b) creditul bancar pe termen scurt;",
+      "c) leasingul;",
+      "d) creditul obligatar;",
+      "e) finanţările nebancare."
+    ],
+    "correct": "b) creditul bancar pe termen scurt;"
+  },
+  {
+    "question": "2. Decizia de finanţare, care stă la baza formării capitalului firmei, este, în cea mai mare parte, asumată de:",
+    "answers": [
+      "a) furnizorii de capitaluri;",
+      "b) salariaţi;",
+      "c) conducerea firmei;",
+      "d) acţionari;",
+      "e) creditori."
+    ],
+    "correct": "c) conducerea firmei;"
+  },
+  {
+    "question": "3. Activele circulante nu cuprind:",
+    "answers": [
+      "a) stocuri;",
+      "b) creanţe;",
+      "c) capital social;",
+      "d) investiţii pe termen scurt;",
+      "e) casa şi conturi la bănci;"
+    ],
+    "correct": "c) capital social;"
+  },
+  {
+    "question": "4. Capitalurile permanente cuprind:",
+    "answers": [
+      "a) capitalurile proprii plus datoriile pe termen mediu şi lung;",
+      "b) capitalurile proprii plus datoriile pe termen scurt;",
+      "c) capitalurile proprii minus datoriile pe termen mediu şi lung;",
+      "d) capitalurile proprii minus datoriile pe termen scurt;",
+      "e) capitalurile proprii plus capitalul social."
+    ],
+    "correct": "a) capitalurile proprii plus datoriile pe termen mediu şi lung;"
+  },
+  {
+    "question": "5. Ţinând cont de faptul că finanţarea investiţiilor se realizează atât din capitaluri proprii cât şi din capitaluri împrumutate, se recomandă folosirea ca rată de actualizare a:",
+    "answers": [
+      "a) ratei inflaţiei;",
+      "b) ratei rentabilităţii fără risc;",
+      "c) ratei medii de rentabilitate din sectorul de activitate;",
+      "d) ratei dobânzii la obligaţiunile de stat;",
+      "e) costului mediu ponderat al capitalului investit."
+    ],
+    "correct": "e) costului mediu ponderat al capitalului investit."
+  },
+  {
+    "question": "6. Rata internă de rentabilitate trebuie să fie superioară:",
+    "answers": [
+      "a) ratei dobânzii fără risc pe piaţa financiară;",
+      "b) ratei inflaţiei;",
+      "c) ratei medii de rentabilitate din sectorul de activitate;",
+      "d) costului mediu ponderat al capitalului investit;",
+      "e) costului de oportunitate"
+    ],
+    "correct": "a) ratei dobânzii fără risc pe piaţa financiară;"
+  },
+  {
+    "question": "7. Valoarea actualizată netă se stabileşte ca:",
+    "answers": [
+      "a) sumă între cash flow-urile actualizate şi valoarea investiţiei;",
+      "b) diferenţă între cash flow-urile actualizate şi valoarea investiţiei;",
+      "c) sumă între cash flow-uri şi valoarea investiţiei;",
+      "d) sumă între cash flow-uri şi capitalul investit;",
+      "e) diferenţă între cash flow-uri şi capitalul investit."
+    ],
+    "correct": "b) diferenţă între cash flow-urile actualizate şi valoarea investiţiei;"
+  },
+  {
+    "question": "8. Rata internă de rentabilitate este:",
+    "answers": [
+      "a) acea rată de actualizare pentru care valoarea actualizată netă este mai mare ca zero;",
+      "b) acea rată de actualizare pentru care valoarea actualizată netă este mai mică ca zero;",
+      "c) acea rată de actualizare pentru care valoarea actualizată netă este egală cu zero;",
+      "d) acea rată de actualizare pentru care valoarea actualizată netă este mai mare ca unu;",
+      "e) acea rată de actualizare pentru care valoarea actualizată netă este mai mică ca unu;"
+    ],
+    "correct": "c) acea rată de actualizare pentru care valoarea actualizată netă este egală cu zero;"
+  },
+  {
+    "question": "9. Dacă pentru acelaşi obiectiv de investiţii există două proiecte ce se exclud reciproc, se optează pentru cel cu:",
+    "answers": [
+      "a) valoarea actualizată netă mai mică ca zero;",
+      "b) valoarea actualizată netă mai mare ca zero;",
+      "c) valoarea actualizată netă mai mică;",
+      "d) valoarea actualizată netă mai mare;",
+      "e) valoarea actualizată netă egală cu zero;"
+    ],
+    "correct": "d) valoarea actualizată netă mai mare;"
+  },
+  {
+    "question": "10. Cash flow-ul net marginal se determină:",
+    "answers": [
+      "a) ca diferenţă între cash flow-ul din exploatare şi cash flow-ul net fără investiţie;",
+      "b) ca sumă între cash flow-ul din exploatare şi cash flow-ul net fără investiţie;",
+      "c) ca diferenţă între cash flow-ul net cu investiţie şi cash flow-ul net fără investiţie;",
+      "d) ca sumă între cash flow-ul net cu investiţie şi cash flow-ul net fără investiţie;",
+      "e) ca diferenţă între excedentul brut din exploatare şi cash flow-ul net fără investiţie."
+    ],
+    "correct": "c) ca diferenţă între cash flow-ul net cu investiţie şi cash flow-ul net fără investiţie;"
+  },
+  {
+    "question": "11. Cash flow-ul din exploatare se determină conform relaţiei:",
+    "answers": [
+      "a) EBIT + Amo - Imp;",
+      "b) EBIT + Amo + Imp;",
+      "c) EBIT - Amo - Imp;",
+      "d) EBIT - Amo + Imp;",
+      "e) EBIT + Dob + Imp;"
+    ],
+    "correct": "a) EBIT + Amo - Imp;"
+  },
+  {
+    "question": "12. Cash flow-ul din exploatare se determină conform relaţiei:",
+    "answers": [
+      "a) PN - Dob - Amo;",
+      "b) PN - Dob + Amo;",
+      "c) PN + Dob - Amo;",
+      "d) PN + Dob + Amo;",
+      "e) EBIT + Amo + Imp."
+    ],
+    "correct": "d) PN + Dob + Amo;"
+  },
+  {
+    "question": "13. Cash flow-ul net se determină:",
+    "answers": [
+      "a) ca diferenţă între cash flow-ul contabil şi creşterea economică;",
+      "b) ca sumă între cash flow-ul contabil şi creşterea economică;",
+      "c) ca diferenţă între cash flow-ul din exploatare şi creşterea economică;",
+      "d) ca sumă între cash flow-ul din exploatare şi creşterea economică;",
+      "e) ca diferenţă între profitul net şi creşterea economică."
+    ],
+    "correct": "c) ca diferenţă între cash flow-ul din exploatare şi creşterea economică;"
+  },
+  {
+    "question": "14. La finele duratei de viaţă a investiţiei, cash flow-urile determinate cuprind:",
+    "answers": [
+      "a) nevoia de fond de rulment suplimentară;",
+      "b) costul de oportunitate;",
+      "c) imobilizările financiare;",
+      "d) cheltuielile de cercetare;",
+      "e) valoarea reziduală a investiţiei."
+    ],
+    "correct": "e) valoarea reziduală a investiţiei."
+  },
+  {
+    "question": "15. Evenimentele incerte mai sunt cunoscute sub denumirea de:",
+    "answers": [
+      "a) evenimente sigure;",
+      "b) evenimente certe;",
+      "c) evenimente probabile;",
+      "d) evenimente posibile;",
+      "e) evenimente riscante."
+    ],
+    "correct": "d) evenimente posibile;"
+  },
+  {
+    "question": "16. Printre participanţii la procesul decizional nu regăsim:",
+    "answers": [
+      "a) iniţiatori;",
+      "b) promotori;",
+      "c) realizatori;",
+      "d) mediatori;",
+      "e) statul."
+    ],
+    "correct": "e) statul."
+  },
+  {
+    "question": "17. În domeniul finanţelor firmei, cea mai importantă, prin implicaţiile ei este:",
+    "answers": [
+      "a) decizia de dividend;",
+      "b) decizia de investiţii;",
+      "c) decizia de finanţare;",
+      "d) decizia de preţ;",
+      "e) decizia de cost."
+    ],
+    "correct": "b) decizia de investiţii;"
+  },
+  {
+    "question": "18. După orizontul de timp, deciziile financiare pot fi grupate în:",
+    "answers": [
+      "a) decizia de dividend;",
+      "b) decizia de investiţii;",
+      "c) decizia de finanţare;",
+      "d) decizii strategice;",
+      "e) decizii tactice."
+    ],
+    "correct": ["d) decizii strategice;", "e) decizii tactice."]
+  }
+]
