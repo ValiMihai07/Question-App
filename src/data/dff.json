@@ -1,0 +1,332 @@
+[
+  {
+    "question": "1. În domeniul finanţelor firmei, cea mai importantă, prin implicaţiile ei este:",
+    "answers": [
+      "a) decizia de dividend;",
+      "b) decizia de investiţii;",
+      "c) decizia de finanţare;",
+      "d) decizia de preţ;",
+      "e) decizia de cost."
+    ],
+    "correct": "b) decizia de investiţii;"
+  },
+  {
+    "question": "2. Cash flow-ul net marginal se determină:",
+    "answers": [
+      "a) ca diferenţă între cash flow-ul din exploatare şi cash flow-ul net fără investiţie;",
+      "b) ca sumă între cash flow-ul din exploatare şi cash flow-ul net fără investiţie;",
+      "c) ca diferenţă între cash flow-ul net cu investiţie şi cash flow-ul net fără investiţie;",
+      "d) ca sumă între cash flow-ul net cu investiţie şi cash flow-ul net fără investiţie;",
+      "e) ca diferenţă între excedentul brut din exploatare şi cash flow-ul net fără investiţie."
+    ],
+    "correct": "c) ca diferenţă între cash flow-ul net cu investiţie şi cash flow-ul net fără investiţie;"
+  },
+  {
+    "question": "3. Cash flow-ul din exploatare se determină conform relaţiei:",
+    "answers": [
+      "a) EBIT + Amo - Imp;",
+      "b) EBIT + Amo + Imp;",
+      "c) EBIT - Amo - Imp;",
+      "d) EBIT - Amo + Imp;",
+      "e) EBIT + Dob + Imp;"
+    ],
+    "correct": "b) EBIT + Amo + Imp;"
+  },
+  {
+    "question": "4. Cash flow-ul din exploatare se determină conform relaţiei:",
+    "answers": [
+      "a) PN - Dob - Amo;",
+      "b) PN - Dob + Amo;",
+      "c) PN + Dob - Amo;",
+      "d) PN + Dob + Amo;",
+      "e) EBIT + Amo + Imp."
+    ],
+    "correct": "d) PN + Dob + Amo;"
+  },
+  {
+    "question": "5. Cash flow-ul net se determină:",
+    "answers": [
+      "a) ca diferenţă între cash flow-ul contabil şi creşterea economică;",
+      "b) ca sumă între cash flow-ul contabil şi creşterea economică;",
+      "c) ca diferenţă între cash flow-ul din exploatare şi creşterea economică;",
+      "d) ca sumă între cash flow-ul din exploatare şi creşterea economică;",
+      "e) ca diferenţă între profitul net şi creşterea economică."
+    ],
+    "correct": "c) ca diferenţă între cash flow-ul din exploatare şi creşterea economică;"
+  },
+  {
+    "question": "6. La finele duratei de viaţă a investiţiei, cash flow-urile determinate cuprind:",
+    "answers": [
+      "a) nevoia de fond de rulment suplimentară;",
+      "b) costul de oportunitate;",
+      "c) imobilizările financiare;",
+      "d) cheltuielile de cercetare;",
+      "e) valoarea reziduală a investiţiei."
+    ],
+    "correct": "e) valoarea reziduală a investiţiei;"
+  },
+  {
+    "question": "7. Valoarea actualizată netă se stabileşte ca:",
+    "answers": [
+      "a) sumă între cash flow-urile actualizate şi valoarea investiţiei;",
+      "b) diferenţă între cash flow-urile actualizate şi valoarea investiţiei;",
+      "c) sumă între cash flow-uri şi valoarea investiţiei;",
+      "d) sumă între cash flow-uri şi capitalul investit;",
+      "e) diferenţă între cash flow-uri şi capitalul investit."
+    ],
+    "correct": "b) diferenţă între cash flow-urile actualizate şi valoarea investiţiei;"
+  },
+  {
+    "question": "8. Rata internă de rentabilitate este:",
+    "answers": [
+      "a) acea rată de actualizare pentru care valoarea actualizată netă este mai mare ca zero;",
+      "b) acea rată de actualizare pentru care valoarea actualizată netă este mai mică ca zero;",
+      "c) acea rată de actualizare pentru care valoarea actualizată netă este egală cu zero;",
+      "d) acea rată de actualizare pentru care valoarea actualizată netă este mai mare ca unu;",
+      "e) acea rată de actualizare pentru care valoarea actualizată netă este mai mică ca unu;"
+    ],
+    "correct": "c) acea rată de actualizare pentru care valoarea actualizată netă este egală cu zero;"
+  },
+  {
+    "question": "9. Dacă pentru acelaşi obiectiv de investiţii există două proiecte ce se exclud reciproc, se optează pentru cel cu:",
+    "answers": [
+      "a) valoarea actualizată netă mai mică ca zero;",
+      "b) valoarea actualizată netă mai mare ca zero;",
+      "c) valoarea actualizată netă mai mică;",
+      "d) valoarea actualizată netă mai mare;",
+      "e) valoarea actualizată netă egală cu zero."
+    ],
+    "correct": "d) valoarea actualizată netă mai mare;"
+  },
+  {
+    "question": "10. Ţinând cont de faptul că finanţarea investiţiilor se realizează atât din capitaluri proprii cât şi din capitaluri împrumutate, se recomandă folosirea ca rată de actualizare a:",
+    "answers": [
+      "a) ratei inflaţiei;",
+      "b) ratei rentabilităţii fără risc;",
+      "c) ratei medii de rentabilitate din sectorul de activitate;",
+      "d) ratei dobânzii la obligaţiunile de stat;",
+      "e) costului mediu ponderat al capitalului investit."
+    ],
+    "correct": "e) costului mediu ponderat al capitalului investit;"
+  },
+  {
+    "question": "11. Rata internă de rentabilitate trebuie să fie superioară:",
+    "answers": [
+      "a) ratei dobânzii fără risc pe piaţa financiară;",
+      "b) ratei inflaţiei;",
+      "c) ratei medii de rentabilitate din sectorul de activitate;",
+      "d) costului mediu ponderat al capitalului investit;",
+      "e) costului de oportunitate."
+    ],
+    "correct": "d) costului mediu ponderat al capitalului investit;"
+  },
+  {
+    "question": "12. Constituie modalitate de îndatorare pe termen scurt următoarele:",
+    "answers": [
+      "a) creditul bancar pe termen mediu şi lung;",
+      "b) creditul bancar pe termen scurt;",
+      "c) leasingul;",
+      "d) creditul obligatar;",
+      "e) emisiunea de obligațiuni corporatiste."
+    ],
+    "correct": "b) creditul bancar pe termen scurt;"
+  },
+  {
+    "question": "13. Decizia de finanţare, care stă la baza formării capitalului firmei, este, în cea mai mare parte, asumată de:",
+    "answers": [
+      "a) furnizorii de capitaluri;",
+      "b) salariaţi;",
+      "c) conducerea firmei;",
+      "d) acţionari;",
+      "e) creditori."
+    ],
+    "correct": "c) conducerea firmei;"
+  },
+  {
+    "question": "14. Capitalurile permanente cuprind:",
+    "answers": [
+      "a) capitalurile proprii plus datoriile pe termen mediu şi lung;",
+      "b) capitalurile proprii plus datoriile pe termen scurt;",
+      "c) capitalurile proprii minus datoriile pe termen mediu şi lung;",
+      "d) capitalurile proprii minus datoriile pe termen scurt;",
+      "e) capitalurile proprii plus capitalul social."
+    ],
+    "correct": "a) capitalurile proprii plus datoriile pe termen mediu şi lung;"
+  },
+  {
+    "question": "15. Printre factorii de care depinde dimensiunea costului capitalului propriu nu regăsim:",
+    "answers": [
+      "a) câştigul de capital;",
+      "b) preţul curent de piaţă al acţiunii;",
+      "c) rata rentabilităţii fără risc;",
+      "d) încorporarea de rezerve sau profituri nerepartizate;",
+      "e) riscurile asumate de investitor."
+    ],
+    "correct": "d) încorporarea de rezerve sau profituri nerepartizate;"
+  },
+  {
+    "question": "16. Modelul de evaluare a activelor financiare evidenţiază legătura dintre:",
+    "answers": [
+      "a) nivelul rentabilităţii şi nivelul riscului;",
+      "b) capitalul propriu şi capitalul împrumutat;",
+      "c) nivelul dividendului şi preţul curent al acţiunii;",
+      "d) capitalul social şi capitalul permanent;",
+      "e) activele circulante şi activele imobilizate."
+    ],
+    "correct": "a) nivelul rentabilităţii şi nivelul riscului;"
+  },
+  {
+    "question": "17. Prima de risc a pieţei se determină ca:",
+    "answers": [
+      "a) diferenţă între rata rentabilităţii medii pe piaţa financiară şi rata fără risc;",
+      "b) diferenţă între capitalul propriu şi capitalul împrumutat;",
+      "c) diferenţă între dividend şi preţul curent al acţiunii;",
+      "d) sumă între rata rentabilităţii medii pe piaţa financiară şi rata fără risc;",
+      "e) sumă între capitalul social şi capitalul permanent."
+    ],
+    "correct": "a) diferenţă între rata rentabilităţii medii pe piaţa financiară şi rata fără risc;"
+  },
+  {
+    "question": "18. Prima de risc a investiţiei se determină ca:",
+    "answers": [
+      "a) diferenţă între rata rentabilităţii medii pe piaţa financiară şi rata fără risc;",
+      "b) diferenţă între capitalul propriu şi capitalul împrumutat;",
+      "c) produs între coeficientul de sensibilitate şi prima de risc a pieţei;",
+      "d) produs între coeficientul de sensibilitate şi rata costului capitalului propriu;",
+      "e) produs între rata costului capitalului propriu şi prima de risc a pieţei."
+    ],
+    "correct": "c) produs între coeficientul de sensibilitate şi prima de risc a pieţei;"
+  },
+  {
+    "question": "19. Modelul de determinare a costului capitalurilor proprii care ţine seama de risc într-o manieră explicită este:",
+    "answers": [
+      "a) modelul creşterii zero a dividendelor;",
+      "b) modelul creşterii multiple;",
+      "c) modelul lui Gordon şi Shapiro;",
+      "d) modelul creşterii constante a dividendelor;",
+      "e) modelul de evaluare a activelor financiare."
+    ],
+    "correct": "e) modelul de evaluare a activelor financiare;"
+  },
+  {
+    "question": "20. Prima de risc de exploatare se determină conform relaţiei:",
+    "answers": [
+      "a) βa · (RM + RF);",
+      "b) βa · (RM - RF);",
+      "c) βa(1+T) · C/D · (RM - RF);",
+      "d) βa(1-T) · C/D · (RM + RF);",
+      "e) βa(1-T) · C/D · (RM - RF)."
+    ],
+    "correct": "b) βa · (RM - RF);"
+  },
+  {
+    "question": "21. Prima de risc de financiar se determină conform relaţiei:",
+    "answers": [
+      "a) βa · (RM + RF);",
+      "b) βa · (RM - RF);",
+      "c) βa(1+T) · C/D · (RM - RF);",
+      "d) βa(1-T) · C/D · (RM + RF);",
+      "e) βa(1-T) · C/D · (RM - RF)."
+    ],
+    "correct": "e) βa(1-T) · C/D · (RM - RF);"
+  },
+  {
+    "question": "22. Într-o optică financiară, noţiunea de cost corespunde:",
+    "answers": [
+      "a) cheltuielilor suportate de firmă ca urmare a recurgerii la împrumuturi;",
+      "b) unei rate de actualizare;",
+      "c) unei rate de capitalizare;",
+      "d) cheltuielilor firmei cu furnizorii;",
+      "e) cheltuielilor firmei cu salariaţii."
+    ],
+    "correct": "b) unei rate de actualizare;"
+  },
+  {
+    "question": "23. Costul actualizat al împrumuturilor este dat de:",
+    "answers": [
+      "a) acea rată de actualizare care permite egalarea sumei datoriilor contractate cu anuităţile actualizate cu această rată;",
+      "b) acea rată de actualizare care permite egalarea sumei datoriilor contractate cu anuităţile actualizate;",
+      "c) acea rată de actualizare care permite egalarea sumei datoriilor contractate cu ratele creditului de rambursat actualizate cu această rată;",
+      "d) acea rată de actualizare care permite egalarea sumei datoriilor contractate cu dobânzile actualizate cu această rată;",
+      "e) acea rată de actualizare care permite egalarea sumei datoriilor contractate cu dobânzile actualizate."
+    ],
+    "correct": "a) acea rată de actualizare care permite egalarea sumei datoriilor contractate cu anuităţile actualizate cu această rată;"
+  },
+  {
+    "question": "24. În cadrul unui contract de leasing, locatarul trebuie să determine:",
+    "answers": [
+      "a) costul capitalului propriu;",
+      "b) ce chirie este necesară pentru a obţine o rată rezonabilă a rentabilităţii;",
+      "c) ce valoare reziduală este necesară pentru a obţine o rată rezonabilă a rentabilităţii;",
+      "d) economia de impozit;",
+      "e) dacă apelarea la leasing este mai puţin costisitoare decât apelarea la un credit bancar sau unul obligatar."
+    ],
+    "correct": "e) dacă apelarea la leasing este mai puţin costisitoare decât apelarea la un credit bancar sau unul obligatar;"
+  },
+  {
+    "question": "25. În cadrul unui contract de leasing, locatorul trebuie să decidă:",
+    "answers": [
+      "a) costul capitalului propriu;",
+      "b) ce chirie este necesară pentru a obţine o rată rezonabilă a rentabilităţii;",
+      "c) ce valoare reziduală este necesară pentru a obţine o rată rezonabilă a rentabilităţii;",
+      "d) economia de impozit;",
+      "e) dacă apelarea la leasing este mai puţin costisitoare decât apelarea la un credit bancar sau unul obligatar."
+    ],
+    "correct": "b) ce chirie este necesară pentru a obţine o rată rezonabilă a rentabilităţii;"
+  },
+  {
+    "question": "26. Atunci când dorim să determinăm costul capitalului unei firme trebuie să avem în vedere:",
+    "answers": [
+      "a) ce chirie este necesară pentru a obţine o rată rezonabilă a rentabilităţii;",
+      "b) modelul creşterii multiple;",
+      "c) economia de impozit;",
+      "d) modelul creşterii zero a dividendelor;",
+      "e) costul fiecărei surse de finanţare şi ponderea fiecăreia în totalul capitalurilor investite."
+    ],
+    "correct": "e) costul fiecărei surse de finanţare şi ponderea fiecăreia în totalul capitalurilor investite;"
+  },
+  {
+    "question": "27. Optimizarea structurii financiare se poate realiza prin:",
+    "answers": [
+      "a) modelul creşterii zero a dividendelor;",
+      "b) modelul creşterii multiple;",
+      "c) modelul lui Gordon şi Shapiro;",
+      "d) teoria lui Modigliani şi Miller şi analiza ratelor structurii financiare;",
+      "e) modelul de evaluare a activelor financiare."
+    ],
+    "correct": "d) teoria lui Modigliani şi Miller şi analiza ratelor structurii financiare;"
+  },
+  {
+    "question": "28. Rata de distribuire a profitului se determină ca:",
+    "answers": [
+      "a) sumă între dividendul pe acţiune şi profitul net pe acţiune;",
+      "b) raport între dividendul pe acţiune şi profitul net pe acţiune;",
+      "c) diferenţă între dividendul pe acţiune şi profitul net pe acţiune;",
+      "d) raport între profitul net pe acţiune şi dividendul pe acţiune;",
+      "e) produs între dividendul pe acţiune şi profitul net pe acţiune."
+    ],
+    "correct": "b) raport între dividendul pe acţiune şi profitul net pe acţiune;"
+  },
+  {
+    "question": "29. Se consideră o decizie de distribuire a dividendelor scăzută, dacă:",
+    "answers": [
+      "a) rata de distribuire este peste 60%;",
+      "b) rata de distribuire este peste 40%;",
+      "c) rata de distribuire este sub 60%;",
+      "d) rata de distribuire este sub 20%;",
+      "e) rata de distribuire este sub 10%."
+    ],
+    "correct": "d) rata de distribuire este sub 20%;"
+  },
+  {
+    "question": "30. Se consideră o decizie de distribuire a dividendelor puternică, dacă:",
+    "answers": [
+      "a) rata de distribuire este peste 60%;",
+      "b) rata de distribuire este peste 40%;",
+      "c) rata de distribuire este sub 60%;",
+      "d) rata de distribuire este sub 20%;",
+      "e) rata de distribuire este sub 10%."
+    ],
+    "correct": "a) rata de distribuire este peste 60%;"
+  }
+]

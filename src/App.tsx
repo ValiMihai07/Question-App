@@ -8,6 +8,9 @@ import {
 import { Box, Button, Container, Typography } from "@mui/material";
 import TestPage from "./components/test";
 import TestMama from "./components/testMama";
+import TestEM from "./components/TestEM";
+import TestDFF from "./components/TestDFF";
+import TestCTB from "./components/TestCTB";
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
@@ -22,6 +25,21 @@ const Home: React.FC = () => {
   ) => {
     e.preventDefault();
     navigate("/testDeciziiFinanciare");
+  };
+
+  const startCTB = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testCTB");
+  };
+
+  const startDFF = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testDFF");
+  };
+
+  const startEM = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testEM");
   };
 
   return (
@@ -49,6 +67,30 @@ const Home: React.FC = () => {
         >
           Test Deciziile Financiare ale Firmei
         </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startCTB}
+          sx={{ marginTop: 2 }}
+        >
+          Test CTB
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startDFF}
+          sx={{ marginTop: 2 }}
+        >
+          Test DFF
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startEM}
+          sx={{ marginTop: 2 }}
+        >
+          Test EM
+        </Button>
       </Box>
     </Container>
   );
@@ -61,6 +103,9 @@ const App: React.FC = () => {
         <Route path="/" element={<Home />} />
         <Route path="/test" element={<TestPage />} />
         <Route path="/testDeciziiFinanciare" element={<TestMama />} />
+        <Route path="/testCTB" element={<TestCTB />} />
+        <Route path="/testDFF" element={<TestDFF />} />
+        <Route path="/testEM" element={<TestEM />} />
       </Routes>
     </Router>
   );

@@ -1,0 +1,332 @@
+[
+  {
+    "question": "1. Care din urmatoarele afirmatii sunt corecte, cu privire la definirea sistemului monetar național:",
+    "answers": [
+      "a) ansamblul normelor legale și al instituțiilor care reglementează, organizează și supraveghează relațiile dintre oameni",
+      "b) un anumit mod de organizare și reglementare a circulației monetare dintr-o țară în baza unor legi speciale ale statului",
+      "c) modul de organizare și reglementare a circulației monetare la nivel internațional",
+      "d) ansamblul normelor legale care reglementează emisiunea unei monede unice"
+    ],
+    "correct": "b) un anumit mod de organizare și reglementare a circulației monetare dintr-o țară în baza unor legi speciale ale statului"
+  },
+  {
+    "question": "2. Care din elementele de mai jos nu se regăsesc la baza unui sistem monetar:",
+    "answers": [
+      "a) metalul monetar",
+      "b) unitatea monetară",
+      "c) valoarea paritară",
+      "d) emisiunea și baterea bacnotelor"
+    ],
+    "correct": "d) emisiunea și baterea bacnotelor"
+  },
+  {
+    "question": "3. Care din cele de mai jos nu constituie variantă a sistemului bimetalist?",
+    "answers": [
+      "a) bimetalismul integral",
+      "b) bimetalismul paralel",
+      "c) monometalism argint",
+      "d) bimetalism mixt"
+    ],
+    "correct": "c) monometalism argint"
+  },
+  {
+    "question": "4. Care din cele de mai jos nu constituie etapă a sistemului monometalist aur:",
+    "answers": [
+      "a) etalonul aur-monedă",
+      "b) etalonul aur-lingouri",
+      "c) etalonul aur-argint",
+      "d) etalonul aur-devize"
+    ],
+    "correct": "c) etalonul aur-argint"
+  },
+  {
+    "question": "5. Care din cele de mai jos reprezintă caracteristici ale etalonului aur-monedă:",
+    "answers": [
+      "a) definirea unității monetare în funcție de o monedă mai puternică, convertibilă în aur",
+      "b) convertibilitatea banonotelor în lingouri de aur",
+      "c) retragerea aurului din circulația internă",
+      "d) stabilirea prin lege a unui conținut în aur a unității monetare"
+    ],
+    "correct": "d) stabilirea prin lege a unui conținut în aur a unității monetare"
+  },
+  {
+    "question": "6. Care din cele de mai jos reprezintă inflație:",
+    "answers": [
+      "a) scăderea durabilă, pe termen lung a nivelului general al prețurilor",
+      "b) încetinirea durabilă și autoîntreținută a ritmului de creștere a nivelului general al prețurilor",
+      "c) creșterea relativ puternică și cumulativă a prețurilor și deprecierea monetară",
+      "d) creșterea sezonieră a prețurilor, în perioada sărbătorilor"
+    ],
+    "correct": "c) creșterea relativ puternică și cumulativă a prețurilor și deprecierea monetară"
+  },
+  {
+    "question": "7. Care din cele de mai jos reprezintă condiții pentru existența inflației:",
+    "answers": [
+      "a) prețurile internaționale cresc mai rapid decât cele naționale",
+      "b) creșterea prețurilor se generalizează fără perspective de stopare",
+      "c) creșterea prețurilor nu are efecte economice sau sociale patologice",
+      "d) prețurile naționale cresc mai rapid decât cele internaționale"
+    ],
+    "correct": "d) prețurile naționale cresc mai rapid decât cele internaționale"
+  },
+  {
+    "question": "8. Care din cele de mai jos nu reprezintă forme ale inflației:",
+    "answers": [
+      "a) hiperinflația",
+      "b) deflația",
+      "c) inflația moderată",
+      "d) inflația târâtoare"
+    ],
+    "correct": "b) deflația"
+  },
+  {
+    "question": "9. Care din cele de mai jos reprezintă cauze ale inflației?",
+    "answers": [
+      "a) redistribuirea veniturilor",
+      "b) incertitudinea în afaceri",
+      "c) excesul de cerere",
+      "d) înrăutățirea balanței de plăți externe"
+    ],
+    "correct": "c) excesul de cerere"
+  },
+  {
+    "question": "10. Cum poate fi măsurată inflația?",
+    "answers": [
+      "a) indicele acțiunilor",
+      "b) indicele prețurilor de consum",
+      "c) inflatorul PIB",
+      "d) indicele speranței de viață"
+    ],
+    "correct": "b) indicele prețurilor de consum"
+  },
+  {
+    "question": "11. Care din cele de mai jos nu reprezintă politici antiinflaționiste?",
+    "answers": [
+      "a) blocajul monetar",
+      "b) restrângerea cheltuielilor publice",
+      "c) blocajul veniturilor și costurilor salariale",
+      "d) creșterea cheltuielilor publice"
+    ],
+    "correct": "d) creșterea cheltuielilor publice"
+  },
+  {
+    "question": "12. Pentru a controla inflația statul poate acționa asupra:",
+    "answers": [
+      "a) viteza de rotație a banilor",
+      "b) oferta fizică de bunuri și servicii",
+      "c) masa monetară",
+      "d) cheltuielile din economie"
+    ],
+    "correct": "c) masa monetară"
+  },
+  {
+    "question": "13. Obiectivul fundamental al politicii monetare este:",
+    "answers": [
+      "a) creșterea economică durabilă",
+      "b) ocuparea deplină a forței de muncă",
+      "c) stabilitatea prețurilor",
+      "d) sustenabilitatea balanței de plăți"
+    ],
+    "correct": "c) stabilitatea prețurilor"
+  },
+  {
+    "question": "14. Care din cele de mai jos reprezintă obiective specifice ale politicii monetare:",
+    "answers": [
+      "a) creșterea economică durabilă",
+      "b) oferta de bani din economie",
+      "c) ocuparea deplină a forței de muncă",
+      "d) practicare unui nivel neoptim al cursului de schimb"
+    ],
+    "correct": "b) oferta de bani din economie"
+  },
+  {
+    "question": "15. Care din cele de mai jos reprezintă dezavantaje ale țintirii cursului de schimb?",
+    "answers": [
+      "a) ținerea inflației sub control prin corelarea nivelului inflației bunurilor comercializate pe plan internațional cu cea din țara ancorei nominale",
+      "b) poate duce la speculații care pot genera dezechilibre economice",
+      "c) oferă o regulă automată pentru politica monetară",
+      "d) utilizează o politică expansionistă când există tendința de apreciere a monedei și o politică restrânsă când există o tendință de depreciere"
+    ],
+    "correct": "b) poate duce la speculații care pot genera dezechilibre economice"
+  },
+  {
+    "question": "16. Care din cele de mai jos reprezintă dezavantaje ale țintirii agregatelor monetare?",
+    "answers": [
+      "a) alternativă simplă la țintirea cursului de schimb",
+      "b) revizuirea periodică a țintelor intermediare conduc la adaptarea la țintele finale",
+      "c) este compatibil cu cursurile flotante",
+      "d) implică o volatilitate ridicată a ratei dobânzii"
+    ],
+    "correct": "d) implică o volatilitate ridicată a ratei dobânzii"
+  },
+  {
+    "question": "17. Care din cele de mai jos reprezintă dezavantaje ale țintirii inflației:",
+    "answers": [
+      "a) poate fi ușor înțeleasă de public",
+      "b) evidențiază intervenția băncii centrale în economie pe termen lung și efectele țintite",
+      "c) reduce presiunile politice asupra Băncii Centrale",
+      "d) presupune utilizarea unui indicator întârziat"
+    ],
+    "correct": "d) presupune utilizarea unui indicator întârziat"
+  },
+  {
+    "question": "18. Care din cele de mai jos sunt instrumente indirecte de politică monetară?",
+    "answers": [
+      "a) rezervele minime obligatorii",
+      "b) controlul creditelor",
+      "c) controlul ratei dobânzii",
+      "d) controlul valutar"
+    ],
+    "correct": "a) rezervele minime obligatorii"
+  },
+  {
+    "question": "19. Printre caracteristicile utilizării ratei rezervelor minime obligatorii sunt:",
+    "answers": [
+      "a) este de obicei de mare amploare",
+      "b) se utilizează foarte frecvent",
+      "c) este generator de instabilitate financiară şi monetară",
+      "d) poate contracara sistematic oscilaţiile conjuncturale ale economiei"
+    ],
+    "correct": "c) este generator de instabilitate financiară şi monetară"
+  },
+  {
+    "question": "20. Care din cele de mai jos nu sunt operaţiuni de open-market:",
+    "answers": [
+      "a) vânzări-cumparări ferme",
+      "b) vânzări-cumpărări repo",
+      "c) vânzări-cumpărări fără termen",
+      "d) vânzări-cumparări cu clauză de răscumpărare"
+    ],
+    "correct": "c) vânzări-cumpărări fără termen"
+  },
+  {
+    "question": "21. Din punct de vedere al calităţii creditorului, creditul poate fi diferenţiat în mai multe categorii. Alegeţi din cele menţionate pe cele reale:",
+    "answers": [
+      "a) credit de producţie",
+      "b) credit de consumaţie",
+      "c) credit bancar",
+      "d) credit comercial"
+    ],
+    "correct": "c) credit bancar, d) credit comercial"
+  },
+  {
+    "question": "22. În funcţie de criteriul întinderea drepturilor creditorului, creditul poate fi diferenţiat în:",
+    "answers": [
+      "a) credit simplu",
+      "b) credit de acceptaţiune",
+      "c) credit denunţabil",
+      "d) credit legat"
+    ],
+    "correct": "c) credit denunţabil, d) credit legat"
+  },
+  {
+    "question": "23. Abordând creditul în funcţie de modalităţile de rambursare a sumelor împrumutate, putem întâlni:",
+    "answers": [
+      "a) credit amortizabil",
+      "b) credit de acceptaţiune",
+      "c) credit pe termen scurt",
+      "d) credit neamortizabil"
+    ],
+    "correct": "a) credit amortizabil, d) credit neamortizabil"
+  },
+  {
+    "question": "24. Din punct de vedere al modului de garantare, putem distinge următoarele categorii ale creditului:",
+    "answers": [
+      "a) credit pe termen scurt",
+      "b) credit comercial",
+      "c) credit real",
+      "d) credit personal"
+    ],
+    "correct": "c) credit real, d) credit personal"
+  },
+  {
+    "question": "25. În calitatea sa de componentă a mecanismului economic de ansamblu, creditul îndeplinește, în cadrul acestuia, mai multe funcții, dintre care, mai semnificative, pot fi menționate:",
+    "answers": [
+      "a) funcția de producție",
+      "b) funcția de circulație",
+      "c) funcția de emisiune",
+      "d) funcția de redistribuire a capitalurilor"
+    ],
+    "correct": "c) funcția de emisiune, d) funcția de redistribuire a capitalurilor"
+  },
+  {
+    "question": "26. Prin noțiunea de dobândă se desemnează:",
+    "answers": [
+      "a) acea parte din valoarea nou creată încasată de debitor drept preț al capitalului de împrumut temporar cedat",
+      "b) prețul plătit de debitor creditorului său pentru dreptul de folosință a capitalului împrumutat",
+      "c) prețul plătit de creditor debitorului său pentru dreptul de folosință a capitalului împrumutat",
+      "d) prețul plătit de stat debitorului său pentru dreptul de folosință a capitalului împrumutat"
+    ],
+    "correct": "b) prețul plătit de debitor creditorului său pentru dreptul de folosință a capitalului împrumutat"
+  },
+  {
+    "question": "27. Sistemul European al Băncilor Centrale (SEBC) cuprinde:",
+    "answers": [
+      "a) Banca Centrală Europeană (BCE) și băncile centrale ale țărilor membre ale UE",
+      "b) Banca Centrală Europeană (BCE)",
+      "c) Bănci de afaceri",
+      "d) Băncile centrale europene"
+    ],
+    "correct": "a) Banca Centrală Europeană (BCE) și băncile centrale ale țărilor membre ale UE"
+  },
+  {
+    "question": "28. Care este cea mai veche bancă centrală din lume:",
+    "answers": [
+      "a) Banca Angliei",
+      "b) Riksbank (Banca Regală) din Suedia",
+      "c) FED",
+      "d) BNR"
+    ],
+    "correct": "b) Riksbank (Banca Regală) din Suedia"
+  },
+  {
+    "question": "29. Serviciul datoriei în cazul analizei performanței economico-financiare finale a împrumutatului va fi apreciat ca:",
+    "answers": [
+      "a) bun, slab și necorespunzător",
+      "b) excelent, suficient și insuficient",
+      "c) foarte bun, bunișor și prost",
+      "d) cel mai bun, bun și necorespunzător"
+    ],
+    "correct": "a) bun, slab și necorespunzător"
+  },
+  {
+    "question": "30. Sistemul bancar național este constituit, de regulă, pe trei paliere:",
+    "answers": [
+      "a) Banca centrală, băncile comerciale și băncile și instituțiile de credit specializate",
+      "b) Banca băncilor și băncile de afaceri",
+      "c) Banca tutelară și băncile mici",
+      "d) Băncile de investiții și băncile internaționale"
+    ],
+    "correct": "a) Banca centrală, băncile comerciale și băncile și instituțiile de credit specializate"
+  },
+  {
+    "question": "31. Independența unei bănci centrale este garantată atunci când următoarele trei condiții sunt îndeplinite:",
+    "answers": [
+      "a) independența operațională, independența guvernatorilor și independența financiară",
+      "b) independența matrimonială și independența pecuniară",
+      "c) independența convergentă și independența tangențială",
+      "d) niciuna dintre variantele de mai sus nu este corectă"
+    ],
+    "correct": "a) independența operațională, independența guvernatorilor și independența financiară"
+  },
+  {
+    "question": "32. Obiectivul fundamental al Sistemului European al Băncilor Centrale este:",
+    "answers": [
+      "a) creșterea economică",
+      "b) menținerea stabilității prețurilor în zona euro",
+      "c) politica fiscală",
+      "d) politicile economice"
+    ],
+    "correct": "b) menținerea stabilității prețurilor în zona euro"
+  },
+  {
+    "question": "33. Afirmația: „Banca Centrală Europeană este singura entitate abilitată să emită bancnote denominate în euro, în timp ce băncile centrale naționale sunt împuternicite să bată moneda metalică în euro, în limitele aprobate de Banca Centrală Europeană” este:",
+    "answers": [
+      "a) falsă",
+      "b) adevărată",
+      "c) posibil falsă",
+      "d) niciuna dintre variante nu este corectă"
+    ],
+    "correct": "b) adevărată"
+  }
+]
