@@ -1,0 +1,442 @@
+[
+  {
+    "question": "1. Cheltuielile sunt:",
+    "answers": [
+      "a) sume sau valori achitate de entitate;",
+      "b) diminuări ale beneficiilor economice;",
+      "c) datorii ale entității;",
+      "d) plăți făcute în avans;",
+      "e) pierderi anticipate."
+    ],
+    "correct": "b) diminuări ale beneficiilor economice;"
+  },
+  {
+    "question": "2. Contabilitatea de gestiune este organizată:",
+    "answers": [
+      "a) obligatoriu, după norme unitare;",
+      "b) opțional, în funcție de opțiunea societății;",
+      "c) după reguli impuse de MFP;",
+      "d) numai în instituții publice;",
+      "e) după reguli internaționale."
+    ],
+    "correct": "b) opțional, în funcție de opțiunea societății;"
+  },
+  {
+    "question": "3. Cheltuielile efective reprezintă:",
+    "answers": [
+      "a) cheltuieli angajate;",
+      "b) cheltuieli previzionate;",
+      "c) cheltuieli plătite;",
+      "d) cheltuieli înregistrate în contabilitate;",
+      "e) cheltuieli estimate."
+    ],
+    "correct": "d) cheltuieli înregistrate în contabilitate;"
+  },
+  {
+    "question": "4. Care din următoarele costuri nu face parte din costul de achiziție?",
+    "answers": [
+      "a) costul de transport;",
+      "b) taxe nerecuperabile;",
+      "c) comisioane;",
+      "d) costuri de depozitare după achiziție;",
+      "e) taxe vamale."
+    ],
+    "correct": "d) costuri de depozitare după achiziție;"
+  },
+  {
+    "question": "5. Care din următoarele elemente nu reprezintă un cost efectiv?",
+    "answers": [
+      "a) cheltuieli cu materiile prime;",
+      "b) cheltuieli indirecte de producție;",
+      "c) pierderi tehnologice normale;",
+      "d) rabaturi comerciale;",
+      "e) cheltuieli cu amortizarea utilajelor."
+    ],
+    "correct": "d) rabaturi comerciale;"
+  },
+  {
+    "question": "6. Costul unitar al produsului se determină:",
+    "answers": [
+      "a) prin însumarea costurilor indirecte;",
+      "b) prin împărțirea costului total la cantitatea produsă;",
+      "c) pe baza facturii;",
+      "d) pe baza TVA;",
+      "e) pe baza adaosului comercial."
+    ],
+    "correct": "b) prin împărțirea costului total la cantitatea produsă;"
+  },
+  {
+    "question": "7. Costul standard este:",
+    "answers": [
+      "a) costul realizat;",
+      "b) costul bugetat;",
+      "c) costul efectiv;",
+      "d) costul contabil;",
+      "e) costul normalizat."
+    ],
+    "correct": "b) costul bugetat;"
+  },
+  {
+    "question": "8. Care din următoarele este un cost variabil?",
+    "answers": [
+      "a) amortizarea;",
+      "b) chiria;",
+      "c) salariile directe;",
+      "d) salariile indirecte;",
+      "e) dobânzile bancare."
+    ],
+    "correct": "c) salariile directe;"
+  },
+  {
+    "question": "9. Un cost fix este:",
+    "answers": [
+      "a) salariul muncitorilor;",
+      "b) energia consumată;",
+      "c) chiria lunară;",
+      "d) materiile prime;",
+      "e) comisioanele."
+    ],
+    "correct": "c) chiria lunară;"
+  },
+  {
+    "question": "10. Repartizarea cheltuielilor indirecte pe purtători de cost se face:",
+    "answers": [
+      "a) proporțional cu salariile directe;",
+      "b) proporțional cu volumul producției;",
+      "c) prin metode specifice;",
+      "d) în mod arbitrar;",
+      "e) proporțional cu valoarea materiei prime."
+    ],
+    "correct": "c) prin metode specifice;"
+  },
+  {
+    "question": "11. Costul de producție include:",
+    "answers": [
+      "a) doar cheltuieli directe;",
+      "b) doar cheltuieli indirecte;",
+      "c) cheltuieli directe și indirecte;",
+      "d) doar costuri fixe;",
+      "e) doar costuri variabile."
+    ],
+    "correct": "c) cheltuieli directe și indirecte;"
+  },
+  {
+    "question": "12. Care din următoarele nu este un cost de producție?",
+    "answers": [
+      "a) cheltuieli cu materiile prime;",
+      "b) salariile directe;",
+      "c) amortizarea utilajelor;",
+      "d) cheltuieli cu vânzarea;",
+      "e) utilitățile fabricii."
+    ],
+    "correct": "d) cheltuieli cu vânzarea;"
+  },
+  {
+    "question": "13. În contabilitatea de gestiune, costul complet include:",
+    "answers": [
+      "a) doar cheltuieli directe;",
+      "b) cheltuieli directe și indirecte;",
+      "c) doar cheltuieli administrative;",
+      "d) doar costuri comerciale;",
+      "e) doar profitul."
+    ],
+    "correct": "b) cheltuieli directe și indirecte;"
+  },
+  {
+    "question": "14. În analiza cost-volum-profit, punctul critic reprezintă:",
+    "answers": [
+      "a) volumul maxim de producție;",
+      "b) volumul minim vândut;",
+      "c) nivelul la care profitul este zero;",
+      "d) nivelul optim al profitului;",
+      "e) nivelul de lichiditate."
+    ],
+    "correct": "c) nivelul la care profitul este zero;"
+  },
+  {
+    "question": "15. Care dintre următoarele reprezintă un centru de cost?",
+    "answers": [
+      "a) clientul;",
+      "b) contul bancar;",
+      "c) departamentul de producție;",
+      "d) mașina de transport;",
+      "e) stocul de produse finite."
+    ],
+    "correct": "c) departamentul de producție;"
+  },
+  {
+    "question": "16. Marja pe cost variabil este:",
+    "answers": [
+      "a) diferența dintre cost total și cost fix;",
+      "b) diferența dintre prețul de vânzare și costul variabil;",
+      "c) profitul brut;",
+      "d) cheltuieli de producție;",
+      "e) adaosul comercial."
+    ],
+    "correct": "b) diferența dintre prețul de vânzare și costul variabil;"
+  },
+  {
+    "question": "17. Care este formula generală a punctului critic?",
+    "answers": [
+      "a) cheltuieli fixe / (preț - cost variabil unitar);",
+      "b) venituri - cheltuieli;",
+      "c) cost total / producție;",
+      "d) profit / venituri;",
+      "e) preț unitar / cheltuieli totale."
+    ],
+    "correct": "a) cheltuieli fixe / (preț - cost variabil unitar);"
+  },
+  {
+    "question": "18. Care dintre următoarele nu este un cost direct?",
+    "answers": [
+      "a) salarii muncitori operativi;",
+      "b) energie consumată de utilaje;",
+      "c) amortizare utilaje;",
+      "d) chirie birouri administrative;",
+      "e) materii prime."
+    ],
+    "correct": "d) chirie birouri administrative;"
+  },
+  {
+    "question": "19. În cadrul metodei pe comenzi, costul unitar se determină:",
+    "answers": [
+      "a) la sfârșitul lunii;",
+      "b) în funcție de stocuri;",
+      "c) după finalizarea comenzii;",
+      "d) în funcție de preț;",
+      "e) în funcție de profit."
+    ],
+    "correct": "c) după finalizarea comenzii;"
+  },
+  {
+    "question": "20. În metoda standard-cost, abaterile de preț și de consum se determină:",
+    "answers": [
+      "a) lunar;",
+      "b) anual;",
+      "c) după închiderea exercițiului;",
+      "d) prin comparație între standard și realizat;",
+      "e) arbitrar."
+    ],
+    "correct": "d) prin comparație între standard și realizat;"
+  },
+  {
+    "question": "21. Care dintre următoarele elemente nu influențează costul de producție?",
+    "answers": [
+      "a) salariile muncitorilor;",
+      "b) dobânzile bancare pentru credite comerciale;",
+      "c) consumul de materii prime;",
+      "d) amortizarea echipamentelor;",
+      "e) utilitățile folosite în procesul de fabricație."
+    ],
+    "correct": "b) dobânzile bancare pentru credite comerciale;"
+  },
+  {
+    "question": "22. Metoda pe faze se aplică în cazul:",
+    "answers": [
+      "a) producției unicat;",
+      "b) prestărilor de servicii;",
+      "c) producției de serie mare;",
+      "d) comerțului cu amănuntul;",
+      "e) activităților financiare."
+    ],
+    "correct": "c) producției de serie mare;"
+  },
+  {
+    "question": "23. Costul de producție al produselor finite include:",
+    "answers": [
+      "a) doar costuri de distribuție;",
+      "b) doar cheltuieli generale;",
+      "c) cheltuieli de producție directe și indirecte;",
+      "d) doar cheltuieli administrative;",
+      "e) cheltuieli de marketing."
+    ],
+    "correct": "c) cheltuieli de producție directe și indirecte;"
+  },
+  {
+    "question": "24. Costul unitar standard este utilizat pentru:",
+    "answers": [
+      "a) determinarea profitului net;",
+      "b) fundamentarea prețului;",
+      "c) închiderea conturilor;",
+      "d) analiza bilanțului;",
+      "e) calculul amortizării."
+    ],
+    "correct": "b) fundamentarea prețului;"
+  },
+  {
+    "question": "25. În metoda pe comenzi, comanda reprezintă:",
+    "answers": [
+      "a) o perioadă de timp;",
+      "b) un client;",
+      "c) o unitate de produs;",
+      "d) o entitate financiară;",
+      "e) o locație de producție."
+    ],
+    "correct": "c) o unitate de produs;"
+  },
+  {
+    "question": "26. Care este obiectivul principal al contabilității de gestiune?",
+    "answers": [
+      "a) întocmirea bilanțului;",
+      "b) evidența creanțelor;",
+      "c) determinarea costurilor și luarea deciziilor;",
+      "d) calculul impozitului pe profit;",
+      "e) raportarea către ANAF."
+    ],
+    "correct": "c) determinarea costurilor și luarea deciziilor;"
+  },
+  {
+    "question": "27. În metoda pe faze, costul se calculează:",
+    "answers": [
+      "a) global, pe fiecare fază;",
+      "b) individual, pe produs;",
+      "c) doar pe total lună;",
+      "d) pe client;",
+      "e) pe conturi de gestiune."
+    ],
+    "correct": "a) global, pe fiecare fază;"
+  },
+  {
+    "question": "28. În analiza cost-volum-profit, linia rentabilității absolute este:",
+    "answers": [
+      "a) punctul de echilibru;",
+      "b) cifra de afaceri;",
+      "c) costul variabil;",
+      "d) profitul operațional;",
+      "e) cheltuiala fixă totală."
+    ],
+    "correct": "a) punctul de echilibru;"
+  },
+  {
+    "question": "29. În cazul abaterilor de consum la materiale, diferența între standard și efectiv se înregistrează:",
+    "answers": [
+      "a) în contabilitatea financiară;",
+      "b) în conturi extrabilanțiere;",
+      "c) în contabilitatea de gestiune;",
+      "d) în raportul de audit;",
+      "e) la calculul amortizării."
+    ],
+    "correct": "c) în contabilitatea de gestiune;"
+  },
+  {
+    "question": "30. Costul marginal reprezintă:",
+    "answers": [
+      "a) costul total al producției;",
+      "b) costul mediu;",
+      "c) costul aferent unei unități suplimentare produse;",
+      "d) cheltuiala cu forța de muncă;",
+      "e) cheltuiala cu amortizarea."
+    ],
+    "correct": "c) costul aferent unei unități suplimentare produse;"
+  },
+  {
+    "question": "31. În metoda pe comenzi, toate cheltuielile directe se înregistrează:",
+    "answers": [
+      "a) în mod proporțional cu producția;",
+      "b) direct pe comanda respectivă;",
+      "c) în conturi extrabilanțiere;",
+      "d) pe produse standardizate;",
+      "e) pe centre de profit."
+    ],
+    "correct": "b) direct pe comanda respectivă;"
+  },
+  {
+    "question": "32. Care dintre următoarele elemente este considerat cheltuială variabilă?",
+    "answers": [
+      "a) amortizarea utilajelor;",
+      "b) chiria spațiului;",
+      "c) salariile indirecte fixe;",
+      "d) materiile prime;",
+      "e) asigurările de bunuri."
+    ],
+    "correct": "d) materiile prime;"
+  },
+  {
+    "question": "33. Cheltuielile indirecte fixe:",
+    "answers": [
+      "a) se modifică în funcție de volumul producției;",
+      "b) sunt costuri nule în lipsa producției;",
+      "c) rămân constante pe termen scurt;",
+      "d) sunt proporționale cu materiile prime;",
+      "e) se alocă doar la sfârșit de an."
+    ],
+    "correct": "c) rămân constante pe termen scurt;"
+  },
+  {
+    "question": "34. În sistemul contabilității de gestiune, cheltuielile sunt clasificate după:",
+    "answers": [
+      "a) natura juridică;",
+      "b) proveniența fondurilor;",
+      "c) destinația în procesul de fabricație;",
+      "d) politica fiscală;",
+      "e) valoarea de piață."
+    ],
+    "correct": "c) destinația în procesul de fabricație;"
+  },
+  {
+    "question": "35. Rentabilitatea economică se calculează ca raport între:",
+    "answers": [
+      "a) profitul brut și cifra de afaceri;",
+      "b) profitul net și activele totale;",
+      "c) cifra de afaceri și cheltuieli;",
+      "d) veniturile din exploatare și capitaluri proprii;",
+      "e) costul vânzărilor și profitul brut."
+    ],
+    "correct": "b) profitul net și activele totale;"
+  },
+  {
+    "question": "36. În analiza cost-volum-profit, marja de siguranță reprezintă:",
+    "answers": [
+      "a) profitul maxim posibil;",
+      "b) diferența dintre vânzări și costul fix;",
+      "c) diferența dintre cifra de afaceri și punctul de echilibru;",
+      "d) cheltuielile variabile totale;",
+      "e) rata de rentabilitate."
+    ],
+    "correct": "c) diferența dintre cifra de afaceri și punctul de echilibru;"
+  },
+  {
+    "question": "37. Costul complet include:",
+    "answers": [
+      "a) doar costuri directe;",
+      "b) doar cheltuieli variabile;",
+      "c) cheltuieli directe și indirecte fixe și variabile;",
+      "d) cheltuieli financiare;",
+      "e) amortizări și provizioane."
+    ],
+    "correct": "c) cheltuieli directe și indirecte fixe și variabile;"
+  },
+  {
+    "question": "38. În cazul abaterilor de preț la materiale, diferențele între costul standard și cel efectiv se înregistrează:",
+    "answers": [
+      "a) la furnizori;",
+      "b) în contul de stocuri;",
+      "c) în contabilitatea de gestiune;",
+      "d) în contabilitatea financiară;",
+      "e) în conturile de profit și pierdere."
+    ],
+    "correct": "c) în contabilitatea de gestiune;"
+  },
+  {
+    "question": "39. Care este scopul principal al costului standard?",
+    "answers": [
+      "a) obținerea bilanțului contabil;",
+      "b) fundamentarea deciziilor manageriale;",
+      "c) calculul impozitelor;",
+      "d) stabilirea cheltuielilor financiare;",
+      "e) înregistrarea veniturilor."
+    ],
+    "correct": "b) fundamentarea deciziilor manageriale;"
+  },
+  {
+    "question": "40. În metoda pe faze, repartizarea cheltuielilor indirecte se face:",
+    "answers": [
+      "a) pe fiecare produs finit;",
+      "b) în mod egal pe faze;",
+      "c) proporțional cu cheltuielile directe;",
+      "d) pe centre de cost;",
+      "e) în funcție de volumul de muncă."
+    ],
+    "correct": "c) proporțional cu cheltuielile directe;"
+  }
+]

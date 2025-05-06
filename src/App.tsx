@@ -9,6 +9,7 @@ import { Box, Button, Container, Typography } from "@mui/material";
 import TestPage from "./components/test";
 import TestMama from "./components/testMama";
 import TestEM from "./components/TestEM";
+import TestConta from "./components/TestConta";
 import TestDFF from "./components/TestDFF";
 import TestCTB from "./components/TestCTB";
 
@@ -40,6 +41,11 @@ const Home: React.FC = () => {
   const startEM = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     navigate("/testEM");
+  };
+
+  const startConta = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testConta");
   };
 
   return (
@@ -91,6 +97,14 @@ const Home: React.FC = () => {
         >
           Test EM
         </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startConta}
+          sx={{ marginTop: 2 }}
+        >
+          Test Conta
+        </Button>
       </Box>
     </Container>
   );
@@ -106,6 +120,7 @@ const App: React.FC = () => {
         <Route path="/testCTB" element={<TestCTB />} />
         <Route path="/testDFF" element={<TestDFF />} />
         <Route path="/testEM" element={<TestEM />} />
+        <Route path="/testConta" element={<TestConta />} />
       </Routes>
     </Router>
   );
