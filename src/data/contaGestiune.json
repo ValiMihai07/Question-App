@@ -8,7 +8,7 @@
       "d) calculul costurilor în scopul urmăririi contribuţiei activităţii desfăşurate la obţinerea rezultatelor;",
       "e) transmiterea informaţiilor către mediul exterior entităţii."
     ],
-    "correct": "d) calculul costurilor în scopul urmăririi contribuţiei activităţii desfăşurate la obţinerea rezultatelor ;"
+    "correct": "d) calculul costurilor în scopul urmăririi contribuţiei activităţii desfăşurate la obţinerea rezultatelor;"
   },
   {
     "question": "2. Din punct de vedere practic, costul de producţie este:",
@@ -30,7 +30,7 @@
       "d) supletive;",
       "e) directe şi indirecte."
     ],
-    "correct": "e) directe și indirecte."
+    "correct": "e) directe şi indirecte."
   },
   {
     "question": "4. Pentru a deveni element de cost, consumurile de valori trebuie să fie exprimate obligatoriu:",
@@ -63,7 +63,7 @@
       "d) purtători de costuri;",
       "e) producție în curs de execuție."
     ],
-    "correct": "d) purtători de costuri ;"
+    "correct": "d) purtători de costuri;"
   },
   {
     "question": "7. Procedeul reiterării se utilizează pentru:",
@@ -74,7 +74,7 @@
       "d) calculul costului unitar al producției finite;",
       "e) repartizarea cheltuielilor indirecte."
     ],
-    "correct": "c) decontarea prestaţiilor reciproce;"
+    "correct": "c) decontarea prestațiilor reciproce;"
   },
   {
     "question": "8. În condițiile producției sorto-tip și sorto-dimensionale, pentru calculul costului unitar se utilizează următoarele procedee:",
@@ -85,7 +85,7 @@
       "d) procedeul randamentelor;",
       "e) procedeul algebric."
     ],
-    "correct": "c) procedeul cifrelor de echivalenţă ;"
+    "correct": "c) procedeul cifrelor de echivalență;"
   },
   {
     "question": "9. Procedeul valorii rămase se utilizează pentru calculul costului unitar în cazul:",
@@ -107,7 +107,7 @@
       "d) analiza și estimarea evoluției costurilor;",
       "e) accelerarea progresului tehnic."
     ],
-    "correct": "d) analiza şi estimarea evoluţiei costurilor;"
+    "correct": "d) analiza și estimarea evoluției costurilor;"
   },
   {
     "question": "11. Obiectivul dominant al contabilității de gestiune este reprezentat de:",
@@ -118,7 +118,7 @@
       "d) punerea la dispoziția conducerii a informațiilor necesare luării deciziilor;",
       "e) determinarea profitului net contabil."
     ],
-    "correct": "b) calculaţia costurilor ;"
+    "correct": "b) calculația costurilor;"
   },
   {
     "question": "12. Privită în spațiu, producția conferă contabilității de gestiune, noțiunea de:",
@@ -151,7 +151,7 @@
       "d) documentaţiei primare;",
       "e) situaţiilor centralizatoare."
     ],
-    "correct": "c) tabloului de joncţiune ;"
+    "correct": "c) tabloului de joncţiune;"
   },
   {
     "question": "15. Ce reprezintă şi cum se înregistrează în contabilitatea de gestiune, diferenţa între costul de producţie de 2.000.000 lei şi costul complet (comercial) 2.500.000 lei, din care cheltuieli generale ale întreprinderii 400.000 lei:",
@@ -173,7 +173,7 @@
       "d) complexă;",
       "e) neeterogenă."
     ],
-    "correct": "c) omogenă ;"
+    "correct": "c) omogenă;"
   },
   {
     "question": "17. Care din procedeele enunţate mai jos sunt specifice repartizării cheltuielilor indirecte?",
@@ -184,7 +184,7 @@
       "d) procedeul valorii rămase;",
       "e) procedeul cifrelor relative de echivalenţă."
     ],
-    "correct": "b) procedeul suplimentării ;"
+    "correct": "b) procedeul suplimentării;"
   },
   {
     "question": "18. Cheltuielile de achiziţie se repartizează pe produse în funcţie de:",
@@ -217,7 +217,7 @@
       "d) calculul costului şi decontarea producţiei secţiilor auxiliare;",
       "e) separarea cheltuielilor în variabile şi fixe."
     ],
-    "correct": "b) evaluarea producţiei în curs de execuţie ;"
+    "correct": "b) evaluarea producţiei în curs de execuţie;"
   },
   {
     "question": "21. În raport de specificul procesului tehnologic, pentru calculul costului unitar se folosesc o serie de procedee specifice. Care din procedeele enunţate sunt eronate?",
@@ -228,7 +228,7 @@
       "d) procedeul cifrelor relative de structură;",
       "e) procedeul randamentelor."
     ],
-    "correct": "d) procedeul cifrelor relative de structură ;"
+    "correct": "d) procedeul cifrelor relative de structură;"
   },
   {
     "question": "22. Calculul costului unitar în condiţiile producţiei cuplate se realizează prin:",
@@ -327,6 +327,6 @@
       "d) capacitatea programată și capacitatea de structură;",
       "e) capacitatea nominală și capacitatea de structură."
     ],
-    "correct": "b) capacitatea reală şi capacitatea normală;"
+    "correct": "b) capacitatea reală și capacitatea normală;"
   }
 ]
