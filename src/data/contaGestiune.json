@@ -1,0 +1,332 @@
+[
+  {
+    "question": "1. Care din obiectivele enunţate mai jos aparţin contabilităţii de gestiune?",
+    "answers": [
+      "a) calculul rezultatelor în scopul repartizării acestora;",
+      "b) analiza diagnostic a întreprinderii;",
+      "c) stabilirea unei imagini fidele asupra patrimoniului şi rezultatelor întreprinderii;",
+      "d) calculul costurilor în scopul urmăririi contribuţiei activităţii desfăşurate la obţinerea rezultatelor;",
+      "e) transmiterea informaţiilor către mediul exterior entităţii."
+    ],
+    "correct": "d) calculul costurilor în scopul urmăririi contribuţiei activităţii desfăşurate la obţinerea rezultatelor ;"
+  },
+  {
+    "question": "2. Din punct de vedere practic, costul de producţie este:",
+    "answers": [
+      "a) expresia valorică a consumului celor trei factori de producţie;",
+      "b) acea parte a preţului de vânzare a unui bun economic care nu poate compensa cheltuielile suportate de unităţile economice pentru producerea şi vânzarea acelui bun;",
+      "c) expresia valorică a consumului de resurse;",
+      "d) expresia valorică a consumurilor de muncă vie şi materializată efectuate în scopul obţinerii unui produs, unei lucrări sau unui serviciu la un moment dat, consumuri care îmbracă forma cheltuielilor de producţie şi de desfacere suportate de întreprinzători;",
+      "e) totalitatea cheltuielilor de exploatare înregistrate în contabilitatea financiară şi preluate în contabilitatea de gestiune."
+    ],
+    "correct": "d) expresia valorică a consumurilor de muncă vie şi materializată efectuate în scopul obţinerii unui produs, unei lucrări sau unui serviciu la un moment dat, consumuri care îmbracă forma cheltuielilor de producţie şi de desfacere suportate de întreprinzători;"
+  },
+  {
+    "question": "3. Cheltuielile încorporabile care alcătuiesc structura costului de producţie se bazează pe separarea cheltuielilor în:",
+    "answers": [
+      "a) fixe;",
+      "b) directe;",
+      "c) variabile;",
+      "d) supletive;",
+      "e) directe şi indirecte."
+    ],
+    "correct": "e) directe și indirecte."
+  },
+  {
+    "question": "4. Pentru a deveni element de cost, consumurile de valori trebuie să fie exprimate obligatoriu:",
+    "answers": [
+      "a) în formă cantitativă;",
+      "b) cantitativ-valoric;",
+      "c) în formă bănească;",
+      "d) prin intermediul unui bon de consum;",
+      "e) nu contează forma de exprimare."
+    ],
+    "correct": "c) în formă bănească;"
+  },
+  {
+    "question": "5. Cheltuielile indirecte se grupează pe feluri de cheltuieli, după natura lor, astfel:",
+    "answers": [
+      "a) cheltuieli cu amortizările şi provizioanele;",
+      "b) cheltuieli cu amortizările aferente exploatării;",
+      "c) alte cheltuieli financiare;",
+      "d) cheltuieli cu materiile prime;",
+      "e) cheltuieli cu manopera directă."
+    ],
+    "correct": "b) cheltuieli cu amortizările aferente exploatării;"
+  },
+  {
+    "question": "6. Privită ca un rezultat concret material, producția conferă contabilității de gestiune noțiunea de:",
+    "answers": [
+      "a) produse finite;",
+      "b) produse reziduale;",
+      "c) semifabricate;",
+      "d) purtători de costuri;",
+      "e) producție în curs de execuție."
+    ],
+    "correct": "d) purtători de costuri ;"
+  },
+  {
+    "question": "7. Procedeul reiterării se utilizează pentru:",
+    "answers": [
+      "a) determinarea și delimitarea cheltuielilor pe locuri și pe purtători;",
+      "b) determinarea cantitativă și valorică a producției în curs de execuție;",
+      "c) decontarea prestațiilor reciproce;",
+      "d) calculul costului unitar al producției finite;",
+      "e) repartizarea cheltuielilor indirecte."
+    ],
+    "correct": "c) decontarea prestaţiilor reciproce;"
+  },
+  {
+    "question": "8. În condițiile producției sorto-tip și sorto-dimensionale, pentru calculul costului unitar se utilizează următoarele procedee:",
+    "answers": [
+      "a) procedeul diviziunii simple;",
+      "b) procedeul valorii rămase;",
+      "c) procedeul cifrelor de echivalență;",
+      "d) procedeul randamentelor;",
+      "e) procedeul algebric."
+    ],
+    "correct": "c) procedeul cifrelor de echivalenţă ;"
+  },
+  {
+    "question": "9. Procedeul valorii rămase se utilizează pentru calculul costului unitar în cazul:",
+    "answers": [
+      "a) produselor reziduale inutilizabile;",
+      "b) produselor reziduale utilizabile;",
+      "c) producției cuplate;",
+      "d) producției sorto-tip;",
+      "e) producției sorto-dimensionale."
+    ],
+    "correct": "b) produselor reziduale utilizabile;"
+  },
+  {
+    "question": "10. Oferind informațiile utile pentru diagnostic, luarea deciziilor și previzionarea viitorului, contabilitatea de gestiune, prin obiectul său de studiu, procedează la:",
+    "answers": [
+      "a) determinarea productivității muncii;",
+      "b) cunoașterea indicatorilor;",
+      "c) reducerea duratei medii de viață a produselor;",
+      "d) analiza și estimarea evoluției costurilor;",
+      "e) accelerarea progresului tehnic."
+    ],
+    "correct": "d) analiza şi estimarea evoluţiei costurilor;"
+  },
+  {
+    "question": "11. Obiectivul dominant al contabilității de gestiune este reprezentat de:",
+    "answers": [
+      "a) determinarea indicatorilor de eficiență ai gestiunii;",
+      "b) calculația costurilor;",
+      "c) elaborarea bugetelor pe feluri de activități, urmărirea și controlul acestora;",
+      "d) punerea la dispoziția conducerii a informațiilor necesare luării deciziilor;",
+      "e) determinarea profitului net contabil."
+    ],
+    "correct": "b) calculaţia costurilor ;"
+  },
+  {
+    "question": "12. Privită în spațiu, producția conferă contabilității de gestiune, noțiunea de:",
+    "answers": [
+      "a) centre de structură;",
+      "b) locuri de cheltuieli;",
+      "c) centre principale;",
+      "d) centre auxiliare;",
+      "e) centre operaționale."
+    ],
+    "correct": "b) locuri de cheltuieli;"
+  },
+  {
+    "question": "13. Unităţile de măsură convenţionale servesc la crearea omogenităţii convenţionale a producţiei în cazul:",
+    "answers": [
+      "a) producţiei de masă;",
+      "b) producţiei pe comenzi;",
+      "c) producţiei pe faze;",
+      "d) producţiei sorto-dimensionale;",
+      "e) producţiei de unicate."
+    ],
+    "correct": "d) producţiei sorto-dimensionale;"
+  },
+  {
+    "question": "14. Preluarea cheltuielilor încorporabile din contabilitatea financiară în contabilitatea de gestiune se realizează prin intermediul:",
+    "answers": [
+      "a) notei contabile;",
+      "b) notei de debitare-creditare;",
+      "c) tabloului de joncţiune;",
+      "d) documentaţiei primare;",
+      "e) situaţiilor centralizatoare."
+    ],
+    "correct": "c) tabloului de joncţiune ;"
+  },
+  {
+    "question": "15. Ce reprezintă şi cum se înregistrează în contabilitatea de gestiune, diferenţa între costul de producţie de 2.000.000 lei şi costul complet (comercial) 2.500.000 lei, din care cheltuieli generale ale întreprinderii 400.000 lei:",
+    "answers": [
+      "a) cheltuieli de desfacere 921 = 925;",
+      "b) profit 903 = 902;",
+      "c) cheltuieli de administraţie şi de 902 = % desfacere 924 925;",
+      "d) cheltuieli de administraţie şi de 921 = % desfacere 924 925;",
+      "e) cheltuieli generale de administraţie 921 = 924."
+    ],
+    "correct": "c) cheltuieli de administraţie şi de 902 = % desfacere 924 925;"
+  },
+  {
+    "question": "16. Sub aspectul organizării şi tehnologiei, producţia secţiilor auxiliare poate fi:",
+    "answers": [
+      "a) de serie;",
+      "b) individuală;",
+      "c) omogenă;",
+      "d) complexă;",
+      "e) neeterogenă."
+    ],
+    "correct": "c) omogenă ;"
+  },
+  {
+    "question": "17. Care din procedeele enunţate mai jos sunt specifice repartizării cheltuielilor indirecte?",
+    "answers": [
+      "a) procedeul diviziunii simple;",
+      "b) procedeul suplimentării;",
+      "c) procedeul cifrelor de echivalenţă;",
+      "d) procedeul valorii rămase;",
+      "e) procedeul cifrelor relative de echivalenţă."
+    ],
+    "correct": "b) procedeul suplimentării ;"
+  },
+  {
+    "question": "18. Cheltuielile de achiziţie se repartizează pe produse în funcţie de:",
+    "answers": [
+      "a) valoarea materialelor aprovizionate;",
+      "b) valoarea materialelor aflate în stoc;",
+      "c) valoarea materialelor consumate;",
+      "d) valoarea producţiei obţinute;",
+      "e) valoarea producţiei vândute."
+    ],
+    "correct": "c) valoarea materialelor consumate;"
+  },
+  {
+    "question": "19. Cheltuielile administrative şi financiare se repartizează pe produse proporţional cu:",
+    "answers": [
+      "a) costurile directe înregistrate;",
+      "b) salariile directe;",
+      "c) materialele directe;",
+      "d) cantităţile obţinute din fiecare tip;",
+      "e) costul de producţie determinat."
+    ],
+    "correct": "e) costul de producţie determinat."
+  },
+  {
+    "question": "20. Evaluarea forfetară, pe fiecare componentă a costului, este un procedeu specific pentru:",
+    "answers": [
+      "a) calculul costului în condiţiile obţinerii de produse reziduale;",
+      "b) evaluarea producţiei în curs de execuţie;",
+      "c) repartizarea cheltuielilor indirecte;",
+      "d) calculul costului şi decontarea producţiei secţiilor auxiliare;",
+      "e) separarea cheltuielilor în variabile şi fixe."
+    ],
+    "correct": "b) evaluarea producţiei în curs de execuţie ;"
+  },
+  {
+    "question": "21. În raport de specificul procesului tehnologic, pentru calculul costului unitar se folosesc o serie de procedee specifice. Care din procedeele enunţate sunt eronate?",
+    "answers": [
+      "a) procedeul diviziunii simple;",
+      "b) procedeul valorii rămase;",
+      "c) procedeul cifrelor de echivalenţă;",
+      "d) procedeul cifrelor relative de structură;",
+      "e) procedeul randamentelor."
+    ],
+    "correct": "d) procedeul cifrelor relative de structură ;"
+  },
+  {
+    "question": "22. Calculul costului unitar în condiţiile producţiei cuplate se realizează prin:",
+    "answers": [
+      "a) procedeul valorii rămase;",
+      "b) procedeul reiterării;",
+      "c) procedeul diviziunii simple;",
+      "d) procedeul cantitativ;",
+      "e) procedeul punctelor extreme."
+    ],
+    "correct": "d) procedeul cantitativ;"
+  },
+  {
+    "question": "23. Procedeul valorii rămase se utilizează pentru calculul costului unitar în cazul:",
+    "answers": [
+      "a) produselor reziduale inutilizabile;",
+      "b) produselor reziduale utilizabile;",
+      "c) producţiei cuplate;",
+      "d) producţiei sorto-tip;",
+      "e) producţiei sorto-dimensionale."
+    ],
+    "correct": "b) produselor reziduale utilizabile;"
+  },
+  {
+    "question": "24. Pentru transformarea producţiei secundare în produs principal se utilizează:",
+    "answers": [
+      "a) anumite mărimi variabile;",
+      "b) calcule tehnice de transformare;",
+      "c) procedeul reiterării;",
+      "d) procedeul valorii rămase;",
+      "e) nu se poate face transformarea."
+    ],
+    "correct": "b) calcule tehnice de transformare;"
+  },
+  {
+    "question": "25. Faza de calculaţie este definită ca fiind:",
+    "answers": [
+      "a) diviziune a procesului tehnologic delimitată din punct de vedere organizatoric;",
+      "b) expresia tehnico-economică a fazei de fabricaţie, caracterizată printr-un anumit specific al formării, calculării, analizei şi controlului costurilor;",
+      "c) o comandă lansată în fabricaţie pentru o anumită parte dintr-un produs;",
+      "d) un lot de produse aflate într-un anumit stadiu de fabricaţie;",
+      "e) expresia tehnico-economică a lanţului operaţiilor tehnologice."
+    ],
+    "correct": "b) expresia tehnico-economică a fazei de fabricaţie, caracterizată printr-un anumit specific al formării, calculării, analizei şi controlului costurilor;"
+  },
+  {
+    "question": "26. Metoda pe comenzi prezintă următoarele particularităţi determinate de specificul proceselor tehnologice:",
+    "answers": [
+      "a) implică determinarea şi evaluarea producţiei terminate;",
+      "b) are o singură variantă;",
+      "c) obiectul comenzii diferă, în raport de modul de organizare a producţiei;",
+      "d) purtătorul final este comanda, iar cel intermediar este produsul finit;",
+      "e) nu prezintă nici o particularitate."
+    ],
+    "correct": "c) obiectul comenzii diferă, în raport de modul de organizare a producţiei;"
+  },
+  {
+    "question": "27. Capacitatea normală de producție reprezintă:",
+    "answers": [
+      "a) nivelul de producție impus de atelierul sau secția cu cea mai scăzută capacitate de producție;",
+      "b) nivelul activității programat de întreprindere din diferite motive de ordin conjunctural;",
+      "c) nivelul activității realizat de întreprindere în raport de condițiile de desfășurare concretă a procesului de producție;",
+      "d) producția fizică exprimată în ore determinată prin diminuarea timpului calendaristic cu timpii aferenți întreruperilor personalului din lucru, cu întreruperile inevitabile aferente reparațiilor etc.;",
+      "e) numărul total de ore dacă întreprinderea ar lucra în \"foc continuu\"."
+    ],
+    "correct": "d) producția fizică exprimată în ore determinată prin diminuarea timpului calendaristic cu timpii aferenți întreruperilor personalului din lucru, cu întreruperile inevitabile aferente reparațiilor etc.;"
+  },
+  {
+    "question": "28. Capacitatea programată de producție reprezintă:",
+    "answers": [
+      "a) nivelul de producție impus de atelierul sau secția cu cea mai scăzută capacitate de producție;",
+      "b) nivelul activității programat de întreprindere din diferite motive de ordin conjunctural;",
+      "c) nivelul activității realizat de întreprindere în raport de condițiile de desfășurare concretă a procesului de producție;",
+      "d) producția fizică exprimată în ore determinată prin diminuarea timpului calendaristic cu timpii aferenți întreruperilor personalului din lucru, cu întreruperile inevitabile aferente reparațiilor etc.;",
+      "e) numărul total de ore dacă întreprinderea ar lucra în \"foc continuu\"."
+    ],
+    "correct": "b) nivelul activității programat de întreprindere din diferite motive de ordin conjunctural;"
+  },
+  {
+    "question": "29. Apariția costului subactivității se datorează faptului că:",
+    "answers": [
+      "a) nu au fost luate în calcul toate cheltuielile generate de desfășurarea normală a procesului de producție;",
+      "b) în costul de producție au fost incluse cheltuieli supletive;",
+      "c) în costul producției au fost incluse cheltuieli neeconomicoase;",
+      "d) unitatea este obligată să suporte costul echipamentelor prevăzute pentru un nivel de activitate care este insuficient în raport cu gradul de dotare a capacității de producție;",
+      "e) costul de producție a fost determinat în raport de capacitatea programată."
+    ],
+    "correct": "d) unitatea este obligată să suporte costul echipamentelor prevăzute pentru un nivel de activitate care este insuficient în raport cu gradul de dotare a capacității de producție;"
+  },
+  {
+    "question": "30. Coeficientul de imputare rațională se determină în funcție de:",
+    "answers": [
+      "a) capacitatea reală și capacitatea nominală;",
+      "b) capacitatea reală și capacitatea normală;",
+      "c) capacitatea programată și capacitatea normală;",
+      "d) capacitatea programată și capacitatea de structură;",
+      "e) capacitatea nominală și capacitatea de structură."
+    ],
+    "correct": "b) capacitatea reală şi capacitatea normală;"
+  }
+]

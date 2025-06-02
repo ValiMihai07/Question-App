@@ -12,6 +12,7 @@ import TestEM from "./components/TestEM";
 import TestConta from "./components/TestConta";
 import TestDFF from "./components/TestDFF";
 import TestCTB from "./components/TestCTB";
+import TestContaGestiune from "./components/TestContaGestiune";
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
@@ -46,6 +47,11 @@ const Home: React.FC = () => {
   const startConta = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     navigate("/testConta");
+  };
+
+  const startContaGestiune = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testContaGestiune");
   };
 
   return (
@@ -105,6 +111,14 @@ const Home: React.FC = () => {
         >
           Test Conta
         </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startContaGestiune}
+          sx={{ marginTop: 2 }}
+        >
+          Test Conta Gestiune
+        </Button>
       </Box>
     </Container>
   );
@@ -121,6 +135,7 @@ const App: React.FC = () => {
         <Route path="/testDFF" element={<TestDFF />} />
         <Route path="/testEM" element={<TestEM />} />
         <Route path="/testConta" element={<TestConta />} />
+        <Route path="/testContaGestiune" element={<TestContaGestiune />} />
       </Routes>
     </Router>
   );
