@@ -97,7 +97,7 @@
       "c) inflatorul PIB",
       "d) indicele speranței de viață"
     ],
-    "correct": "b) indicele prețurilor de consum"
+    "correct": "c) inflatorul PIB"
   },
   {
     "question": "11. Care din cele de mai jos nu reprezintă politici antiinflaționiste?",
@@ -207,7 +207,7 @@
       "c) credit bancar",
       "d) credit comercial"
     ],
-    "correct": "c) credit bancar, d) credit comercial"
+    "correct": ["c) credit bancar", "d) credit comercial"]
   },
   {
     "question": "22. În funcţie de criteriul întinderea drepturilor creditorului, creditul poate fi diferenţiat în:",
@@ -217,7 +217,7 @@
       "c) credit denunţabil",
       "d) credit legat"
     ],
-    "correct": "c) credit denunţabil, d) credit legat"
+    "correct": ["c) credit denunţabil", "d) credit legat"]
   },
   {
     "question": "23. Abordând creditul în funcţie de modalităţile de rambursare a sumelor împrumutate, putem întâlni:",
@@ -227,7 +227,7 @@
       "c) credit pe termen scurt",
       "d) credit neamortizabil"
     ],
-    "correct": "a) credit amortizabil, d) credit neamortizabil"
+    "correct": ["a) credit amortizabil", "d) credit neamortizabil"]
   },
   {
     "question": "24. Din punct de vedere al modului de garantare, putem distinge următoarele categorii ale creditului:",
@@ -237,7 +237,7 @@
       "c) credit real",
       "d) credit personal"
     ],
-    "correct": "c) credit real, d) credit personal"
+    "correct": ["c) credit real", "d) credit personal"]
   },
   {
     "question": "25. În calitatea sa de componentă a mecanismului economic de ansamblu, creditul îndeplinește, în cadrul acestuia, mai multe funcții, dintre care, mai semnificative, pot fi menționate:",
@@ -247,7 +247,10 @@
       "c) funcția de emisiune",
       "d) funcția de redistribuire a capitalurilor"
     ],
-    "correct": "c) funcția de emisiune, d) funcția de redistribuire a capitalurilor"
+    "correct": [
+      "c) funcția de emisiune",
+      "d) funcția de redistribuire a capitalurilor"
+    ]
   },
   {
     "question": "26. Prin noțiunea de dobândă se desemnează:",
