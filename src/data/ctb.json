@@ -19,7 +19,10 @@
       "d) sunt conducătorii instituţiilor publice cu personalitate juridică care utilizează creditele bugetare care le-au fost repartizate de ordonatorul terţiar de credite;",
       "e) sunt conducătorii instituţiilor publice fără personalitate juridică care utilizează creditele bugetare care le-au fost repartizate de ordonatorul principal de credite."
     ],
-    "correct": "a) repartizează creditele de angajament și creditele bugetare aprobate pentru bugetul propriu;"
+    "correct": [
+      "a) repartizează creditele de angajament și creditele bugetare aprobate pentru bugetul propriu;",
+      "b) repartizează creditele de angajament și creditele bugetare aprobate pentru bugetele instituţiilor publice subordonate, ai căror conducători sunt ordonatori terţiari de credite;"
+    ]
   },
   {
     "question": "3. Creditul bugetar reprezintă:",
@@ -41,7 +44,7 @@
       "d) lichidarea, plata, angajarea şi ordonanţarea;",
       "e) ordonanţarea, angajarea, plata şi lichidarea."
     ],
-    "correct": "a) angajarea, ordonanţarea, plata şi lichidarea;"
+    "correct": "b) angajarea, lichidarea, ordonanţarea şi plata;"
   },
   {
     "question": "5. Angajarea oricărei cheltuieli din fonduri publice îmbracă două forme:",
@@ -96,7 +99,10 @@
       "d) nu pot fi dobândite de către alte persoane prin uzucapiune sau prin efectul posesiei de bună credinţă asupra bunurilor mobile;",
       "e) pot fi înstrăinate regiilor autonome şi instituţiilor publice."
     ],
-    "correct": "b) nu pot fi înstrăinate, ci pot fi date numai în administrare regiilor autonome şi instituţiilor publice, concesionare sau închiriere;"
+    "correct": [
+      "b) nu pot fi înstrăinate, ci pot fi date numai în administrare regiilor autonome şi instituţiilor publice, concesionare sau închiriere;",
+      "d) nu pot fi dobândite de către alte persoane prin uzucapiune sau prin efectul posesiei de bună credinţă asupra bunurilor mobile;"
+    ]
   },
   {
     "question": "10. Printre instrumentele datoriei publice guvernamentale se includ:",
@@ -140,7 +146,7 @@
       "d) plus la inventar de alte active fixe corporale;",
       "e) minus la inventar de alte active fixe corporale."
     ],
-    "correct": "c) bunuri confiscate legal care intră în proprietatea publică a statului;"
+    "correct": "b) zăcăminte de gaze naturale descoperite în urma activităţii de prospecţiune;"
   },
   {
     "question": "14. Valoarea neamortizată a activelor fixe corporale transferate cu titlu gratuit se înregistrează:",
@@ -151,7 +157,7 @@
       "d) în debitul unuia din conturile privind fondurile instituţiei publice, în funcţie de apartenenţa bunurilor la domeniul public sau privat al statului sau unităţilor administrativ teritoriale;",
       "e) în debitul contului 281 ”Amortizări privind activele fixe corporale”."
     ],
-    "correct": "d) în debitul unuia din conturile privind fondurile instituţiei publice, în funcţie de apartenenţa bunurilor la domeniul public sau privat al statului sau unităţilor administrativ teritoriale;"
+    "correct": "c) în debitul contului 658 ”Alte cheltuieli operaţionale”;"
   },
   {
     "question": "15. Prin intermediul contului 215 ”Alte active ale statului” se înregistrează:",
@@ -173,29 +179,35 @@
       "d) 404 01 00 = 232 00 00 - avansurile acordate furnizorilor de active fixe corporale;",
       "e) 212 09 01 = 722 00 00 - construcții primite cu titlu gratuit."
     ],
-    "correct": "b) 213 01 00 = 446 01 00 -valoarea taxelor vamale aferente utilajelor achiziționate din import;"
+    "correct": [
+      "a) 682 01 09 = 231 00 00 -recepția finală a investiției, cu valoarea de intrare a activelor fixe care nu se supun amortizării;",
+      "b) 213 01 00 = 446 01 00 -valoarea taxelor vamale aferente utilajelor achiziționate din import;"
+    ]
   },
   {
     "question": "17. Precizați pentru care dintre formulele contabile de mai jos există neconcordanță cu explicația atașată:",
     "answers": [
-      "a) 267 02 08 = 770 00 00 - garanții depuse la furnizorii de utilități, pe seama creditelor bugetare;",
-      "b) 231 00 00 = 779 01 09 - construcții în curs de execuție primite cu titlu gratuit;",
-      "c) 213 01 00 = 102 01 01 -recepția unor utilaje amortizabile, care au fost achiziționate;",
-      "d) 681 01 00 = 281 03 02 -amortizarea lunară a unui activ fix corporal constând în aparatură de măsurare, control și reglare;",
-      "e) 212 09 01 = 691 00 00 -valoarea neamortizată a construcțiilor scoase din evidență ca urmare a vânzării."
+      "a) 267 02 08 „Alte creanțe imobilizate” = 770 00 00 „Finanțarea de la buget” – garanții depuse la furnizorii de utilități, pe seama creditorilor bugetari",
+      "b) 231 00 00 „Active fixe corporale în curs de execuție” = 779 01 09 „Venituri, bunuri și servicii primite cu titlu gratuit-alte operațiuni” – construcții în curs de execuție primite cu titlu gratuit",
+      "c) 213 01 00 „Echipamente tehnologice (mașini, utilaje și instalații de lucru)” = 102 01 01 „Fondul bunurilor care alcătuiesc domeniul privat al statului” – recepția unor utilaje amortizabile, care au fost achiziționate",
+      "d) 681 01 00 „Cheltuieli operaționale privind amortizarea activelor fixe” = 281 03 02 „Amortizarea aparatelor și instalațiilor de măsurare, control și reglare” – amortizarea lunară a unui activ fix corporal constând în aparatură de măsurare, control și reglare",
+      "e) 212 09 01 „Construcții-alte active fixe încadrate în grupa construcții” = 691 00 00 „Cheltuieli extraordinare din operațiuni cu active fixe” – valoarea neamortizată a construcțiilor scoase din evidență ca urmare a vânzării"
     ],
-    "correct": "a) 267 02 08 = 770 00 00 - garanții depuse la furnizorii de utilități, pe seama creditelor bugetare;"
+    "correct": [
+      "c) 213 01 00 „Echipamente tehnologice (mașini, utilaje și instalații de lucru)” = 102 01 01 „Fondul bunurilor care alcătuiesc domeniul privat al statului” – recepția unor utilaje amortizabile, care au fost achiziționate",
+      "e) 212 09 01 „Construcții-alte active fixe încadrate în grupa construcții” = 691 00 00 „Cheltuieli extraordinare din operațiuni cu active fixe” – valoarea neamortizată a construcțiilor scoase din evidență ca urmare a vânzării"
+    ]
   },
   {
     "question": "18. Referitor la un mijloc de transport se cunosc următoarele informaţii: valoare contabilă 200.000 lei, durata de utilizare preconizată 5 ani, iar metoda de amortizare utilizată este cea liniară. După 2 ani de exploatare activul fix este scos din evidenţă deoarece a fost distrus în urma producerii unor calamităţi naturale. Valoarea amortizată aferentă mijlocului de transport scos din evidenţă se înregistrează prin formula contabilă:",
     "answers": [
-      "a) 691 00 00 = 213 03 00 120.000 lei;",
-      "b) 690 00 00 = 213 03 00 80.000 lei;",
-      "c) 213 03 00 = 281 03 03 120.000 lei;",
-      "d) 213 03 00 = 690 00 00 40.000 lei;",
-      "e) 281 03 03 = 213 03 00 80.000 lei."
+      "a) 691 00 00 „Cheltuieli extraordinare din operaţiuni cu active fixe” = 213 03 00 „Mijloace de transport” – 120.000 lei",
+      "b) 690 00 00 „Cheltuieli cu pierderi din calamităţi” = 213 03 00 „Mijloace de transport” – 80.000 lei",
+      "c) 213 03 00 „Mijloace de transport” = 281 03 00 „Amortizarea mijloacelor de transport” – 200.000 lei",
+      "d) 213 03 00 „Mijloace de transport” = 690 00 00 „Cheltuieli cu pierderi din calamităţi” – 40.000 lei",
+      "e) 281 03 00 „Amortizarea mijloacelor de transport” = 213 03 00 „Mijloace de transport” – 80.000 lei"
     ],
-    "correct": "e) 281 03 03 = 213 03 00 80.000 lei."
+    "correct": "e) 281 03 00 „Amortizarea mijloacelor de transport” = 213 03 00 „Mijloace de transport” – 80.000 lei"
   },
   {
     "question": "19. Legislaţia specifică nominalizează o serie de elemente care sunt incluse în categoria activelor fixe corporale aflate în patrimoniul instituţiilor publice, dar nu se supun amortizării, astfel:",
@@ -206,7 +218,10 @@
       "d) bunurile din patrimoniul cultural naţional;",
       "e) lacurile, bălţile, iazurile, care sunt rezultatul unei investiţii."
     ],
-    "correct": "d) bunurile din patrimoniul cultural naţional;"
+    "correct": [
+      "c) bunurile de natura armamentului şi tehnicii de luptă;",
+      "d) bunurile din patrimoniul cultural naţional;"
+    ]
   },
   {
     "question": "20. Potrivit legislaţiei în vigoare nu pot fi considerate active fixe corporale:",
@@ -217,7 +232,7 @@
       "d) construcţiile şi instalaţiile provizorii;",
       "e) lacurile, bălţile, iazurile, care nu sunt rezultatul unei investiţii."
     ],
-    "correct": "e) lacurile, bălţile, iazurile, care nu sunt rezultatul unei investiţii."
+    "correct": ["b) pădurile;", "d) construcţiile şi instalaţiile provizorii;"]
   },
   {
     "question": "21. În categoria creanţelor imobilizate sunt incluse:",
@@ -239,7 +254,10 @@
       "d) se amortizează întotdeauna pe durata de utilizare a activului fix;",
       "e) se înregistrează în conturile de cheltuieli atunci când sunt efectuate, dacă au ca efect îmbunătăţirea performanţelor faţă de parametrii funcţionali stabiliţi iniţial."
     ],
-    "correct": "c) majorează costul activului fix corporal atunci când au ca efect îmbunătăţirea performanţelor faţă de parametrii funcţionali stabiliţi iniţial;"
+    "correct": [
+      "b) se înregistrează în conturile de cheltuieli atunci când sunt efectuate, dacă au drept scop menţinerea parametrilor funcţionali stabiliţi iniţial;",
+      "c) majorează costul activului fix corporal atunci când au ca efect îmbunătăţirea performanţelor faţă de parametrii funcţionali stabiliţi iniţial;"
+    ]
   },
   {
     "question": "23. Activele fixe necorporale şi corporale trebuie prezentate în bilanţ la:",
@@ -294,7 +312,10 @@
       "d) aparatură birotică amortizabilă constată plus la inventariere;",
       "e) aparatură birotică neamortizabilă constatată plus la inventariere."
     ],
-    "correct": "c) aparatură birotică amortizabilă primită cu titlu gratuit;"
+    "correct": [
+      "c) aparatură birotică amortizabilă primită cu titlu gratuit;",
+      "d) aparatură birotică amortizabilă constată plus la inventariere;"
+    ]
   },
   {
     "question": "28. Documentele aflate în fondurile bibliotecilor, care au statut de bunuri culturale comune sau care au fost clasate în categoria bunurilor culturale care fac parte din patrimoniul cultural național mobil, se înregistrează în contabilitate cu ajutorul contului:",
@@ -305,7 +326,7 @@
       "d) 302 ”Materiales consumabile”;",
       "e) 309 ”Alte stocuri”."
     ],
-    "correct": "a) 206 ”Înregistrări ale evenimentelor cultural-sportive”;"
+    "correct": "c) 303 ”Materiale de natura obiectelor de inventar”;"
   },
   {
     "question": "29. Munțiile și furniturile pentru apărare națională, ordine publică și siguranță națională se reflectă în contabilitate ca:",
@@ -316,7 +337,7 @@
       "d) semifabricate;",
       "e) materiale rezervă de stat și de mobilizare."
     ],
-    "correct": "e) materiale rezervă de stat și de mobilizare."
+    "correct": "b) alte stocuri;"
   },
   {
     "question": "30. Sunt considerate materiale de natura obiectelor de inventar:",
@@ -338,7 +359,10 @@
       "d) valoarea bilanțieră aferentă stocurilor se stabilește la închiderea exercițiului prin compararea valorii de intrare cu valoarea actuală (de inventar);",
       "e) întocmirea situațiilor financiare impune determinarea valorii bilanțiere aferentă stocurilor, care se stabilește prin aplicarea uneia din metodele FIFO, LIFO sau CMP."
     ],
-    "correct": "c) diferențele constatate în minus (valoarea de inventar mai mică) se înregistrează în contabilitate ca ajustări pentru depreciere;"
+    "correct": [
+      "d) valoarea bilanțieră aferentă stocurilor se stabilește la închiderea exercițiului prin compararea valorii de intrare cu valoarea actuală (de inventar);",
+      "c) diferențele constatate în minus (valoarea de inventar mai mică) se înregistrează în contabilitate ca ajustări pentru depreciere;"
+    ]
   },
   {
     "question": "32. Una din metodele utilizate de instituțiile publice pentru evaluarea cu ocazia ieșirii din gestiune a stocurilor este:",
@@ -360,7 +384,7 @@
       "d) metoda primei intrări – primei ieșiri;",
       "e) metoda inventarului permanent."
     ],
-    "correct": "e) metoda inventarului permanent."
+    "correct": "b) metoda operativ-contabilă;"
   },
   {
     "question": "34. Achiziția de către o unitate militară de muniție, de la furnizori specializați, se contabilizează prin formula:",
@@ -371,7 +395,7 @@
       "d) 309 00 00 ”Alte stocuri” = 401 01 00 ”Furnizori sub 1 an”;",
       "e) 301 00 00 ”Materii prime” = 401 01 00 ”Furnizori sub 1 an”."
     ],
-    "correct": "c) 304 01 00 ”Materiale rezervă de stat” = 401 01 00 ”Furnizori sub 1 an”;"
+    "correct": "d) 309 00 00 ”Alte stocuri” = 401 01 00 ”Furnizori sub 1 an”;"
   },
   {
     "question": "35. Precizați care dintre formulele contabile de mai jos este în concordanță cu explicația asociată:",
@@ -431,13 +455,13 @@
   {
     "question": "40. Precizați care dintre formulele contabile de mai jos este în concordanță cu explicația asociată:",
     "answers": [
-      "a) 418 00 00 'Clienți - facturi de întocmit' = 401 01 00 'Furnizori sub 1 an';",
-      "b) 751 04 00 'Diverse venituri' = 562 01 02 'Disponibil în lei al activităților finanțate integral din venituri proprii - Disponibil curent la instituții de credit';",
-      "c) 411 01 01 'Clienți cu termen sub 1 an' = 403 01 00 'Efecte de plătit sub 1 an';",
-      "d) 411 01 08 'Clienți incerți sau în litigiu sub 1 an' = 654 00 00 'Pierderi din creanțe și debitori diverși';",
-      "e) 665 00 00 'Cheltuieli din diferențe de curs valutar'"
+      "a) 581 01 04 „Vîramente interne – alte activități” = 541 01 01 „Acreditive în lei la trezorerie” ; 560 01 01 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii” = 581 01 04 „Vîramente interne – alte activități”",
+      "b) 541 01 01 „Acreditive în lei la trezorerie” = 560 01 01 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii”",
+      "c) 581 01 04 „Vîramente interne – alte activități” = 560 01 01 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii” ; 541 01 01 „Acreditive în lei la trezorerie” = 581 01 04 „Vîramente interne – alte activități”",
+      "d) 581 01 04 „Vîramente interne – alte activități” = 541 01 01 „Acreditive în lei la trezorerie”",
+      "e) 560 01 01 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii” = 541 01 01 „Acreditive în lei la trezorerie”"
     ],
-    "correct": "a) 418 00 00 'Clienți - facturi de întocmit' = 401 01 00 'Furnizori sub 1 an';"
+    "correct": "d) 581 01 04 „Vîramente interne – alte activități” = 541 01 01 „Acreditive în lei la trezorerie”"
   },
   {
     "question": "41. Bursele datorate elevilor și studenților se înregistrează prin formula contabilă:",
@@ -448,7 +472,7 @@
       "d) 770 00 00 'Finanțarea de la buget' = 429 00 00 'Bursieri și doctoranzi';",
       "e) 679 00 00 'Alte cheltuieli' = 429 00 00 'Bursieri și doctoranzi'"
     ],
-    "correct": "a) 677 00 00 'Ajutoare sociale' = 429 00 00 'Bursieri și doctoranzi';"
+    "correct": "e) 679 00 00 'Alte cheltuieli' = 429 00 00 'Bursieri și doctoranzi'"
   },
   {
     "question": "42. Disponibilitățile bănești rezervate de către plătitor, în conturi distincte, la dispoziția terților, în vederea efectuării plăților pe măsura livrării bunurilor, executării lucrărilor sau prestării serviciilor se înregistrează cu ajutorul contului:",
@@ -481,7 +505,7 @@
       "d) 581 01 04 'Viramente interne - alte activități' = 541 01 01 'Acreditive în lei la trezorerie';",
       "e) 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 581 01 04 'Viramente interne - alte activități';"
     ],
-    "correct": "b) 541 01 01 'Acreditive în lei la trezorerie' = 581 01 04 'Viramente interne - alte activități';"
+    "correct": "c) 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 541 01 01 'Acreditive în lei la trezorerie';"
   },
   {
     "question": "45. Amortizarea anuală a activelor fixe corporale și necorporale se calculează prin aplicarea cotei de amortizare la:",
@@ -503,7 +527,7 @@
       "d) valoarea serviciilor facturate de unitățile specializate;",
       "e) valoarea avansurilor regularizate cu furnizorii la primirea bunurilor"
     ],
-    "correct": "b) valoarea acceptată a efectelor comerciale de plătit;"
+    "correct": "d) valoarea serviciilor facturate de unitățile specializate;"
   },
   {
     "question": "47. Clasificarea instituțiilor publice în instituții de administrație publică, instituții de specialitate cu caracter funcțional și instituții deliberative are la bază criteriul:",
