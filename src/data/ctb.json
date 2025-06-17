@@ -55,7 +55,7 @@
       "d) angajament bugetar şi angajament legal;",
       "e) angajament disponibil şi angajament contractat."
     ],
-    "correct": "e) angajament disponibil şi angajament contractat."
+    "correct": "d) angajament bugetar şi angajament legal;"
   },
   {
     "question": "6. Documentul pentru evidenţa analitică a mijloacelor fixe, care se întocmeşte pentru fiecare mijloc fix şi se completează pe baza documentelor justificative privind mişcarea mijloacelor fixe sau modificarea valorii de intrare a acestora este:",
@@ -113,7 +113,10 @@
       "d) fondul bunurilor care alcătuiesc domeniul public al statului;",
       "e) garanţiile de stat."
     ],
-    "correct": "a) titlurile de stat emise pe piaţă internă sau externă;"
+    "correct": [
+      "a) titlurile de stat emise pe piaţă internă sau externă;",
+      "e) garanţiile de stat."
+    ]
   },
   {
     "question": "11. Capitalurile proprii reprezintă interesul rezidual al statului sau al unităţilor administrativ-teritoriale, în calitate de proprietari ai activelor unei instituţii publice, după deducerea tuturor:",
@@ -406,7 +409,7 @@
       "d) 303 01 00 = 351 01 00 - semifabricate aduse de la terți;",
       "e) 391 00 00 = 781 04 01 - constituirea de ajustări pentru deprecierea materiilor prime."
     ],
-    "correct": "e) 391 00 00 = 781 04 01 - constituirea de ajustări pentru deprecierea materiilor prime."
+    "correct": "c) 361 00 00 = 709 01 00 - sporul în greutate obținut la animale;"
   },
   {
     "question": "36. Avansurile încasate de la clienți în scopul efectuării unor livrări ulterioare de bunuri, executării de lucrări sau prestării de servicii se evidențiază prin intermediul contului:",
@@ -455,13 +458,13 @@
   {
     "question": "40. Precizați care dintre formulele contabile de mai jos este în concordanță cu explicația asociată:",
     "answers": [
-      "a) 581 01 04 „Vîramente interne – alte activități” = 541 01 01 „Acreditive în lei la trezorerie” ; 560 01 01 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii” = 581 01 04 „Vîramente interne – alte activități”",
-      "b) 541 01 01 „Acreditive în lei la trezorerie” = 560 01 01 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii”",
-      "c) 581 01 04 „Vîramente interne – alte activități” = 560 01 01 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii” ; 541 01 01 „Acreditive în lei la trezorerie” = 581 01 04 „Vîramente interne – alte activități”",
-      "d) 581 01 04 „Vîramente interne – alte activități” = 541 01 01 „Acreditive în lei la trezorerie”",
-      "e) 560 01 01 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii” = 541 01 01 „Acreditive în lei la trezorerie”"
+      "a) 418 00 00 ”Clienți - facturi de întocmit” = 751 04 00 ”Diverse venituri” ; - vânzare unor mărfuri pe baza facturii",
+      "b) 401 01 00 ”Furnizori sub 1 an” = 562 01 02 „Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii” - stornarea facturii aferentă avansului achitat furnizorului",
+      "c) 665 00 00 ”Cheltuieli din diferențe de curs valutar” = 411 01 01  ”Clienți cu termen sub 1 an” - diferențe favorabile de curs valutar”",
+      "d) 401 01 00 ”Furnizori sub 1 an” = 403 01 00 ”Efecte de plătit sub 1 an” - emiterea unui efect de comerț",
+      "e) 654 00 00  ”Pierderi din creanțe și debitori diverși” = 411 01 08 ”Clienți incerți sau în litigiu sub 1 an” - ajustări pentru deprecierea creanțelor clienți constituite"
     ],
-    "correct": "d) 581 01 04 „Vîramente interne – alte activități” = 541 01 01 „Acreditive în lei la trezorerie”"
+    "correct": "d) 401 01 00 ”Furnizori sub 1 an” = 403 01 00 ”Efecte de plătit sub 1 an” - emiterea unui efect de comerț"
   },
   {
     "question": "41. Bursele datorate elevilor și studenților se înregistrează prin formula contabilă:",
@@ -499,11 +502,11 @@
   {
     "question": "44. Deschiderea unui acreditiv se înregistrează în contabilitate astfel:",
     "answers": [
-      "a) 581 01 04 'Viramente interne - alte activități' = 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii';",
-      "b) 541 01 01 'Acreditive în lei la trezorerie' = 581 01 04 'Viramente interne - alte activități';",
-      "c) 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 541 01 01 'Acreditive în lei la trezorerie';",
-      "d) 581 01 04 'Viramente interne - alte activități' = 541 01 01 'Acreditive în lei la trezorerie';",
-      "e) 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 581 01 04 'Viramente interne - alte activități';"
+      "a) 581 01 04 'Viramente interne - alte activități' - 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 541 01 01 'Acreditive în lei la trezorerie' - 581 01 04 ”Viramente interne - alte activități”;",
+      "b) 541 01 01 'Acreditive în lei la trezorerie'  = 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii'",
+      "c) 581 01 04  'Viramente interne - alte activități' - 541 01 01 ”Acreditive în lei la trezorerie” = 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' - 541 01 01 'Acreditive în lei la trezorerie';",
+      "d) 581 01 04 'Viramente interne - alte activități' - 541 01 01 'Acreditive în lei la trezorerie' = 541 01 01 'Acreditive în lei la trezorerie' - 581 01 04 ”Viramente interne - alte activități”;",
+      "e) 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 541 01 01 'Acreditive în lei la trezorerie';"
     ],
     "correct": "c) 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 541 01 01 'Acreditive în lei la trezorerie';"
   },
