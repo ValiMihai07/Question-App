@@ -508,7 +508,7 @@
       "d) 581 01 04 'Viramente interne - alte activități' = 541 01 01 'Acreditive în lei la trezorerie' ; 541 01 01 'Acreditive în lei la trezorerie' = 581 01 04 ”Viramente interne - alte activități”;",
       "e) 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 541 01 01 'Acreditive în lei la trezorerie';"
     ],
-    "correct": "c) 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' = 541 01 01 'Acreditive în lei la trezorerie';"
+    "correct": "c) 581 01 04  'Viramente interne - alte activități' = 560 01 01 'Disponibil în lei al instituțiilor publice finanțate integral din venituri proprii' ; 541 01 01 ”Acreditive în lei la trezorerie” - 581 01 04 ”Viramente interne - alte activități”;"
   },
   {
     "question": "45. Amortizarea anuală a activelor fixe corporale și necorporale se calculează prin aplicarea cotei de amortizare la:",
