@@ -246,7 +246,10 @@
       "d) garanţiile, depozitele, depuse de instituţia publică la terţi;",
       "e) contractele încheiate cu terţe persoane în vederea utilizării unui bun, creanţă sau drept de proprietate intelectuală sau industrială."
     ],
-    "correct": "b) sumele acordate terţilor în baza unor contracte de împrumut pe termen lung pentru care se percep dobânzi;"
+    "correct": [
+      "b) sumele acordate terţilor în baza unor contracte de împrumut pe termen lung pentru care se percep dobânzi;",
+      "d) garanţiile, depozitele, depuse de instituţia publică la terţi;"
+    ]
   },
   {
     "question": "22. Cheltuielile ulterioare efectuate cu un activ fix corporal, după achiziţionarea sau finalizarea acestuia:",
