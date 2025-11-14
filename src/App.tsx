@@ -6,52 +6,68 @@ import {
   useNavigate,
 } from "react-router-dom";
 import { Box, Button, Container, Typography } from "@mui/material";
-import TestPage from "./components/test";
-import TestMama from "./components/testMama";
-import TestEM from "./components/TestEM";
-import TestConta from "./components/TestConta";
-import TestDFF from "./components/TestDFF";
-import TestCTB from "./components/TestCTB";
-import TestContaGestiune from "./components/TestContaGestiune";
+// import TestPage from "./components/test";
+// import TestMama from "./components/testMama";
+// import TestEM from "./components/TestEM";
+// import TestConta from "./components/TestConta";
+// import TestDFF from "./components/TestDFF";
+// import TestCTB from "./components/TestCTB";
+// import TestContaGestiune from "./components/TestContaGestiune";
+import TestAudit20 from "./components/TestAudit20";
+import TestAudit40 from "./components/TestAudit40";
+import AnalizaEconomica from "./components/AnalizaEconomica";
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
 
-  const startTest = (e: React.MouseEvent<HTMLButtonElement>) => {
-    e.preventDefault();
-    navigate("/test");
-  };
+  // const startTest = (e: React.MouseEvent<HTMLButtonElement>) => {
+  //   e.preventDefault();
+  //   navigate("/test");
+  // };
 
-  const startFinancialDecisionsTest = (
-    e: React.MouseEvent<HTMLButtonElement>
-  ) => {
-    e.preventDefault();
-    navigate("/testDeciziiFinanciare");
-  };
+  // const startFinancialDecisionsTest = (
+  //   e: React.MouseEvent<HTMLButtonElement>
+  // ) => {
+  //   e.preventDefault();
+  //   navigate("/testDeciziiFinanciare");
+  // };
 
-  const startCTB = (e: React.MouseEvent<HTMLButtonElement>) => {
-    e.preventDefault();
-    navigate("/testCTB");
-  };
+  // const startCTB = (e: React.MouseEvent<HTMLButtonElement>) => {
+  //   e.preventDefault();
+  //   navigate("/testCTB");
+  // };
 
-  const startDFF = (e: React.MouseEvent<HTMLButtonElement>) => {
-    e.preventDefault();
-    navigate("/testDFF");
-  };
+  // const startDFF = (e: React.MouseEvent<HTMLButtonElement>) => {
+  //   e.preventDefault();
+  //   navigate("/testDFF");
+  // };
 
-  const startEM = (e: React.MouseEvent<HTMLButtonElement>) => {
-    e.preventDefault();
-    navigate("/testEM");
-  };
+  // const startEM = (e: React.MouseEvent<HTMLButtonElement>) => {
+  //   e.preventDefault();
+  //   navigate("/testEM");
+  // };
 
-  const startConta = (e: React.MouseEvent<HTMLButtonElement>) => {
-    e.preventDefault();
-    navigate("/testConta");
-  };
+  // const startConta = (e: React.MouseEvent<HTMLButtonElement>) => {
+  //   e.preventDefault();
+  //   navigate("/testConta");
+  // };
 
-  const startContaGestiune = (e: React.MouseEvent<HTMLButtonElement>) => {
+  // const startContaGestiune = (e: React.MouseEvent<HTMLButtonElement>) => {
+  //   e.preventDefault();
+  //   navigate("/testContaGestiune");
+  // };
+
+  const startAudit20 = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
-    navigate("/testContaGestiune");
+    navigate("/testAudit20");
+  };
+  const startAudit40 = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testAudit40");
+  };
+  const analizaEconomica = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/analizaEconomica");
   };
 
   return (
@@ -68,7 +84,7 @@ const Home: React.FC = () => {
         <Typography variant="h4" component="h1" gutterBottom>
           Teste
         </Typography>
-        <Button variant="contained" color="primary" onClick={startTest}>
+        {/* <Button variant="contained" color="primary" onClick={startTest}>
           STest ISF
         </Button>
         <Button
@@ -118,6 +134,30 @@ const Home: React.FC = () => {
           sx={{ marginTop: 2 }}
         >
           Test Conta Gestiune
+        </Button> */}
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startAudit20}
+          sx={{ marginTop: 2 }}
+        >
+          Test Audit 20
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startAudit40}
+          sx={{ marginTop: 2 }}
+        >
+          Test Audit 40
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={analizaEconomica}
+          sx={{ marginTop: 2 }}
+        >
+          Analiza Economica
         </Button>
       </Box>
     </Container>
@@ -129,13 +169,16 @@ const App: React.FC = () => {
     <Router basename="/Question-App">
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/test" element={<TestPage />} />
+        {/* <Route path="/test" element={<TestPage />} />
         <Route path="/testDeciziiFinanciare" element={<TestMama />} />
         <Route path="/testCTB" element={<TestCTB />} />
         <Route path="/testDFF" element={<TestDFF />} />
         <Route path="/testEM" element={<TestEM />} />
         <Route path="/testConta" element={<TestConta />} />
-        <Route path="/testContaGestiune" element={<TestContaGestiune />} />
+        <Route path="/testContaGestiune" element={<TestContaGestiune />} /> */}
+        <Route path="/testAudit20" element={<TestAudit20 />} />
+        <Route path="/testAudit40" element={<TestAudit40 />} />
+        <Route path="/analizaEconomica" element={<AnalizaEconomica />} />
       </Routes>
     </Router>
   );

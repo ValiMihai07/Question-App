@@ -1,0 +1,402 @@
+[
+  {
+    "question": "1. Precizați care dintre următoarele afirmații este corectă?",
+    "answers": [
+      "a) Auditul intern in relația cu controlul intern se găsește în poziția de parte la întreg",
+      "b) Auditul intern in relația cu controlul intern se găsește în poziția de întreg la parte",
+      "c) Auditul intern, controlul și verificarea sunt același lucru",
+      "d) Managementul urmărește doar siguranța activelor și fiabilitatea evidențelor contabile"
+    ],
+    "correct": ["a) Auditul intern in relația cu controlul intern se găsește în poziția de parte la întreg"]
+  },
+  {
+    "question": "2. Procedeele stricte de personal nu cuprind:",
+    "answers": [
+      "a) supervizarea",
+      "b) rotația persoanelor-cheie între posturi diferite",
+      "c) insistența ca angajații să nu își ia concediile cuvenite",
+      "d) solicitarea de garanții de la toți angajații unei entități"
+    ],
+    "correct": ["c) insistența ca angajații să nu își ia concediile cuvenite", "d) solicitarea de garanții de la toți angajații unei entități"]
+  },
+  {
+    "question": "3. Operațiuni care sunt reflectate în evidențele companiei, dar care nu se regăsesc în evidențele băncii sunt:",
+    "answers": [
+      "a) Comisioane bancare",
+      "b) Depuneri de numerar care nu au apărut în extrasul de cont",
+      "c) Venituri din dobânzi",
+      "d) Operări în evidențele celor 2 parteneri la momente (în zile) diferite"
+    ],
+    "correct": ["b) Depuneri de numerar care nu au apărut în extrasul de cont", "d) Operări în evidențele celor 2 parteneri la momente (în zile) diferite"]
+  },
+  {
+    "question": "4. Obiectivele contabile ale controlului intern sunt:",
+    "answers": [
+      "a) Prevenirea pierderilor de mijloace bănești sau stocuri datorate furturilor sau fraudei",
+      "b) Menținerea unui nivel suficient al stocurilor disponibile, fără să se producă fenomenul de suprastocare",
+      "c) Furnizarea unor evidențe contabile exacte privind operațiunile comerciale și soldurile conturilor",
+      "d) Menținerea unui nivel optim al mijloacelor bănești, care să permită achitarea cumpărărilor la timp și obținerea unor discounturi aferente cumpărărilor"
+    ],
+    "correct": ["a) Prevenirea pierderilor de mijloace bănești sau stocuri datorate furturilor sau fraudei", "c) Furnizarea unor evidențe contabile exacte privind operațiunile comerciale și soldurile conturilor"]
+  },
+  {
+    "question": "5. Graficul de circulație a documentelor justificative:",
+    "answers": [
+      "a) are caracter obligatoriu pentru entitățile economice",
+      "b) se întocmește de către directorul economic",
+      "c) are caracter obligatoriu pentru entitățile publice",
+      "d) nu este necesară aprobarea de către administrator"
+    ],
+    "correct": ["c) are caracter obligatoriu pentru entitățile publice", "d) nu este necesară aprobarea de către administrator"]
+  },
+  {
+    "question": "6. Observarea în auditul intern:",
+    "answers": [
+      "a) se constituie într-un furnizor inepuizabil de resurse pentru orice evaluator",
+      "b) trebuie să fie neapărat inopinată",
+      "c) trebuie să fie punctuală",
+      "d) trebuie efectuată fără știrea celui auditat"
+    ],
+    "correct": ["a) se constituie într-un furnizor inepuizabil de resurse pentru orice evaluator"]
+  },
+  {
+    "question": "7. Cercetările statistice interesante pentru auditorul intern pot fi:",
+    "answers": [
+      "a) sondaje de stabilire a eșantionului",
+      "b) sondaje de depistare",
+      "c) sondaje de stabilire a mărimii populației",
+      "d) sondaje de acceptare"
+    ],
+    "correct": ["b) sondaje de depistare", "d) sondaje de acceptare"]
+  },
+  {
+    "question": "8. În legătură cu lista de întrebări utilizată de auditorul intern, precizați care dintre afirmații nu este corectă:",
+    "answers": [
+      "a) îl tentează pe cel intervievat să răspundă într-un sens care-i este favorabil",
+      "b) nu mai poate fi utilizată dacă abordăm întrebări ceva mai complicate",
+      "c) auditorul își formează o idee obiectivă",
+      "d) oferă răspunsuri ce nu necesită validare"
+    ],
+    "correct": ["a) îl tentează pe cel intervievat să răspundă într-un sens care-i este favorabil", "b) nu mai poate fi utilizată dacă abordăm întrebări ceva mai complicate"]
+  },
+  {
+    "question": "9. Precizați care dintre următoarele afirmații referitoare la apelarea de către auditor la documente și evidențe neoficiale este adevărată:",
+    "answers": [
+      "a) concluziile obținute pe baza documentelor și evidențelor neoficiale se iau în considerare doar dacă se confirmă cu documente oficiale",
+      "b) documentele și evidențele neoficiale au rolul de a ține evidența operațiunilor de tipul „vânzării la negru”",
+      "c) documentele și evidențele neoficiale nu sunt luate în considerare niciodată de către auditor",
+      "d) documentele și evidențele neoficiale sunt apreciate ca probe orale"
+    ],
+    "correct": ["a) concluziile obținute pe baza documentelor și evidențelor neoficiale se iau în considerare doar dacă se confirmă cu documente oficiale"]
+  },
+  {
+    "question": "10. Departamentul de audit intern raportează în mod normal direct către:",
+    "answers": [
+      "a) consiliul de administrație",
+      "b) directorul general",
+      "c) directorul economic",
+      "d) comitetul de audit"
+    ],
+    "correct": ["a) consiliul de administrație"]
+  },
+  {
+    "question": "11. Cu ocazia verificării de fond a documentelor se are în vedere:",
+    "answers": [
+      "a) corectitudinea calculelor",
+      "b) utilizarea documentelor adecvate",
+      "c) realitatea operațiilor economice consemnate",
+      "d) existența semnăturilor persoanelor cu drept de dispoziție"
+    ],
+    "correct": ["c) realitatea operațiilor economice consemnate"]
+  },
+  {
+    "question": "12. Prin intermediul Chestionarului de control intern, auditorul intern trebuie să cunoască pentru activitatea de aprovizionare:",
+    "answers": [
+      "a) cine stabilește necesarul de aprovizionat",
+      "b) cine aprobă plata facturii",
+      "c) cine preia comenzile",
+      "d) cine înregistrează factura în evidența contabilă"
+    ],
+    "correct": ["a) cine stabilește necesarul de aprovizionat", "b) cine aprobă plata facturii"]
+  },
+  {
+    "question": "13. Printre instrumentele de lucru ale auditorului, ca și categorie a instrumentelor informatice, se pot enumera:",
+    "answers": [
+      "a) programele de desen",
+      "b) foile de calcul",
+      "c) instrumentele de măsurare a eficacității misiunilor",
+      "d) programele de elaborare a planului"
+    ],
+    "correct": ["a) programele de desen", "b) foile de calcul"]
+  },
+  {
+    "question": "14. Cum se organizează auditul intern si de catre cine?",
+    "answers": [
+      "a) în departament comun cu departamentul economic de către administrator",
+      "b) în departament distinct de către directorul economic",
+      "c) în departament distinct de către administrator",
+      "d) în departament distinct de către directorul general"
+    ],
+    "correct": ["c) în departament distinct de către administrator"]
+  },
+  {
+    "question": "15. Ce înțeles atribuiți sintagmei „total independent\":",
+    "answers": [
+      "a) fără a judeca salariații",
+      "b) asistența acordată managementului",
+      "c) independența auditorului prin practica obiectivității",
+      "d) plasarea serviciului în subordinea directorului economic"
+    ],
+    "correct": ["c) independența auditorului prin practica obiectivității"]
+  },
+  {
+    "question": "16. Un interviu realizat în cadrul unei misiuni de audit intern trebuie să fie:",
+    "answers": [
+      "a) eficient",
+      "b) pasiv",
+      "c) incisiv",
+      "d) inofensiv"
+    ],
+    "correct": ["a) eficient"]
+  },
+  {
+    "question": "17. Verificarea autenticității documentelor urmărește:",
+    "answers": [
+      "a) verificarea aritmetică a documentelor care conțin calcule",
+      "b) dacă plățile se efectuează conform normelor financiare",
+      "c) aprovizionarea cu stocuri atunci când prețurile de cumpărare sunt cele mai mici",
+      "d) existența anexelor și consecvența dintre document și justificările aferente"
+    ],
+    "correct": ["d) existența anexelor și consecvența dintre document și justificările aferente"]
+  },
+  {
+    "question": "18. În legătură cu pista de audit, în concepția operațională, se pot emite următoarele aserțiuni:",
+    "answers": [
+      "a) vizează mai multe operațiuni concomitent",
+      "b) apare mai degrabă ca un dispozitiv de control intern decât ca un instrument la dispoziția auditorului",
+      "c) nu poate fi utilizată în toate funcțiile și pentru toate operațiunile",
+      "d) se bazează pe un document final și permite întoarcerea la sursă"
+    ],
+    "correct": ["d) se bazează pe un document final și permite întoarcerea la sursă"]
+  },
+  {
+    "question": "19. Atuurile auditului intern în raport cu cel extern rezidă în:",
+    "answers": [
+      "a) raționamentul auditorului intern este influențat de prea buna cunoaștere a specificului entității respective, rezultând în opinii subiective potrivite entității",
+      "b) permite abordarea doar a activităților mai puțin prioritare din cauza costului mai redus",
+      "c) permite intervenții operative permanente pentru redresarea inconvenientelor întâlnite în desfășurarea misiunii de audit",
+      "d) permite informarea periodică și mai frecventă a conducerii entității asupra stării sistemului de contabilitate și de control intern"
+    ],
+    "correct": ["c) permite intervenții operative permanente pentru redresarea inconvenientelor întâlnite în desfășurarea misiunii de audit", "d) permite informarea periodică și mai frecventă a conducerii entității asupra stării sistemului de contabilitate și de control intern"]
+  },
+  {
+    "question": "20. Inventarierea, ca metodă principală de observare, are următoarele caracteristici:",
+    "answers": [
+      "a) reprezintă ansamblul operațiunilor prin care se constată existența tuturor elementelor de activ și de pasiv",
+      "b) are ca scop constatarea modului de executare a sarcinilor de către gestionari",
+      "c) are ca scop stabilirea eventualelor diferențe între scriptic și faptic și le soluționează",
+      "d) inventarierea operativă coincide integral cu inventarierea periodică"
+    ],
+    "correct": ["a) reprezintă ansamblul operațiunilor prin care se constată existența tuturor elementelor de activ și de pasiv", "b) are ca scop constatarea modului de executare a sarcinilor de către gestionari"]
+  },
+  {
+    "question": "21. Instrumentele de audit se clasifică în funcție de modul de abordare a problemelor în:",
+    "answers": [
+      "a) instrumente de interogare",
+      "b) instrumente de măsurare",
+      "c) instrumente de descriere",
+      "d) instrumente de orientare"
+    ],
+    "correct": ["a) instrumente de interogare", "c) instrumente de descriere"]
+  },
+  {
+    "question": "22. Precizați care dintre următoarele afirmații referitoare la verificarea sistematică nu sunt adevărate:",
+    "answers": [
+      "a) presupune gruparea documentelor pe probleme și apoi verificarea lor în ordine invers cronologică",
+      "b) presupune gruparea documentelor pe probleme și apoi verificarea lor în ordine cronologică",
+      "c) dă posibilitatea să se urmărească cu mai multă atenție un obiectiv",
+      "d) eventualitatea omisiunilor este mai redusă"
+    ],
+    "correct": ["a) presupune gruparea documentelor pe probleme și apoi verificarea lor în ordine invers cronologică"]
+  },
+  {
+    "question": "23. Graficul de circulație a documentelor justificative:",
+    "answers": [
+      "a) este un instrument birocratic",
+      "b) sporește rigoarea activității din unitate",
+      "c) este o problemă de optimizare a costurilor versus rigorii activității",
+      "d) nu generează probleme cu adevărat serioase dacă este conceput incorect"
+    ],
+    "correct": ["b) sporește rigoarea activității din unitate"]
+  },
+  {
+    "question": "24. Care din afirmațiile următoare nu sunt adevărate cu privire la funcția auditului intern?",
+    "answers": [
+      "a) contribuie la realizarea obiectivelor companiei",
+      "b) evaluează nivelul controlului intern",
+      "c) acționează în mod parțial, fără compromisuri și fără a \"alerga\" după putere",
+      "d) oferă asigurarea că operațiunile desfășurate, deciziile luate sunt sub control"
+    ],
+    "correct": ["c) acționează în mod parțial, fără compromisuri și fără a \"alerga\" după putere"]
+  },
+  {
+    "question": "25. Mediul controlului cuprinde:",
+    "answers": [
+      "a) stilul și filozofia de conducere a managementului",
+      "b) unirea responsabilităților",
+      "c) politicile și practicile legate de personal",
+      "d) autorizarea operațiunilor și activităților de către manager"
+    ],
+    "correct": ["a) stilul și filozofia de conducere a managementului", "c) politicile și practicile legate de personal"]
+  },
+  {
+    "question": "26. Narațiunea în auditul intern:",
+    "answers": [
+      "a) reprezintă cel mai bun mod de a transmite informația",
+      "b) necesită o pregătire specială pentru a o solicita",
+      "c) se constituie într-o expunere scrisă sistematizată și sintetizată",
+      "d) asigură comunicarea fără echivoc a informațiilor"
+    ],
+    "correct": ["c) se constituie într-o expunere scrisă sistematizată și sintetizată"]
+  },
+  {
+    "question": "27. Primul nivel al informării statistice este reprezentat de:",
+    "answers": [
+      "a) statisticile interne",
+      "b) datele elementare",
+      "c) eşantionul statistic",
+      "d) populația"
+    ],
+    "correct": ["b) datele elementare"]
+  },
+  {
+    "question": "28. Diagnosticul elaborat de auditorul intern folosind analiza economico-financiară presupune:",
+    "answers": [
+      "a) determinarea efectelor și cauzelor dificultăților",
+      "b) identificarea și evidențierea disfuncționalităților",
+      "c) utilizarea și ca unic instrument în ansamblul mijloacelor de audit intern",
+      "d) o serie de raționamente numai asupra riscurilor din prezent"
+    ],
+    "correct": ["a) determinarea efectelor și cauzelor dificultăților", "b) identificarea și evidențierea disfuncționalităților"]
+  },
+  {
+    "question": "29. Practica observării fizice necesită îndeplinirea câtorva condiții, printre care:",
+    "answers": [
+      "a) observarea trebuie să fie clandestină",
+      "b) observarea trebuie să fie punctuală",
+      "c) observarea trebuie să fie inopinată",
+      "d) observarea trebuie să fie întotdeauna validată"
+    ],
+    "correct": ["d) observarea trebuie să fie întotdeauna validată"]
+  },
+  {
+    "question": "30. Conceptul de audit intern precizează câteva elemente indispensabile, și anume:",
+    "answers": [
+      "a) A+B+C",
+      "b) A+B+D",
+      "c) A+C+D",
+      "d) B+C+D"
+    ],
+    "correct": ["b) A+B+D"]
+  },
+  {
+    "question": "31. Care din următoarele afirmații sunt adevărate cu privire la mediul controlului:",
+    "answers": [
+      "a) cuprinde toate operaţiunile şi activităţile ce trebuie autorizate de către management",
+      "b) cuprinde verificări viitoare ale respectării procedeelor fixate",
+      "c) cuprinde evaluări periodice sistematice ale sistemelor, proceselor şi relaţiilor",
+      "d) cuprinde structura organizațională a companiei, metodele de atribuire a autorității și responsabilității, politicile și practicile legate de personal"
+    ],
+    "correct": ["c) cuprinde evaluări periodice sistematice ale sistemelor, proceselor şi relaţiilor", "d) cuprinde structura organizațională a companiei, metodele de atribuire a autorității și responsabilității, politicile și practicile legate de personal"]
+  },
+  {
+    "question": "32. În teoria și practica auditului intern, care dintre următoarele afirmații se dovedește a fi mai aproape de adevăr?",
+    "answers": [
+      "a) organigrama ierarhică nu este un dispozitiv esențial al controlului intern",
+      "b) corelarea organigramei ierarhice și a celei funcționale poate conduce la descoperirea unor puncte slabe",
+      "c) organigrama funcțională permite o primă abordare a problemei separării sarcinilor",
+      "d) organigrama funcțională nu relevă cumulul de funcții"
+    ],
+    "correct": ["b) corelarea organigramei ierarhice și a celei funcționale poate conduce la descoperirea unor puncte slabe", "c) organigrama funcțională permite o primă abordare a problemei separării sarcinilor"]
+  },
+  {
+    "question": "33. Al doilea nivel al informării statistice este reprezentat de:",
+    "answers": [
+      "a) statisticile interne",
+      "b) datele elementare",
+      "c) eşantionul statistic",
+      "d) populația"
+    ],
+    "correct": ["a) statisticile interne"]
+  },
+  {
+    "question": "34. Din punctul de vedere al auditorului intern, compararea reprezintă:",
+    "answers": [
+      "a) o verificare reciprocă",
+      "b) o tehnică de validare",
+      "c) un procedeu statistic",
+      "d) o confirmare către terți"
+    ],
+    "correct": ["a) o verificare reciprocă", "b) o tehnică de validare"]
+  },
+  {
+    "question": "35. Observarea efectuată de către auditorul intern poate fi:",
+    "answers": [
+      "a) directă",
+      "b) indirectă",
+      "c) ulterioară",
+      "d) activă"
+    ],
+    "correct": ["a) directă", "b) indirectă"]
+  },
+  {
+    "question": "36. Din analiza funcției de audit intern putem aprecia următoarele elemente de implicare în viața entității auditate:",
+    "answers": [
+      "a) divulgarea de informații oricărei persoane ce le solicită",
+      "b) ajutor acordat salariaților fără a-i judeca",
+      "c) independență și obiectivitate totală",
+      "d) auditorul intern nu trebuie să aibă acces în orice moment la persoane, bunuri și informații"
+    ],
+    "correct": ["b) ajutor acordat salariaților fără a-i judeca", "c) independență și obiectivitate totală"]
+  },
+  {
+    "question": "37. Mecanismele de control sunt utilizate pentru:",
+    "answers": [
+      "a) asigurarea îndeplinirii obiectivelor controlului intern",
+      "b) a nu proteja activele altor companii",
+      "c) asigurarea fiabilităţii evidenţelor contabile",
+      "d) protejarea activelor companiei"
+    ],
+    "correct": ["c) asigurarea fiabilităţii evidenţelor contabile", "d) protejarea activelor companiei"]
+  },
+  {
+    "question": "38. Care dintre următoarele afirmații privind controlul financiar preventiv sunt adevărate?",
+    "answers": [
+      "a) se efectuează în faza de verificare a plăților efectuate",
+      "b) este o formă a controlului financiar propriu",
+      "c) are ca obiectiv recuperarea prejudiciilor existente",
+      "d) se exercită în faza de angajare și de plată"
+    ],
+    "correct": ["b) este o formă a controlului financiar propriu", "d) se exercită în faza de angajare și de plată"]
+  },
+  {
+    "question": "39. Care dintre următoarele instrumente de audit intern sunt de interogare?",
+    "answers": [
+      "a) diagrama de circulație",
+      "b) sondajul statistic",
+      "c) narațiunea",
+      "d) pista de audit"
+    ],
+    "correct": ["b) sondajul statistic"]
+  },
+  {
+    "question": "40. Grila de analiză a sarcinilor privind procedura de plată a facturilor permite identificarea următoarelor puncte slabe:",
+    "answers": [
+      "a) cecul este întocmit de către casier",
+      "b) cecul este întocmit de către contabil",
+      "c) facturile sunt înscrise într-un registru la sosire",
+      "d) responsabilul cu achizițiile nu îndeplinește sarcini de verificare"
+    ],
+    "correct": ["b) cecul este întocmit de către contabil"]
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "question": "1. Care din următoarele mecanisme reprezintă tehnici de control:",
+    "answers": [
+      "a) verificarea periodică independentă;",
+      "b) accesul nelimitat la active;",
+      "c) autorizarea tuturor operaţiunilor şi activităţilor;",
+      "d) unificarea responsabilităţilor într-un singur departament."
+    ],
+    "correct": ["a) verificarea periodică independentă;", "c) autorizarea tuturor operaţiunilor şi activităţilor;"]
+  },
+  {
+    "question": "2. Consecinţele pe termen lung ale aplicării unui model de audit intern axat pe trecut sunt următoarele:",
+    "answers": [
+      "a) auditul tinde să acopere nu numai aspectele financiare;",
+      "b) de la an la an, fiecare audit aduce din ce în ce mai puţină valoare;",
+      "c) procesele auditate devin competitive şi rapide;",
+      "d) auditorii interni sunt priviţi şi tind să se comporte ca „poliţişti” ai organizaţiei."
+    ],
+    "correct": ["b) de la an la an, fiecare audit aduce din ce în ce mai puţină valoare;", "d) auditorii interni sunt priviţi şi tind să se comporte ca „poliţişti” ai organizaţiei."]
+  },
+  {
+    "question": "3. Indicaţi operaţiunile care nu respectă elementele de control ale cumpărărilor şi plăţilor:",
+    "answers": [
+      "a) cererea de aprovizionare este întocmită de departamentul de aprovizionare;",
+      "b) borderoul de depunere a cecului este întocmit de furnizor;",
+      "c) casierul verifică toate documentele înaintea completării cecului;",
+      "d) departamentul contabil primeşte şi verifică factura de la furnizor."
+    ],
+    "correct": ["a) cererea de aprovizionare este întocmită de departamentul de aprovizionare;"]
+  },
+  {
+    "question": "4. Documentul pentru restituirea banilor într-un magazin de vânzări cu amănuntul este autorizat de către:",
+    "answers": [
+      "a) casier;",
+      "b) vânzător;",
+      "c) manager;",
+      "d) gestionar."
+    ],
+    "correct": ["c) manager;"]
+  },
+  {
+    "question": "5. Obiectivele manageriale ale controlului intern ar putea fi:",
+    "answers": [
+      "a) menţinerea unui nivel critic al stocurilor disponibile;",
+      "b) menţinerea mijloacelor băneşti la un nivel care să permită achitarea cumpărăturilor la timp şi obţinerea unor discounturi aferente achiziţiilor;",
+      "c) menţinerea unui nivel maxim al câştigurilor din credite comerciale, maximizând vânzările;",
+      "d) prevenirea pierderilor de mijloace băneşti sau stocuri datorate furturilor sau fraudei."
+    ],
+    "correct": ["b) menţinerea mijloacelor băneşti la un nivel care să permită achitarea cumpărăturilor la timp şi obţinerea unor discounturi aferente achiziţiilor;"]
+  },
+  {
+    "question": "6. Ce elemente nu se regăsesc în structura controlului intern:",
+    "answers": [
+      "a) tehnicile de comunicare;",
+      "b) sistemul contabil;",
+      "c) mediul controlului;",
+      "d) condiţiile de recrutare a personalului."
+    ],
+    "correct": ["a) tehnicile de comunicare;", "d) condiţiile de recrutare a personalului."]
+  },
+  {
+    "question": "7. Care afirmaţii nu sunt adevărate cu privire la noţiunea de control intern:",
+    "answers": [
+      "a) reprezintă ansamblul politicilor şi tehnicilor utilizate de management pentru protejarea activelor;",
+      "b) reprezintă ansamblul politicilor şi tehnicilor utilizate de management pentru asigurarea exactităţii şi fiabilităţii evidenţelor contabile;",
+      "c) cuprinde şi aprecierea eficienţei activităţii de exploatare şi al respectării politicilor manageriale;",
+      "d) urmăreşte derularea unei activităti eficiente şi în concordanţă cu politicile şi aşteptările managerului, precum şi cu doleanţele angajaţilor săi."
+    ],
+    "correct": ["d) urmăreşte derularea unei activităti eficiente şi în concordanţă cu politicile şi aşteptările managerului, precum şi cu doleanţele angajaţilor săi."]
+  },
+  {
+    "question": "8. Printre procedee de control intern utilizate de organizaţii se numără:",
+    "answers": [
+      "a) limitarea numărului de persoane care au acces la bani;",
+      "b) utilizarea cât mai amplă a plăţilor în numerar;",
+      "c) minimizarea utilizării serviciilor bancare;",
+      "d) protejarea fizică a numerarului existent prin utilizarea aparatelor de casa, a caselor de bani şi a seifurilor."
+    ],
+    "correct": ["a) limitarea numărului de persoane care au acces la bani;", "d) protejarea fizică a numerarului existent prin utilizarea aparatelor de casa, a caselor de bani şi a seifurilor."]
+  },
+  {
+    "question": "9. Structura de control intern cuprinde toate elementele care urmează, cu excepţia:",
+    "answers": [
+      "a) atitudinii managementului faţă de control;",
+      "b) evidenţelor şi sistemului contabil;",
+      "c) gradului de autonomie deţinut de diferite diviziuni din cadrul companiei;",
+      "d) tehnicilor specifice de control al operaţiunilor."
+    ],
+    "correct": ["c) gradului de autonomie deţinut de diferite diviziuni din cadrul companiei;"]
+  },
+  {
+    "question": "10. Separarea responsabilităţilor privind operaţiunile ce implică mijloace băneşti semnifică faptul că persoane diferite trebuie să deţină atribuţii privind autorizarea, păstrarea şi:",
+    "answers": [
+      "a) aprobarea;",
+      "b) controlul;",
+      "c) ţinerea evidenţelor contabile;",
+      "d) protejarea."
+    ],
+    "correct": ["c) ţinerea evidenţelor contabile;"]
+  },
+  {
+    "question": "11. Care dintre ele va reprezenta o deducere din soldul contabil?",
+    "answers": [
+      "a) cecuri emise şi aflate în circulaţie;",
+      "b) depozite în tranzit;",
+      "c) comisioane bancare;",
+      "d) cecuri fără acoperire restituite împreună cu extrasul de cont."
+    ],
+    "correct": ["c) comisioane bancare;", "d) cecuri fără acoperire restituite împreună cu extrasul de cont."]
+  },
+  {
+    "question": "12. Care dintre următoarele afirmaţii privind controlul financiar preventiv sunt adevărate?",
+    "answers": [
+      "a) se efectuează în faza de verificare a plăţilor efectuate;",
+      "b) este o formă a controlului financiar propriu;",
+      "c) are ca obiectiv recuperarea prejudiciilor existente;",
+      "d) se exercită în faza de angajare şi de plată."
+    ],
+    "correct": ["b) este o formă a controlului financiar propriu;", "d) se exercită în faza de angajare şi de plată."]
+  },
+  {
+    "question": "13. Mediul controlului cuprinde:",
+    "answers": [
+      "a) stilul şi filozofia de conducere a managementului;",
+      "b) unirea responsabilităţilor;",
+      "c) politicile şi practicile legate de personal;",
+      "d) autorizarea operaţiunilor şi activităţilor de către manager."
+    ],
+    "correct": ["a) stilul şi filozofia de conducere a managementului;", "c) politicile şi practicile legate de personal;"]
+  },
+  {
+    "question": "14. Pot fi considerate obiective contabile ale controlului intern următoarele:",
+    "answers": [
+      "a) menţinerea unui nivel suficient al stocurilor disponibile;",
+      "b) menţinerea unui nivel optim al mijloacelor băneşti;",
+      "c) prevenirea pierderilor de mijloace băneşti sau stocuri datorate fraudei;",
+      "d) menţinerea unui nivel minim al pierderilor din credite comerciale."
+    ],
+    "correct": ["c) prevenirea pierderilor de mijloace băneşti sau stocuri datorate fraudei;"]
+  },
+  {
+    "question": "15. Care din următoarele afirmații sunt adevărate cu privire la mediul controlului:",
+    "answers": [
+      "a) cuprinde toate operaţiunile şi activităţile ce trebuie autorizate de către management;",
+      "b) cuprinde verificări viitoare ale respectării procedeelor fixate;",
+      "c) cuprinde evaluări periodice sistematice ale sistemelor, proceselor şi relaţiilor;",
+      "d) cuprinde structura organizaţională a companiei, metodele de atribuire a autorităţii şi responsabilităţii, politicile şi practicile legate de personal."
+    ],
+    "correct": [
+      "c) cuprinde evaluări periodice sistematice ale sistemelor, proceselor şi relaţiilor;",
+      "d) cuprinde structura organizaţională a companiei, metodele de atribuire a autorităţii şi responsabilităţii, politicile şi practicile legate de personal."
+    ]
+  },
+  {
+    "question": "16. Mecanismele de control sunt utilizate pentru:",
+    "answers": [
+      "a) asigurarea îndeplinirii obiectivelor controlului intern;",
+      "b) protejarea intereselor managerilor;",
+      "c) asigurarea fiabilităţii evidenţelor contabile;",
+      "d) protejarea activelor companiei."
+    ],
+    "correct": [
+      "c) asigurarea fiabilităţii evidenţelor contabile;",
+      "d) protejarea activelor companiei."
+    ]
+  },
+  {
+    "question": "17. Se pot supune controlului financiar preventiv următoarele:",
+    "answers": [
+      "a) comanda pentru vânzarea stocurilor;",
+      "b) decizia de a angaja o persoană cu cumul de funcții;",
+      "c) documentele privind scăderea din gestiune a perisabilităților;",
+      "d) extrasul de cont bancar, pentru încasarea sumelor de la clienți."
+    ],
+    "correct": [
+      "b) decizia de a angaja o persoană cu cumul de funcții;",
+      "c) documentele privind scăderea din gestiune a perisabilităților;"
+    ]
+  },
+  {
+    "question": "18. Obiectivele și conținutul controlului financiar preventiv pot fi:",
+    "answers": [
+      "a) verificarea notei de recepție și constatare de diferențe comparativ cu prevederile contractuale;",
+      "b) încadrarea achizițiilor de bunuri cu caracter funcțional în limitele prevăzute în bugetul de trezorerie;",
+      "c) încadrarea plăților în disponibilitățile bănești viitoare;",
+      "d) dispoziția de plată către casierie comparativ cu registrul de casă."
+    ],
+    "correct": ["a) verificarea notei de recepție și constatare de diferențe comparativ cu prevederile contractuale;"]
+  },
+  {
+    "question": "19. Care din următoarele afirmații sunt adevărate cu privire la controlul financiar preventiv:",
+    "answers": [
+      "a) persoanele care îl exercită au pregătire juridică;",
+      "b) viza de control financiar preventiv se acordă prin aplicarea sigiliului personal al administratorului;",
+      "c) persoanele care efectuează controlul financiar preventiv pot fi și cele care iniţiază operaţiunea supusă vizei;",
+      "d) persoana împuternicită cu exercitarea controlului financiar preventiv propriu va verifica documentele formal și de fond."
+    ],
+    "correct": ["d) persoana împuternicită cu exercitarea controlului financiar preventiv propriu va verifica documentele formal și de fond."]
+  },
+  {
+    "question": "20. Care din următoarele mecanisme de control intern va reduce cel mai probabil numărul de creanțe-clienți scoase din evidență ca fiind irecuperabile?",
+    "answers": [
+      "a) angajații responsabili de autorizarea vânzărilor și a scoaterilor din evidență a creanțelor irecuperabile nu au acces la mijloace bănești;",
+      "b) documentele de livrare și facturile de vânzare sunt corelate de un angajat care nu are autoritatea de a scoate din evidență creanțele irecuperabile;",
+      "c) angajații implicați în funcția de aprobare a creditării comerciale sunt separați de funcția vânzărilor;",
+      "d) evidențele din fișierul sistematic al creanțelor-clienți sunt confruntate cu contul sintetic de către un angajat care nu este implicat în funcția de aprobare a creditării comerciale."
+    ],
+    "correct": ["c) angajații implicați în funcția de aprobare a creditării comerciale sunt separați de funcția vânzărilor;"]
+  }
+]
+
+      
