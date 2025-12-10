@@ -1,0 +1,628 @@
+[
+  {
+    "question": "1) La intrarea în patrimoniu a imobilizărilor corporale, acestea se evidenţiază şi în următoarele documente:",
+    "answers": [
+      "a) Jurnalul de vânzări",
+      "b) Extrasul de cont",
+      "c) Registrul numerelor de inventar",
+      "d) Procesul verbal de recepţie"
+    ],
+    "correct": [
+      "c) Registrul numerelor de inventar",
+      "d) Procesul verbal de recepţie"
+    ]
+  },
+  {
+    "question": "2) Casarea utilajelor se poate face:",
+    "answers": [
+      "a) doar la finele duratei de viaţă a acestora",
+      "b) chiar şi incomplet amortizate",
+      "c) încă de la prima lor utilizare",
+      "d) doar când sunt complet amortizate"
+    ],
+    "correct": [
+      "b) chiar şi incomplet amortizate"
+    ]
+  },
+  {
+    "question": "3) Descărcarea gestiunii pentru o construcţie se poate înregistra cu formula:",
+    "answers": [
+      "a) 461 = 212 Debitori diverşi / Construcţii",
+      "b) 6583 = 212 Cheltuieli privind activele cedate şi alte operaţii de capital / Construcţii",
+      "c) 722 = 212 Venituri din producţia de imobilizări corporale / Construcţii",
+      "d) 2812 = 212 Amortizarea construcţiilor / Construcţii"
+    ],
+    "correct": [
+      "b) 6583 = 212 Cheltuieli privind activele cedate şi alte operaţii de capital / Construcţii",
+      "d) 2812 = 212 Amortizarea construcţiilor / Construcţii"
+    ]
+  },
+  {
+    "question": "4) Care este explicația formulei contabile următoare? % = 404 / 231 Imobilizări corporale în curs de execuţie / 4426 Tva deductibilă",
+    "answers": [
+      "a) achiziţia unui program informatic",
+      "b) obţinerea din producţie proprie a unei imobilizări corporale",
+      "c) servicii prestate, facturate de furnizor pentru construcţia unei imobilizări corporale",
+      "d) avans achitat furnizorului de imobilizări"
+    ],
+    "correct": [
+      "c) servicii prestate, facturate de furnizor pentru construcţia unei imobilizări corporale"
+    ]
+  },
+  {
+    "question": "5) Modernizarea presupune:",
+    "answers": [
+      "a) înlocuirea unui piese cu alta mai performantă",
+      "b) adăugarea unei alte componente, fără modificarea valorii activului",
+      "c) înlocuirea unei componente neapărat uzate",
+      "d) creşterea performanţelor activului modernizat"
+    ],
+    "correct": [
+      "a) înlocuirea unui piese cu alta mai performantă",
+      "d) creşterea performanţelor activului modernizat"
+    ]
+  },
+  {
+    "question": "6) Dacă rezultatul reevaluării unei clădiri este o creştere a valorii contabile nete, aceasta se tratează ca:",
+    "answers": [
+      "a) o creştere a rezervei din reevaluare, dacă nu a existat o descreştere anterioară recunoscută ca o cheltuială aferentă acelui activ",
+      "b) un venit ce compensează cheltuiala cu descreşterea de valoare recunoscută anterior, la acelaşi element de activ",
+      "c) o scădere a rezervei din reevaluare cu minimul dintre valoarea rezervei din reevaluare şi valoarea descreşterii",
+      "d) o cheltuială, atunci când nu există rezerve din reevaluare care să acopere descreşterea de valoare"
+    ],
+    "correct": [
+      "a) o creştere a rezervei din reevaluare, dacă nu a existat o descreştere anterioară recunoscută ca o cheltuială aferentă acelui activ",
+      "b) un venit ce compensează cheltuiala cu descreşterea de valoare recunoscută anterior, la acelaşi element de activ"
+    ]
+  },
+  {
+    "question": "7) Dacă rezultatul reevaluării este o scădere a valorii contabile nete, aceasta se tratează ca:",
+    "answers": [
+      "a) o creştere a rezervei din reevaluare, dacă nu a existat o descreştere anterioară recunoscută ca o cheltuială aferentă acelui activ",
+      "b) un venit ce compensează cheltuiala cu descreşterea de valoare recunoscută anterior, la acelaşi element de activ",
+      "c) o scădere a rezerei din reevaluare cu minimul dintre valoarea rezervei din reevaluare şi valoarea descreşterii",
+      "d) o cheltuială, atunci când nu există rezerve din reevaluare care să acopere descreşterea de valoare"
+    ],
+    "correct": [
+      "c) o scădere a rezervei din reevaluare cu minimul dintre valoarea rezervei din reevaluare şi valoarea descreşterii",
+      "d) o cheltuială, atunci când nu există rezerve din reevaluare care să acopere descreşterea de valoare"
+    ]
+  },
+  {
+    "question": "8) În operaţiile de reevaluare, tratamentul amortizării vizează:",
+    "answers": [
+      "a) să rămână mereu la valoarea înregistrată",
+      "b) să fie eliminată din valoarea activului",
+      "c) să fie actualizată cu indicele de actualizare",
+      "d) să nu afecteze valoarea netă a activului"
+    ],
+    "correct": [
+      "b) să fie eliminată din valoarea activului",
+      "c) să fie actualizată cu indicele de actualizare"
+    ]
+  },
+  {
+    "question": "9) Dacă un activ reevaluat se vinde, surplusul din reevaluare:",
+    "answers": [
+      "a) se transferă în profitul curent",
+      "b) se transferă la rezerve",
+      "c) se transferă la rezultatul reportat",
+      "d) se transferă la venituri"
+    ],
+    "correct": [
+      "b) se transferă la rezerve",
+      "c) se transferă la rezultatul reportat"
+    ]
+  },
+  {
+    "question": "10) Formula contabilă 105 = 212 se poate explica astfel:",
+    "answers": [
+      "a) diferenţe în plus din reevaluare",
+      "b) creşterea valorii activelor imobilizate",
+      "c) diminuarea valorii activelor reevaluate",
+      "d) transmiterea cu titlu gratuit a unui activ"
+    ],
+    "correct": [
+      "c) diminuarea valorii activelor reevaluate"
+    ]
+  },
+  {
+    "question": "11) Atunci când contractul de concesiune stabileşte o durată şi o valoare determinate pentru o concesiune:",
+    "answers": [
+      "a) se recunoaşte o imobilizare necorporală",
+      "b) se recunoaşte o imobilizare corporală",
+      "c) se recunoaşte doar o cheltuială cu redevenţa, fără recunoaşterea unei imobilizări",
+      "d) se recunoaşte o imobilizare corporală pentru activul concesionat şi o imobilizare necorporală pentru valoare concesiunii"
+    ],
+    "correct": [
+      "a) se recunoaşte o imobilizare necorporală"
+    ]
+  },
+  {
+    "question": "12) Amortizarea lunară a unei clădiri concesionate se înregistrează cu formula:",
+    "answers": [
+      "a) 6811 = 212",
+      "b) 6811 = 205",
+      "c) 6811 = 2805",
+      "d) 167 = 205"
+    ],
+    "correct": [
+      "c) 6811 = 2805"
+    ]
+  },
+  {
+    "question": "13) Obţinerea unei francize în baza contractului se înregistrează cu formula:",
+    "answers": [
+      "a) 167 = 205",
+      "b) 612 = 401",
+      "c) 6811 = 167",
+      "d) 205 = 167"
+    ],
+    "correct": [
+      "d) 205 = 167"
+    ]
+  },
+  {
+    "question": "14) Plata redevenţei se înregistrează prin formula contabilă:",
+    "answers": [
+      "a) 612 = 401",
+      "b) 401 = 5311",
+      "c) 401 = 5121",
+      "d) 167 = 401"
+    ],
+    "correct": [
+      "b) 401 = 5311",
+      "c) 401 = 5121"
+    ]
+  },
+  {
+    "question": "15) Scoaterea din evidenţă a unei francize complet amortizate se înregistrează prin formula contabilă:",
+    "answers": [
+      "a) 6811 = 2805",
+      "b) 2805 = 205",
+      "c) 167 = 205",
+      "d) 167 = 404"
+    ],
+    "correct": [
+      "b) 2805 = 205"
+    ]
+  },
+  {
+    "question": "16) Amortizarea pentru bunurile ce fac obiectul unui contract de leasing se înregistrează:",
+    "answers": [
+      "a) de către locatar pentru contractele de leasing financiar",
+      "b) de ambii parteneri, indiferent de natura contractului de leasing",
+      "c) de către locator pentru contractele de leasing operaţional",
+      "d) de nici un partener până la sfârşitul contractului"
+    ],
+    "correct": [
+      "a) de către locatar pentru contractele de leasing financiar",
+      "c) de către locator pentru contractele de leasing operaţional"
+    ]
+  },
+  {
+    "question": "17) Predarea unui utilaj în regim de leasing financiar se reflectă contabil cu ajutorul formulei:",
+    "answers": [
+      "a) 167 = 213",
+      "b) 267 = 213",
+      "c) 461 = 7583",
+      "d) 6811 = 213"
+    ],
+    "correct": [
+      "b) 267 = 213"
+    ]
+  },
+  {
+    "question": "18) Primirea unui utilaj în regim de leasing financiar se reflectă în contabilitate cu formula:",
+    "answers": [
+      "a) 213 = 167",
+      "b) 213 = 456",
+      "c) 213 = 401",
+      "d) 213 = 404"
+    ],
+    "correct": [
+      "a) 213 = 167"
+    ]
+  },
+  {
+    "question": "19) Ce descrie formula contabilă următoare: 4111 = % / 267 Creanţe imobilizate / 766 Venituri din dobânzi / 4427 TVA colectată",
+    "answers": [
+      "a) factura unei rate contractuale primită de către locatar",
+      "b) factura unei rate contractuale emisă de locator",
+      "c) avansul solicitat de locator",
+      "d) avansul datorat de locatar"
+    ],
+    "correct": [
+      "b) factura unei rate contractuale emisă de locator"
+    ]
+  },
+  {
+    "question": "20) Rata trimestrială înregistrată în cadrul unui contract de leasing: % = 404 / 167 Alte împrumuturi şi datorii asimilate / 666 Cheltuieli privind dobânzile / 4426 TVA deductibilă",
+    "answers": [
+      "a) este specifică locatarului de leasing operaţional",
+      "b) este specifică locatorului de leasing operaţional",
+      "c) este specifică locatarului de leasing financiar",
+      "d) este specifică locatorului de leasing financiar"
+    ],
+    "correct": [
+      "c) este specifică locatarului de leasing financiar"
+    ]
+  },
+  {
+    "question": "21) Înregistrarea plusului de valoare din titluri de participare primite peste valoarea neamortizată a imobilizărilor corporale se înregistrează cu formula:",
+    "answers": [
+      "a) 105 = 263",
+      "b) 263 = 1068",
+      "c) 263 = 212",
+      "d) 263 = 105"
+    ],
+    "correct": [
+      "b) 263 = 1068"
+    ]
+  },
+  {
+    "question": "22) Scăderea din gestiune a intereselor de participare vândute se înregistrează:",
+    "answers": [
+      "a) 6583 = 263",
+      "b) 5121 = 263",
+      "c) 6641 = 263",
+      "d) 4111 = 263"
+    ],
+    "correct": [
+      "c) 6641 = 263"
+    ]
+  },
+  {
+    "question": "23) Achiziționarea de acțiuni cu decontare ulterioară se reflectă cu formula contabilă:",
+    "answers": [
+      "a) 261 = 401",
+      "b) 261 = 461",
+      "c) 261 = 5121",
+      "d) 261 = 269"
+    ],
+    "correct": [
+      "d) 261 = 269"
+    ]
+  },
+  {
+    "question": "24) În ce situație se efectuează întregistrarea contabilă de mai jos? 461 = 7641",
+    "answers": [
+      "a) primirea cu titlu gratuit a unor acțiuni",
+      "b) vânzarea de acțiuni deținute de la alte entități",
+      "c) subscrierea de aporturi în capitalul altei firme",
+      "d) descărcarea gestiunii de titluri de participare vândute"
+    ],
+    "correct": [
+      "b) vânzarea de acțiuni deținute de la alte entități"
+    ]
+  },
+  {
+    "question": "25) Care este semnificația următoarei formule contabile? 6863 = 296",
+    "answers": [
+      "a) pierderi de valoare la imobilizările financiare deținute",
+      "b) scoaterea din gestiune a imobilizărilor financiare vândute cu decontare ulterioară",
+      "c) plusuri din reevaluarea imobilizărilor financiare",
+      "d) achiziția de titluri de plasament cu decontare ulterioară"
+    ],
+    "correct": [
+      "a) pierderi de valoare la imobilizările financiare deținute"
+    ]
+  },
+  {
+    "question": "26) Care din formulele contabile de mai jos, în cadrul metodei inventarului intermitent, corespund afirmaţiilor?",
+    "answers": [
+      "a) destocarea materiilor prime la deschiderea exerciţiului: 601 Cheltuieli cu materiile prime = 301 Materii prime",
+      "b) plusul de materiale consumabile constatat la inventarierea fizică: 602 Cheltuieli cu materialele consumabile = 302 Materiale consumabile",
+      "c) plusul de inventar: 301 Materii prime = 604 Cheltuieli privind materialele nestocabile",
+      "d) aprovizionările cu materii prime în timpul exerciţiului: % / 601 Cheltuieli cu materiile prime / 4426 TVA deductibilă = 401 Furnizori"
+    ],
+    "correct": [
+      "a) destocarea materiilor prime la deschiderea exerciţiului: 601 Cheltuieli cu materiile prime = 301 Materii prime",
+      "d) aprovizionările cu materii prime în timpul exerciţiului: % / 601 Cheltuieli cu materiile prime / 4426 TVA deductibilă = 401 Furnizori"
+    ]
+  },
+  {
+    "question": "27) Care sunt semnificaţiile corecte privind următoarea formulă contabilă? 301 Materii prime = 601 Cheltuieli cu materiile prime",
+    "answers": [
+      "a) constatarea stocului final în cadrul metodei inventarului intermitent",
+      "b) recepţionarea materiilor prime obţinute din producţia proprie",
+      "c) înregistrarea plusurilor în gestiune determinate prin inventarul fizic",
+      "d) darea materiilor prime în consum"
+    ],
+    "correct": [
+      "a) constatarea stocului final în cadrul metodei inventarului intermitent",
+      "c) înregistrarea plusurilor în gestiune determinate prin inventarul fizic"
+    ]
+  },
+  {
+    "question": "28) Care dintre formulele următoare se întâlnesc la înregistrarea diferențelor de preț la produsele finite:",
+    "answers": [
+      "a) 348 Diferențe de preț la produse = 345 Produse finite",
+      "b) 348 Diferențe de preț la produse = 711 Venituri aferente costurilor stocurilor de produse",
+      "c) 711 Venituri aferente costurilor stocurilor de produse = 345 Produse finite",
+      "d) 711 Venituri aferente costurilor stocurilor de produse = 348 Diferențe de preț la produse"
+    ],
+    "correct": [
+      "b) 348 Diferențe de preț la produse = 711 Venituri aferente costurilor stocurilor de produse",
+      "d) 711 Venituri aferente costurilor stocurilor de produse = 348 Diferențe de preț la produse"
+    ]
+  },
+  {
+    "question": "29) Care sunt semnificaţiile corecte ale formulei contabile? 345 Produse finite = 711 Venituri aferente costurilor stocurilor de produse",
+    "answers": [
+      "a) reflectă vânzări de produse finite",
+      "b) reflectă produsele finite recepţionate din procesul de fabricaţie şi predate la depozit",
+      "c) reflectă produsele finite constatate plus la inventariere",
+      "d) reflectă scăderea gestiunii pentru produsele finite livrate"
+    ],
+    "correct": [
+      "b) reflectă produsele finite recepţionate din procesul de fabricaţie şi predate la depozit",
+      "c) reflectă produsele finite constatate plus la inventariere"
+    ]
+  },
+  {
+    "question": "30) Care este semnificaţia corectă a formulei contabile? 4111 Clienţi = % / 701 Venituri din vânzarea produselor finite / 4427 TVA colectată",
+    "answers": [
+      "a) reflectă vânzări de mărfuri",
+      "b) reflectă vânzări de produse finite",
+      "c) reflectă transferuri de produse finite la mărfuri",
+      "d) reflectă aprovizionări cu produse finite"
+    ],
+    "correct": [
+      "b) reflectă vânzări de produse finite"
+    ]
+  },
+  {
+    "question": "31) Aprovizionările cu mărfuri se înregistrează cu formulele contabile:",
+    "answers": [
+      "a) % / 371 Mărfuri / 4426 TVA deductibilă = 404 Furnizori de imobilizări",
+      "b) % / 371 Mărfuri / 4426 TVA deductibilă = 403 Efecte de plătit",
+      "c) % / 371 Mărfuri / 4426 TVA deductibilă = 401 Furnizori",
+      "d) % / 371 Mărfuri / 4428 TVA neexigibilă = 408 Furnizori-facturi nesosite"
+    ],
+    "correct": [
+      "c) % / 371 Mărfuri / 4426 TVA deductibilă = 401 Furnizori",
+      "d) % / 371 Mărfuri / 4428 TVA neexigibilă = 408 Furnizori-facturi nesosite"
+    ]
+  },
+  {
+    "question": "32) Înregistrarea vânzărilor de mărfuri cu ridicata se face cu formulele contabile:",
+    "answers": [
+      "a) 418 Clienţi – facturi de întocmit = % / 707 Venituri din vânzarea mărfurilor / 4428 TVA neexigibilă",
+      "b) 4111 Clienţi = % / 707 Venituri din vânzarea mărfurilor / 4427 TVA colectată",
+      "c) 4111 Clienţi = % / 701 Venituri din vânzarea produselor vândute / 4427 TVA colectată",
+      "d) 413 Efecte de primit = % / 707 Venituri din vânzarea mărfurilor / 4427 TVA colectată"
+    ],
+    "correct": [
+      "a) 418 Clienţi – facturi de întocmit = % / 707 Venituri din vânzarea mărfurilor / 4428 TVA neexigibilă",
+      "b) 4111 Clienţi = % / 707 Venituri din vânzarea mărfurilor / 4427 TVA colectată"
+    ]
+  },
+  {
+    "question": "33) Înregistrarea scăderii gestiunii pentru mărfurile vândute de întreprinderea comercială, prin depozitele cu ridicata, când evidenţa se ţine după metoda inventarului permanent la cost de achiziţie, se face cu formula contabilă:",
+    "answers": [
+      "a) 4111 Clienţi = 371 Mărfuri",
+      "b) 418 Clienţi – facturi de întocmit = 371 Mărfuri",
+      "c) 607 Cheltuieli privind mărfurile = 371 Mărfuri",
+      "d) 5311 Casa în lei = 371 Mărfuri"
+    ],
+    "correct": [
+      "c) 607 Cheltuieli privind mărfurile = 371 Mărfuri"
+    ]
+  },
+  {
+    "question": "34) Preţul de vânzare aferent mărfurilor aprovizionate, în cazul utilizării metodei inventarului permanent la preţ de vânzare, este format din:",
+    "answers": [
+      "a) costul de achiziţie al mărfurilor",
+      "b) costul de achiziţie al mărfurilor plus marja brută",
+      "c) preţul de utilitate",
+      "d) adaosul comercial plus TVA colectată"
+    ],
+    "correct": [
+      "b) costul de achiziţie al mărfurilor plus marja brută"
+    ]
+  },
+  {
+    "question": "35) Înregistrarea scăderii gestiunii pentru mărfurile vândute prin depozitele cu ridicata, când evidenţa se ţine după metoda inventarului permanent la preţ de vânzare, se face cu formula contabilă:",
+    "answers": [
+      "a) 607 Cheltuieli privind mărfurile = 371 Mărfuri",
+      "b) 378 Diferenţe de preţ la mărfuri = 371 Mărfuri",
+      "c) % / 4111 Clienţi / 378 Diferenţe de preţ la mărfuri = 371 Mărfuri",
+      "d) % / 607 Cheltuieli privind mărfurile / 378 Diferenţe de preţ la mărfuri = 371 Mărfuri"
+    ],
+    "correct": [
+      "d) % / 607 Cheltuieli privind mărfurile / 378 Diferenţe de preţ la mărfuri = 371 Mărfuri"
+    ]
+  },
+  {
+    "question": "36) Din balanța lunii ianuarie se cunosc următoarele informații despre evidența mărfurilor la preț de vânzare cu amănuntul, inclusiv TVA 19%, la un magazin: SID 371 = 10.000 lei, SIC 378 = 1.000 lei și SIC 4428 = 1.600 lei, RD 371 = 25.000 lei, RC 378 = 2.100 lei și RC 4428 = 4.000 lei. În cursul lunii s-au vândut mărfuri cu amănuntul, încasându-se suma totală de 17.850 lei, inclusiv TVA 19%. Adaosul comercial aferent mărfurilor vândute a fost de:",
+    "answers": [
+      "a) 1.581,63 lei",
+      "b) 1.785,71 lei",
+      "c) 1.328,57 lei",
+      "d) 1.260,00 lei"
+    ],
+    "correct": [
+      "d) 1.260,00 lei"
+    ]
+  },
+  {
+    "question": "37) Un magazin „en detail” ţine evidenţa mărfurilor la preţ de vânzare cu amănuntul inclusiv TVA 19%. În cursul lunii a vândut mărfuri pentru care a încasat în numerar suma totală de 15.708 lei. Formula contabilă pentru aceste încasări este:",
+    "answers": [
+      "a) 5311 Casa în lei = % / 707 Venituri din vânzarea mărfurilor / 4428 TVA neexigibilă – 15.708 lei, 13.200 lei, 2.508 lei",
+      "b) 5311 Casa în lei = % / 371 Mărfuri / 4427 TVA colectată – 15.708 lei, 13.200 lei, 2.508 lei",
+      "c) 5311 Casa în lei = % / 707 Venituri din vânzarea mărfurilor / 4427 TVA colectată – 15.708 lei, 13.200 lei, 2.508 lei",
+      "d) 5311 Casa în lei = % / 707 Venituri din vânzarea mărfurilor / 4427 TVA colectată – 15.708 lei, 12.723 lei, 2.985 lei"
+    ],
+    "correct": [
+      "c) 5311 Casa în lei = % / 707 Venituri din vânzarea mărfurilor / 4427 TVA colectată – 15.708 lei, 13.200 lei, 2.508 lei"
+    ]
+  },
+  {
+    "question": "38) Care formulă contabilă este specifică la vânzarea mărfurilor primite de la o persoană fizică, în regim de consignație, cu un comision de 10%:",
+    "answers": [
+      "a) 5311 Casa în lei = % / 707 Venituri din vânzarea mărfurilor / 708 Venituri din activităţi diverse / 4428 TVA neexigibilă – 2.618 lei, 2.000 lei, 200 lei, 418 lei",
+      "b) 5311 Casa în lei = % / 707 Venituri din vânzarea mărfurilor / 708 Venituri din activităţi diverse / 4427 TVA colectată – 2.618 lei, 2.000 lei, 200 lei, 418 lei",
+      "c) 5311 Casa în lei = % / 707 Venituri din vânzarea mărfurilor / 378 Diferențe de preț la mărfuri / 4428 TVA neexigibilă – 2.618 lei, 2.000 lei, 200 lei, 418 lei",
+      "d) 5311 Casa în lei = % / 371 Venituri din vânzarea mărfurilor / 378 Diferențe de preț la mărfuri / 4427 TVA colectată – 2.618 lei, 2.000 lei, 200 lei, 418 lei"
+    ],
+    "correct": [
+      "b) 5311 Casa în lei = % / 707 Venituri din vânzarea mărfurilor / 708 Venituri din activităţi diverse / 4427 TVA colectată – 2.618 lei, 2.000 lei, 200 lei, 418 lei"
+    ]
+  },
+  {
+    "question": "39) Care formulă corespunde cu explicația dată:",
+    "answers": [
+      "a) ambalaje returnabile primite de la furnizor și care se vor returna în viitor: 4111 Clienți = 419 Clienţi-creditori",
+      "b) ambalaje returnabile primite anterior de la furnizor și care se restituie acum: 419 Clienţi-creditori = 4111 Clienți",
+      "c) ambalaje returnabile primite acum de la furnizor și care se vor restitui în viitor: 409 Furnizori-debitori = 401 Furnizori",
+      "d) ambalaje returnabile primite anterior de la furnizor și care se restituie acum: 401 Furnizori = 409 Furnizori-debitori"
+    ],
+    "correct": [
+      "c) ambalaje returnabile primite acum de la furnizor și care se vor restitui în viitor: 409 Furnizori-debitori = 401 Furnizori",
+      "d) ambalaje returnabile primite anterior de la furnizor și care se restituie acum: 401 Furnizori = 409 Furnizori-debitori"
+    ]
+  },
+  {
+    "question": "40) Care formulă corespunde cu explicația dată:",
+    "answers": [
+      "a) ambalaje returnabile transmise clienților și care se vor returna în viitor: 4111 Clienți = 419 Clienţi-creditori",
+      "b) ambalaje returnabile reprimite de la clienți: 419 Clienţi-creditori = 4111 Clienți",
+      "c) ambalaje returnabile reținute de către clienți pentru nevoi proprii: 409 Furnizori-debitori = 4111 Clienți",
+      "d) ambalaje returnabile transmise către clienți: 401 Furnizori = 409 Furnizori-debitori"
+    ],
+    "correct": [
+      "a) ambalaje returnabile transmise clienților și care se vor returna în viitor: 4111 Clienți = 419 Clienţi-creditori",
+      "b) ambalaje returnabile reprimite de la clienți: 419 Clienţi-creditori = 4111 Clienți"
+    ]
+  },
+  {
+    "question": "41) Casa de amanet primește de la o persoană fizică un telefon mobil evaluat la 4.000 lei, în schimbul căruia acordă un împrumut de 3.600 lei, diferența fiind comisionul reținut de 400 lei. Persoana fizică nu mai restituie împrumutul și telefonul este expus la vânzare. Care formule se pot întâlni în gestionarea acestei situații?",
+    "answers": [
+      "a) 2678 Alte creanțe imobilizate = % / 5311 Casa în lei / 704 Venituri din servicii prestate – 4.400 lei, 4.000 lei, 400 lei",
+      "b) 2678 Alte creanțe imobilizate = % / 5311 Casa în lei / 704 Venituri din servicii prestate – 4.000 lei, 3.600 lei, 400 lei",
+      "c) 371 Mărfuri = 2678 Alte creanțe imobilizate – 4.000 lei",
+      "d) 5311 Casa în lei = 2678 Alte creanțe imobilizate – 4.000 lei"
+    ],
+    "correct": [
+      "b) 2678 Alte creanțe imobilizate = % / 5311 Casa în lei / 704 Venituri din servicii prestate – 4.000 lei, 3.600 lei, 400 lei",
+      "c) 371 Mărfuri = 2678 Alte creanțe imobilizate – 4.000 lei"
+    ]
+  },
+  {
+    "question": "42) Identificați formula contabilă care corespunde cu explicația asociată:",
+    "answers": [
+      "a) 401 = 403, depunerea biletului la ordin spre încasare la bancă",
+      "b) 403 = 5121, încasarea unui efect de comerț",
+      "c) 401 = 403, acceptarea biletului la ordin de către furnizor",
+      "d) 403 = 5121, plata unui efect de comerț la scadență"
+    ],
+    "correct": [
+      "c) 401 = 403, acceptarea biletului la ordin de către furnizor",
+      "d) 403 = 5121, plata unui efect de comerț la scadență"
+    ]
+  },
+  {
+    "question": "43) Care este explicația formulei contabile de mai jos? % / 609 Reduceri comerciale primite / 4426 TVA deductibilă = 401 Furnizori, -119 lei, -100 lei, -19 lei",
+    "answers": [
+      "a) reducerea financiară acordată de firmă unui client",
+      "b) scontul financiar primit de la un client",
+      "c) primirea de la furnizor a unei reduceri comerciale",
+      "d) înregistrarea unei creanțe nerecuperabile"
+    ],
+    "correct": [
+      "c) primirea de la furnizor a unei reduceri comerciale"
+    ]
+  },
+  {
+    "question": "44) Care formulă contabilă corespunde cu explicația dată?",
+    "answers": [
+      "a) 5411 = 413, încasarea unui bilet la ordin",
+      "b) 5113 = 413, depunerea la bancă a unei cambii, la scadență, spre încasare",
+      "c) 5113 = 405, depunerea la bancă a unei cambii pentru achiziția de imobilizări",
+      "d) 4118 = 4111, înregistrarea unei creanțe care nu s-a încasat la termen"
+    ],
+    "correct": [
+      "b) 5113 = 413, depunerea la bancă a unei cambii, la scadență, spre încasare",
+      "d) 4118 = 4111, înregistrarea unei creanțe care nu s-a încasat la termen"
+    ]
+  },
+  {
+    "question": "45) Care formulă contabilă corespunde cu explicația dată?",
+    "answers": [
+      "a) înregistrarea tichetelor de masă acordate salariaților: 6422 = 5328 Cheltuieli cu tichetele acordate salariaților / Alte valori",
+      "b) contribuția asiguratorie pentru muncă datorată de firmă: 646 = 436 Cheltuieli privind contribuția asiguratorie pentru muncă / Contribuția asiguratorie pentru muncă",
+      "c) contribuția asiguratorie pentru muncă aferentă salariilor datorate: 646 = 421 Cheltuieli privind contribuția asiguratorie pentru muncă / Personal - salarii datorate",
+      "d) impozitarea valorii tichetelor de masă acordate salariaților: 444 = 5328 Impozitul pe venituri de natura salariilor / Alte valori"
+    ],
+    "correct": [
+      "a) înregistrarea tichetelor de masă acordate salariaților: 6422 = 5328 Cheltuieli cu tichetele acordate salariaților / Alte valori",
+      "b) contribuția asiguratorie pentru muncă datorată de firmă: 646 = 436 Cheltuieli privind contribuția asiguratorie pentru muncă / Contribuția asiguratorie pentru muncă"
+    ]
+  },
+  {
+    "question": "46) Care formulă contabilă corespunde cu explicația dată?",
+    "answers": [
+      "a) înregistrarea impozitului pe salariu: 421 = 444 Personal-salarii datorate / Impozitul pe venituri de natura salariilor",
+      "b) drepturi cuvenite angajaților aflați în concediu medical: 4382 = 423 Alte creanțe sociale / Personal – ajutoare materiale datorate",
+      "c) contribuția la asigurări sociale reținută din valoarea concediului medical: 6458 = 4315 Alte cheltuieli privind asigurările și protecția socială / Contribuția de asigurări sociale",
+      "d) valoarea concediilor medicale suportate de firmă: 6458 = 423 Alte cheltuieli privind asigurările și protecția socială / Personal – ajutoare materiale datorate"
+    ],
+    "correct": [
+      "a) înregistrarea impozitului pe salariu: 421 = 444 Personal-salarii datorate / Impozitul pe venituri de natura salariilor",
+      "d) valoarea concediilor medicale suportate de firmă: 6458 = 423 Alte cheltuieli privind asigurările și protecția socială / Personal – ajutoare materiale datorate"
+    ]
+  },
+  {
+    "question": "47) Firma distribuie salariaţilor bilete de tratament în sumă de 8.000 lei, plus TVA 19%, suportând 60% din contravaloarea acestora, restul fiind suportat de salariați. Care formule se întâlnesc în soluționarea acestei situații?",
+    "answers": [
+      "a) % / 4282 Alte creanțe în legătură cu personalul / 4426 TVA deductibilă = 4427 TVA colectată – 1.520 lei, 608 lei, 912 lei",
+      "b) % / 4282 Alte creanțe în legătură cu personalul / 635 Cheltuieli cu alte impozite, taxe şi vărsăminte asimilate = 4427 TVA colectată – 1.520 lei, 608 lei, 912 lei",
+      "c) % / 4282 Alte creanțe în legătură cu personalul / 6458 Alte cheltuieli privind asigurările și protecția socială = 5322 Bilete de tratament și odihnă – 8.000 lei, 3.200 lei, 4.800 lei",
+      "d) % / 423 Personal – ajutoare materiale datorate / 6458 Alte cheltuieli privind asigurările și protecția socială = 5322 Bilete de tratament și odihnă – 9.520 lei, 3.808 lei, 5.712 lei"
+    ],
+    "correct": [
+      "b) % / 4282 Alte creanțe în legătură cu personalul / 635 Cheltuieli cu alte impozite, taxe şi vărsăminte asimilate = 4427 TVA colectată – 1.520 lei, 608 lei, 912 lei",
+      "c) % / 4282 Alte creanțe în legătură cu personalul / 6458 Alte cheltuieli privind asigurările și protecția socială = 5322 Bilete de tratament și odihnă – 8.000 lei, 3.200 lei, 4.800 lei"
+    ]
+  },
+  {
+    "question": "48) Se cunosc următoarele informații privind TVA la nivelul lunii ianuarie: SID 4424 = 1.000 lei; RD 4426 = 16.500 lei; RC 4427 = 26.500 lei. Care formule contabile se pot întâlni la regularizarea TVA pentru luna ianuarie?",
+    "answers": [
+      "a) 4426 = 4427 16.500 lei",
+      "b) 4424 = 4423 1.000 lei",
+      "c) 4423 = 4424 1.000 lei",
+      "d) 4427 = 4423 10.000 lei"
+    ],
+    "correct": [
+      "c) 4423 = 4424 1.000 lei",
+      "d) 4427 = 4423 10.000 lei"
+    ]
+  },
+  {
+    "question": "49) Care este relația corectă dintre rezultatul impozabil (Ri), rezultatul contabil (Rc), veniturile neimpozabile (Vn) și cheltuielile nedeductibile (Cnd):",
+    "answers": [
+      "a) Rc = Ri – Vn + Cnd",
+      "b) Ri = Rc – Vn + Cnd",
+      "c) Ri = Rc – Vn – Cnd",
+      "d) Rc = Ri + Vn – Cnd"
+    ],
+    "correct": [
+      "b) Ri = Rc – Vn + Cnd",
+      "d) Rc = Ri + Vn – Cnd"
+    ]
+  },
+  {
+    "question": "50) Cheltuielile cu deductibilitate limitată la calculul impozitului pe profit sunt:",
+    "answers": [
+      "a) perisabilitățile",
+      "b) impozitul pe profit",
+      "c) voucherele de vacanță",
+      "d) amenzile de circulație"
+    ],
+    "correct": [
+      "a) perisabilitățile",
+      "c) voucherele de vacanță"
+    ]
+  }
+]

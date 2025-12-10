@@ -1,0 +1,473 @@
+[
+  {
+    "question": "1. În categoria operaţiunilor active desfăşurate de instituţiile de credit intră:",
+    "answers": [
+      "a) rescontarea;",
+      "b) administrarea titlurilor de valoare;",
+      "c) scontarea;",
+      "d) constituirea de depozite ale clienţilor;",
+      "e) constituirea capitalului propriu."
+    ],
+    "correct": [
+      "c) scontarea;"
+    ]
+  },
+  {
+    "question": "2. În categoria operaţiunilor pasive desfăşurate de instituţiile de credit intră:",
+    "answers": [
+      "a) rescontarea;",
+      "b) acordarea de credite;",
+      "c) scontarea;",
+      "d) constituirea de depozite ale clienţilor;",
+      "e) achiziţia de efecte publice"
+    ],
+    "correct": [
+      "a) rescontarea;",
+      "d) constituirea de depozite ale clienţilor;"
+    ]
+  },
+  {
+    "question": "3. Conform principiului necompensării:",
+    "answers": [
+      "a) compensare între elementele de activ şi de datorii sau între elementele de venituri şi cheltuieli este interzisă;",
+      "b) compensare între elementele de activ şi de datorii sau între elementele de venituri şi cheltuieli este permisă;",
+      "c) compensare între elementele de activ şi de datorii este permisă;",
+      "d) compensare între elementele de activ şi de datorii sau între elementele de venituri şi cheltuieli este interzisă, cu excepţia cazurilor prevăzute de reglementările în vigoare;",
+      "e) compensare între elementele de venituri şi cheltuieli este permisă."
+    ],
+    "correct": [
+      "d) compensare între elementele de activ şi de datorii sau între elementele de venituri şi cheltuieli este interzisă, cu excepţia cazurilor prevăzute de reglementările în vigoare;"
+    ]
+  },
+  {
+    "question": "4. La data ieşirii din patrimoniu evaluarea se face la:",
+    "answers": [
+      "a) valoarea de inventar;",
+      "b) valoarea cea mai mare dintre valoarea de intrare şi valoarea de inventar;",
+      "c) valoarea cea mai mică dintre valoarea de intrare şi valoarea de inventar;",
+      "d) valoarea de intrare;",
+      "e) media celor două valori."
+    ],
+    "correct": [
+      "d) valoarea de intrare;"
+    ]
+  },
+  {
+    "question": "5. Dobânda bancară poate fi:",
+    "answers": [
+      "a) dobândă activă atunci când reflectă dobânda plătită de către bancă;",
+      "b) dobândă activă atunci când reflectă dobânda încasată de către bancă;",
+      "c) dobânda pasivă atunci când reflectă dobânda încasată de către bancă;",
+      "d) creanţă ataşată atunci când reflectă dobânda plătită de către bancă;",
+      "e) datorie ataşată atunci când reflectă dobânda încasată de către bancă."
+    ],
+    "correct": [
+      "b) dobândă activă atunci când reflectă dobânda încasată de către bancă;"
+    ]
+  },
+  {
+    "question": "6. Dobânda bancară se înregistrează:",
+    "answers": [
+      "a) pe venituri atunci când reflectă dobânda de încasat de către bancă;",
+      "b) pe cheltuieli atunci când reflectă dobânda de încasat de către bancă;",
+      "c) nu se înregistrează în contabilitate;",
+      "d) pe cheltuieli prin intermediul provizioanelor;",
+      "e) prin includerea în cheltuieli şi creşterea amortizării"
+    ],
+    "correct": [
+      "a) pe venituri atunci când reflectă dobânda de încasat de către bancă;"
+    ]
+  },
+  {
+    "question": "7. Sunt operaţiuni desfăşurate de BNR:",
+    "answers": [
+      "a) scontarea;",
+      "b) constituirea de depozite ale clienţilor;",
+      "c) evidenţa contului curent general al Trezoreriei Statului;",
+      "d) operaţiuni de piaţă monetară;",
+      "e) creditarea pe descoperit de cont sau orice alt tip de creditare a statului, autorităţilor publice centrale şi locale."
+    ],
+    "correct": [
+      "c) evidenţa contului curent general al Trezoreriei Statului;",
+      "d) operaţiuni de piaţă monetară;"
+    ]
+  },
+  {
+    "question": "8. Extrasul de cont este:",
+    "answers": [
+      "a) un document emis de agentul economic;",
+      "b) un document emis de agentul economic pe baza căruia se fac înregistrările în contabilitatea proprie;",
+      "c) un document emis de bancă, care se remite titularului de cont pe baza căruia se fac înregistrările în contabilitatea bancară;",
+      "d) un document emis de bancă, care se remite titularului de cont pe baza căruia se fac înregistrările în contabilitatea acestuia;",
+      "e) documentul pe baza căruia banca înregistrează intrările şi ieşirile în/din contul curent al titularului."
+    ],
+    "correct": [
+      "d) un document emis de bancă, care se remite titularului de cont pe baza căruia se fac înregistrările în contabilitatea acestuia;"
+    ]
+  },
+  {
+    "question": "9. Din punct de vedere al băncii, soldul debitor al contului curent al clientului reflectă:",
+    "answers": [
+      "a) o datorie a băncii pentru descoperit de cont (linia de credit);",
+      "b) o resursă atrasă de la titular;",
+      "c) o datorie a băncii faţă de titular pentru disponibilul din contul curent;",
+      "d) o creanţă a băncii faţă de titular pentru disponibilul din contul curent;",
+      "e) o creanţă a băncii pentru descoperit de cont (linia de credit)."
+    ],
+    "correct": [
+      "e) o creanţă a băncii pentru descoperit de cont (linia de credit)."
+    ]
+  },
+  {
+    "question": "10. Din punct de vedere al băncii, soldul creditor al contului curent al clientului reflectă:",
+    "answers": [
+      "a) o datorie a băncii pentru descoperit de cont (linia de credit);",
+      "b) o resursă atrasă de la titular;",
+      "c) o datorie a băncii faţă de titular pentru disponibilul din contul curent;",
+      "d) o creanţă a băncii faţă de titular pentru disponibilul din contul curent;",
+      "e) o creanţă a băncii pentru descoperit de cont (linia de credit)."
+    ],
+    "correct": [
+      "b) o resursă atrasă de la titular;",
+      "c) o datorie a băncii faţă de titular pentru disponibilul din contul curent;"
+    ]
+  },
+  {
+    "question": "11. Acordarea creditelor la termen altor instituţii de credit se înregistrează:",
+    "answers": [
+      "a) 1422  = 1111;",
+      "b) 1412  = 1111;",
+      "c) 1111 = 1422;",
+      "d) 1111 = 1412;",
+      "e) 1417 = 1111."
+    ],
+    "correct": [
+      "b) 1412  = 1111;"
+    ]
+  },
+  {
+    "question": "12. Dobânda aferentă creditelor la termen acordate altor instituţii de credit, neajunsă la scadenţă se înregistrează:",
+    "answers": [
+      "a) 1417 = 1111;",
+      "b) 1427 = 7014;",
+      "c) 1417 = 6014;",
+      "d) 6014 = 1427;",
+      "e) 1417 = 7014"
+    ],
+    "correct": [
+      "e) 1417 = 7014"
+    ]
+  },
+  {
+    "question": "13. Primirea unui împrumut de refinanţare de la BNR se înregistrează:",
+    "answers": [
+      "a) 1111 = 112;",
+      "b) 112 = 1111;",
+      "c) 1111 = 7011;",
+      "d) 6011 = 1111;",
+      "e) 1111 = 7014"
+    ],
+    "correct": [
+      "a) 1111 = 112;"
+    ]
+  },
+  {
+    "question": "14. Contul 1172 „Datorii ataşate” ţine evidenţa:",
+    "answers": [
+      "a) dobânzilor încasate pentru împrumuturile de refinanţare primite de la BNR;",
+      "b) dobânzilor plătite pentru împrumuturile de refinanţare primite de la BNR;",
+      "c) dobânzilor calculate pentru împrumuturile de refinanţare primite de la BNR, neajunse la scadenţă;",
+      "d) dobânzilor calculate pentru împrumuturile de refinanţare primite de la BNR, ajunse la scadenţă;",
+      "e) dobânzilor calculate pentru împrumuturile primite de la alte instituţii de credit, neajunse la scadenţă"
+    ],
+    "correct": [
+      "c) dobânzilor calculate pentru împrumuturile de refinanţare primite de la BNR, neajunse la scadenţă;"
+    ]
+  },
+  {
+    "question": "15. Contul 131 „Depozite la instituţii de credit” reflectă:",
+    "answers": [
+      "a) o formă de atragere de lichidităţi de pe piaţa interbancară;",
+      "b) disponibilităţile unei bănci care sunt plasate în conturile de depozite la alte instituţii de credit;",
+      "c) plasament sub forma creditelor acordate altor instituţii de credit;",
+      "d) se debitează la lichidarea depozitului;",
+      "e) se creditează la constituirea depozitului."
+    ],
+    "correct": [
+      "b) disponibilităţile unei bănci care sunt plasate în conturile de depozite la alte instituţii de credit;"
+    ]
+  },
+  {
+    "question": "16. Dobânda aferentă depozitelor constituite la instituţii de credit, neajunsă la scadenţă se înregistrează:",
+    "answers": [
+      "a) 1317 = 1111;",
+      "b) 1327 = 7013;",
+      "c) 1317 = 6013;",
+      "d) 6013 = 1327;",
+      "e) 1317 = 7013"
+    ],
+    "correct": [
+      "e) 1317 = 7013"
+    ]
+  },
+  {
+    "question": "17. Dobânda datorată pentru depozitele constituite de alte instituţii de credit se înregistrează:",
+    "answers": [
+      "a) 6013 = 1317;",
+      "b) 1327 = 7013;",
+      "c) 1327 = 7011;",
+      "d) 6013 = 1327;",
+      "e) 6013 = 1111"
+    ],
+    "correct": [
+      "d) 6013 = 1327;"
+    ]
+  },
+  {
+    "question": "18. Constituirea unui depozit la termen de către o instituţie de credit la banca de referinţă se înregistrează:",
+    "answers": [
+      "a) 1111 = 1322;",
+      "b) 1322 = 1111;",
+      "c) 1111 = 7013;",
+      "d) 1322 = 1111;",
+      "e) 1312 = 1111"
+    ],
+    "correct": [
+      "a) 1111 = 1322;"
+    ]
+  },
+  {
+    "question": "19. Darea în pensiune a unor valori în relaţia interbancară se reflectă:",
+    "answers": [
+      "a) 1111 = 151;",
+      "b) 1111 = 152;",
+      "c) 152 = 1111;",
+      "d) 1111 = 132;",
+      "e) 1111 = 1527."
+    ],
+    "correct": [
+      "b) 1111 = 152;"
+    ]
+  },
+  {
+    "question": "20. Primirea în pensiune a unor valori în relaţia interbancară se înregistrează:",
+    "answers": [
+      "a) 1111 = 152;",
+      "b) 151 = 1111;",
+      "c) 1111 = 151;",
+      "d) 152 = 1111;",
+      "e) 1517 = 1111"
+    ],
+    "correct": [
+      "b) 151 = 1111;"
+    ]
+  },
+  {
+    "question": "21. Plata în numerar a dobânzilor clientelei nebancare pentru conturile de depozit se înregistrează:",
+    "answers": [
+      "a) 101 = 1111;",
+      "b) 2537 = 101;",
+      "c) 1111 = 2531;",
+      "d) 2531 = 1111;",
+      "e) 2531 = 101."
+    ],
+    "correct": [
+      "b) 2537 = 101;"
+    ]
+  },
+  {
+    "question": "22. Se depun sume în numerar în contul curent la BNR:",
+    "answers": [
+      "a) 1111 = 101;",
+      "b) 101 = 1111;",
+      "c) 341 = 101;",
+      "d) 1111 = 109;",
+      "e) 1111 = 102"
+    ],
+    "correct": [
+      "a) 1111 = 101;"
+    ]
+  },
+  {
+    "question": "23. Se depun sume în numerar de către un client în contul său curent:",
+    "answers": [
+      "a) 101 = 2511;",
+      "b) 2511 = 101;",
+      "c) 341 = 2511;",
+      "d) 1111 = 2511;",
+      "e) 1111 = 2511."
+    ],
+    "correct": [
+      "a) 101 = 2511;"
+    ]
+  },
+  {
+    "question": "24. Încasarea dobânzii aferente soldului debitor al contului 2511 „Conturi curente”:",
+    "answers": [
+      "a) 2511 = 25172;",
+      "b) 2511 = 25171;",
+      "c) 25171 = 2511;",
+      "d) 25172 = 2511;",
+      "e) 101 = 25171"
+    ],
+    "correct": [
+      "b) 2511 = 25171;"
+    ]
+  },
+  {
+    "question": "25. Constituirea unui depozit la termen din contul curent al clientului nebancar se înregistrează:",
+    "answers": [
+      "a) 2511 = 2533;",
+      "b) 2511 = 6025;",
+      "c) 2511 = 375;",
+      "d) 2532 = 2511;",
+      "e) 2511 = 2532."
+    ],
+    "correct": [
+      "e) 2511 = 2532."
+    ]
+  },
+  {
+    "question": "26. Retragerea de numerar de către un client agent economic dintr-un cont de depozit la termen se înregistrează:",
+    "answers": [
+      "a) 2511 = 1111;",
+      "b) 2511 = 101;",
+      "c) 101 = 2532;",
+      "d) 101 = 2511;",
+      "e) 2532 = 101"
+    ],
+    "correct": [
+      "e) 2532 = 101"
+    ]
+  },
+  {
+    "question": "27. Contul 2511 „Conturi curente” se debitează cu:",
+    "answers": [
+      "a) creditele obţinute de client de la bancă;",
+      "b) sumele plătite prin virament;",
+      "c) depuneri de numerar în contul curent;",
+      "d) dobânzile încasate pentru disponibilul păstrat în contul curent;",
+      "e) prin debitul contului 702 „Venituri din operaţiuni cu clientela”."
+    ],
+    "correct": [
+      "b) sumele plătite prin virament;"
+    ]
+  },
+  {
+    "question": "28. Se înregistrează dobânda aferentă soldului creditor al contului 2511 „Conturi curente”:",
+    "answers": [
+      "a) 25171 = 7024;",
+      "b) 6024 = 25171;",
+      "c) 6024 = 2511;",
+      "d) 2511 = 6024;",
+      "e) 6024 = 25172."
+    ],
+    "correct": [
+      "e) 6024 = 25172."
+    ]
+  },
+  {
+    "question": "29. Se achită dobânda calculată aferentă soldului creditor al contului 2511 „Conturi curente”:",
+    "answers": [
+      "a) 25171 = 2511;",
+      "b) 6024 = 25171;",
+      "c) 25172 = 2511;",
+      "d) 2511 = 6024;",
+      "e) 6024 = 25172."
+    ],
+    "correct": [
+      "c) 25172 = 2511;"
+    ]
+  },
+  {
+    "question": "30. Contul 2021 „Credite de trezorerie” se creditează cu:",
+    "answers": [
+      "a) creditele obţinute de client de la bancă;",
+      "b) creditele/ratele restituite băncii;",
+      "c) depuneri de numerar în contul curent;",
+      "d) dobânzile plătite pentru creditele de trezorerie;",
+      "e) dobânzile încasate pentru creditele de trezorerie."
+    ],
+    "correct": [
+      "b) creditele/ratele restituite băncii;"
+    ]
+  },
+  {
+    "question": "31. Contul 20271 „Creanţe ataşate” se debitează cu:",
+    "answers": [
+      "a) dobânzile calculate de către bancă pentru acordarea creditului de trezorerie, neajunse la scadenţă;",
+      "b) dobânzile plătite de către bancă pentru acordarea creditului de trezorerie, neajunse la scadenţă;",
+      "c) depuneri de numerar în contul curent;",
+      "d) dobânzile plătite de client pentru creditele de trezorerie;",
+      "e) creditul contului 6017 „Alte cheltuieli cu dobânzile”."
+    ],
+    "correct": [
+      "a) dobânzile calculate de către bancă pentru acordarea creditului de trezorerie, neajunse la scadenţă;"
+    ]
+  },
+  {
+    "question": "32. Acordarea de către bancă clientului său nebancar a unui credit de trezorerie se înregistrează:",
+    "answers": [
+      "a) 2511 „Conturi curente” = 2021 „Credite de trezorerie”;",
+      "b) 20271 „Creanţe ataşate” = 70213 „Dobânzi de la creditele de trezorerie”;",
+      "c) 70213 „Dobânzi de la creditele de trezorerie” = 2021 „Credite de trezorerie”;",
+      "d) 2021 „Credite de trezorerie” = 2511 „Conturi curente”;",
+      "e) 20271 „Creanţe ataşate” = 2511 „Conturi curente”."
+    ],
+    "correct": [
+      "d) 2021 „Credite de trezorerie” = 2511 „Conturi curente”;"
+    ]
+  },
+  {
+    "question": "33. Dobânda calculată de bancă, neajunsă la scadenţă, aferentă creditului de trezorerie, se înregistrează:",
+    "answers": [
+      "a) 2511 „Conturi curente” = 2021 „Credite de trezorerie”;",
+      "b) 20271 „Creanţe ataşate” = 70213 „Dobânzi de la creditele de trezorerie”;",
+      "c) 70213 „Dobânzi de la creditele de trezorerie” = 2021 „Credite de trezorerie”;",
+      "d) 2021 „Credite de trezorerie” = 2511 „Conturi curente”;",
+      "e) 20271 „Creanţe ataşate” = 2511 „Conturi curente”."
+    ],
+    "correct": [
+      "b) 20271 „Creanţe ataşate” = 70213 „Dobânzi de la creditele de trezorerie”;"
+    ]
+  },
+  {
+    "question": "34. Creditele pentru echipament acordate clienţilor se înregistrează:",
+    "answers": [
+      "a) 2511 „Conturi curente” = 2052 „Credite pentru echipament”;",
+      "b) 20271 „Creanţe ataşate” = 2052 „Credite pentru echipament”;",
+      "c) 2511 „Conturi curente” = 2052 „Credite pentru echipament”;",
+      "d) 2052 „Credite pentru echipament” = 2511 „Conturi curente”;",
+      "e) 20571 „Creanţe ataşate” = 2511 „Conturi curente”."
+    ],
+    "correct": [
+      "d) 2052 „Credite pentru echipament” = 2511 „Conturi curente”;"
+    ]
+  },
+  {
+    "question": "35. Clientul A, agent economic, are un disponibil în contul curent la bancă suma de 50.000 lei. Acesta face o plată către un furnizor al său, pe baza ordinului de plată emis, în sumă de 20.000 lei şi încasează de la un client, pe bază de cec suma de 15.000 lei. Soldul contului 2511/client A va fi:",
+    "answers": [
+      "a) sold creditor 15.000 lei;",
+      "b) sold debitor 15.000 lei;",
+      "c) sold creditor 30.000 lei;",
+      "d) sold creditor 45.000 lei;",
+      "e) sold debitor 45.000 lei."
+    ],
+    "correct": [
+      "d) sold creditor 45.000 lei;"
+    ]
+  },
+  {
+    "question": "36. Banca X acordă unui client un credit de consum în valoare de 45.000 lei, pe o perioadă de 6 luni, cu o dobândă de 15% pe an. Creditul se rambursează în rate egale lunare. Care este dobânda plătită de client pentru a doua lună?",
+    "answers": [
+      "a) 562,5 lei;",
+      "b) 2.812,5 lei;",
+      "c) 468,75 lei;",
+      "d) 825,25 lei;",
+      "e) altă variantă."
+    ],
+    "correct": [
+      "c) 468,75 lei;"
+    ]
+  }
+]

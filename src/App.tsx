@@ -15,7 +15,12 @@ import { Box, Button, Container, Typography } from "@mui/material";
 // import TestContaGestiune from "./components/TestContaGestiune";
 import TestAudit20 from "./components/TestAudit20";
 import TestAudit40 from "./components/TestAudit40";
+import TestAudit5 from "./components/TestAudit5";
 import AnalizaEconomica from "./components/AnalizaEconomica";
+import TestTPCA from "./components/TestTPCA";
+import ContabilitateBancara from "./components/ContabilitateBancara";
+import EvaluareaIntreprinderii from "./components/EvaluareaIntreprinderii";
+import ControlDeGestiune from "./components/ControlDeGestiune";
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
@@ -65,9 +70,29 @@ const Home: React.FC = () => {
     e.preventDefault();
     navigate("/testAudit40");
   };
+  const startAudit5 = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testAudit5");
+  };
   const analizaEconomica = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     navigate("/analizaEconomica");
+  };
+  const testTPCA = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testTPCA");
+  };
+  const contabilitateBancara = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/contabilitateBancara");
+  };
+  const evaluareaIntreprinderii = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/evaluareaIntreprinderii");
+  };
+  const controlDeGestiune = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/controlDeGestiune");
   };
 
   return (
@@ -154,10 +179,50 @@ const Home: React.FC = () => {
         <Button
           variant="contained"
           color="secondary"
+          onClick={startAudit5}
+          sx={{ marginTop: 2 }}
+        >
+          Test Audit 5
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
           onClick={analizaEconomica}
           sx={{ marginTop: 2 }}
         >
           Analiza Economica
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={testTPCA}
+          sx={{ marginTop: 2 }}
+        >
+          Test TPCA
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={contabilitateBancara}
+          sx={{ marginTop: 2 }}
+        >
+          Contabilitate bancara
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={evaluareaIntreprinderii}
+          sx={{ marginTop: 2 }}
+        >
+          Evaluarea Intreprinderii
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={controlDeGestiune}
+          sx={{ marginTop: 2 }}
+        >
+          Control De Gestiune
         </Button>
       </Box>
     </Container>
@@ -178,7 +243,12 @@ const App: React.FC = () => {
         <Route path="/testContaGestiune" element={<TestContaGestiune />} /> */}
         <Route path="/testAudit20" element={<TestAudit20 />} />
         <Route path="/testAudit40" element={<TestAudit40 />} />
+        <Route path="/testAudit5" element={<TestAudit5 />} />
         <Route path="/analizaEconomica" element={<AnalizaEconomica />} />
+        <Route path="/testTPCA" element={<TestTPCA />} />
+        <Route path="/contabilitateBancara" element={<ContabilitateBancara />} />
+        <Route path="/evaluareaIntreprinderii" element={<EvaluareaIntreprinderii />} />
+        <Route path="/controlDeGestiune" element={<ControlDeGestiune />} />
       </Routes>
     </Router>
   );

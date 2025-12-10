@@ -11,7 +11,7 @@ type Question = {
   correct: string[];
 };
 
-const TestAudit20: React.FC = () => {
+const TestAudit40: React.FC = () => {
   const navigate = useNavigate();
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedQuestions, setSelectedQuestions] = useState<Question[]>([]);
@@ -57,7 +57,7 @@ const TestAudit20: React.FC = () => {
   };
 
   const handleStartNew = () => {
-    navigate("/testAudit20", { replace: true });
+    navigate("/testAudit40", { replace: true });
     window.location.reload();
   };
 
@@ -134,4 +134,4 @@ const TestAudit20: React.FC = () => {
   );
 };
 
-export default TestAudit20;
+export default TestAudit40;

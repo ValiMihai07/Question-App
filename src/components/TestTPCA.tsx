@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Box, Typography, Button } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 import QuestionCardMama from "./QuestionCard/questionCardMama";
-import questionsMama from "../data/analizaEconom.json";
+import questionsMama from "../data/tpca.json";
 import FinalReviewMama from "./FinalReview/finalReviewMama"; // Import the review component
 
 type Question = {
@@ -11,7 +11,7 @@ type Question = {
   correct: string[];
 };
 
-const AnalizaEconomica: React.FC = () => {
+const TestTPCA: React.FC = () => {
   const navigate = useNavigate();
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedQuestions, setSelectedQuestions] = useState<Question[]>([]);
@@ -57,7 +57,7 @@ const AnalizaEconomica: React.FC = () => {
   };
 
   const handleStartNew = () => {
-    navigate("/analizaEconomica", { replace: true });
+    navigate("/testTPCA", { replace: true });
     window.location.reload();
   };
 
@@ -74,7 +74,7 @@ const AnalizaEconomica: React.FC = () => {
         selectedQuestions[currentQuestionIndex] ? (
           <>
             <Typography variant="h6" component="h1" gutterBottom align="center">
-              Analiza Economica
+              Test TPCA
             </Typography>
             <Typography variant="body1" sx={{ mt: 2 }}>
               <span style={{ color: "lightgreen" }}>
@@ -134,4 +134,4 @@ const AnalizaEconomica: React.FC = () => {
   );
 };
 
-export default AnalizaEconomica;
+export default TestTPCA;
