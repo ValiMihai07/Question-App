@@ -1,473 +1,534 @@
 [
   {
-    "question": "1. În categoria operaţiunilor active desfăşurate de instituţiile de credit intră:",
+    "question": "1. Controlul de gestiune implică:",
     "answers": [
-      "a) rescontarea;",
-      "b) administrarea titlurilor de valoare;",
-      "c) scontarea;",
-      "d) constituirea de depozite ale clienţilor;",
-      "e) constituirea capitalului propriu."
+      "a) un proces de acumulare a factorilor de producție în vederea operaționalizării circuitelor economice;",
+      "b) un proces de măsurare a performanțelor întreprinderii;",
+      "c) un proces de eficientizare a activității întreprinderii;",
+      "d) un proces de luare a măsurilor necesare având ca scop atingerea rezultatelor dorite."
     ],
     "correct": [
-      "c) scontarea;"
+      "b) un proces de măsurare a performanțelor întreprinderii;",
+      "d) un proces de luare a măsurilor necesare având ca scop atingerea rezultatelor dorite."
     ]
   },
   {
-    "question": "2. În categoria operaţiunilor pasive desfăşurate de instituţiile de credit intră:",
+    "question": "2. Atributele controlului de gestiune sunt:",
     "answers": [
-      "a) rescontarea;",
-      "b) acordarea de credite;",
-      "c) scontarea;",
-      "d) constituirea de depozite ale clienţilor;",
-      "e) achiziţia de efecte publice"
+      "a) vigilența;",
+      "b) eficiența utilizării factorilor de producție;",
+      "c) intervenția managementului;",
+      "d) eficacitatea angajaților companiei."
     ],
     "correct": [
-      "a) rescontarea;",
-      "d) constituirea de depozite ale clienţilor;"
+      "a) vigilența;",
+      "c) intervenția managementului;"
     ]
   },
   {
-    "question": "3. Conform principiului necompensării:",
+    "question": "3. Putem afirma despre o companie că este eficace atunci când:",
     "answers": [
-      "a) compensare între elementele de activ şi de datorii sau între elementele de venituri şi cheltuieli este interzisă;",
-      "b) compensare între elementele de activ şi de datorii sau între elementele de venituri şi cheltuieli este permisă;",
-      "c) compensare între elementele de activ şi de datorii este permisă;",
-      "d) compensare între elementele de activ şi de datorii sau între elementele de venituri şi cheltuieli este interzisă, cu excepţia cazurilor prevăzute de reglementările în vigoare;",
-      "e) compensare între elementele de venituri şi cheltuieli este permisă."
+      "a) profitul este distribuit către plata de dividende;",
+      "b) maximizează volumul producției;",
+      "c) își atinge obiectivele stabilite;",
+      "d) înregistrează o rată a rentabilității comerciale în creștere de la an la an."
     ],
     "correct": [
-      "d) compensare între elementele de activ şi de datorii sau între elementele de venituri şi cheltuieli este interzisă, cu excepţia cazurilor prevăzute de reglementările în vigoare;"
+      "c) își atinge obiectivele stabilite;"
     ]
   },
   {
-    "question": "4. La data ieşirii din patrimoniu evaluarea se face la:",
+    "question": "4. Realizarea obiectivelor controlului de gestiune este condiționată de utilizarea:",
     "answers": [
-      "a) valoarea de inventar;",
-      "b) valoarea cea mai mare dintre valoarea de intrare şi valoarea de inventar;",
-      "c) valoarea cea mai mică dintre valoarea de intrare şi valoarea de inventar;",
-      "d) valoarea de intrare;",
-      "e) media celor două valori."
+      "a) unor proceduri de audit prestabilite de manageri;",
+      "b) unui sistem informațional;",
+      "c) unei proceduri de măsurare a performanțelor;",
+      "d) unui sistem informatic de prelucrare a datelor."
     ],
     "correct": [
-      "d) valoarea de intrare;"
+      "b) unui sistem informațional;",
+      "c) unei proceduri de măsurare a performanțelor;"
     ]
   },
   {
-    "question": "5. Dobânda bancară poate fi:",
+    "question": "5. În categoria cheltuielilor neîncorporabile este cuprinsă:",
     "answers": [
-      "a) dobândă activă atunci când reflectă dobânda plătită de către bancă;",
-      "b) dobândă activă atunci când reflectă dobânda încasată de către bancă;",
-      "c) dobânda pasivă atunci când reflectă dobânda încasată de către bancă;",
-      "d) creanţă ataşată atunci când reflectă dobânda plătită de către bancă;",
-      "e) datorie ataşată atunci când reflectă dobânda încasată de către bancă."
+      "a) valoarea provizioanelor pentru litigii și alte riscuri;",
+      "b) valoarea chiriei aferentă depozitului întreprinderii;",
+      "c) valoarea amortizării cheltuielilor de constituire a firmei;",
+      "d) valoarea dobânzii aferentă unui credit bancar, în cazul unei întreprinderi cu ciclu lung de fabricație."
     ],
     "correct": [
-      "b) dobândă activă atunci când reflectă dobânda încasată de către bancă;"
+      "a) valoarea provizioanelor pentru litigii și alte riscuri;",
+      "c) valoarea amortizării cheltuielilor de constituire a firmei;"
     ]
   },
   {
-    "question": "6. Dobânda bancară se înregistrează:",
+    "question": "6. Cheltuielile supletive:",
     "answers": [
-      "a) pe venituri atunci când reflectă dobânda de încasat de către bancă;",
-      "b) pe cheltuieli atunci când reflectă dobânda de încasat de către bancă;",
-      "c) nu se înregistrează în contabilitate;",
-      "d) pe cheltuieli prin intermediul provizioanelor;",
-      "e) prin includerea în cheltuieli şi creşterea amortizării"
+      "a) sunt recunoscute doar în contabilitatea financiară;",
+      "b) se încorporează în costurile entității;",
+      "c) fac parte din categoria cheltuielilor nemonetare;",
+      "d) sunt plafonate la cel mult 20% din cifra de afaceri."
     ],
     "correct": [
-      "a) pe venituri atunci când reflectă dobânda de încasat de către bancă;"
+      "b) se încorporează în costurile entității;"
     ]
   },
   {
-    "question": "7. Sunt operaţiuni desfăşurate de BNR:",
+    "question": "7. În costul complet nu este inclus:",
     "answers": [
-      "a) scontarea;",
-      "b) constituirea de depozite ale clienţilor;",
-      "c) evidenţa contului curent general al Trezoreriei Statului;",
-      "d) operaţiuni de piaţă monetară;",
-      "e) creditarea pe descoperit de cont sau orice alt tip de creditare a statului, autorităţilor publice centrale şi locale."
+      "a) costul de producție;",
+      "b) costul general de administrație;",
+      "c) costul de oportunitate;",
+      "d) costul de distribuție."
     ],
     "correct": [
-      "c) evidenţa contului curent general al Trezoreriei Statului;",
-      "d) operaţiuni de piaţă monetară;"
+      "c) costul de oportunitate;"
     ]
   },
   {
-    "question": "8. Extrasul de cont este:",
+    "question": "8. În funcție de posibilitatea identificării cheltuielilor la nivelul purtătorului de cost, în momentul efectuării acestora, cheltuielile se clasifică în:",
     "answers": [
-      "a) un document emis de agentul economic;",
-      "b) un document emis de agentul economic pe baza căruia se fac înregistrările în contabilitatea proprie;",
-      "c) un document emis de bancă, care se remite titularului de cont pe baza căruia se fac înregistrările în contabilitatea bancară;",
-      "d) un document emis de bancă, care se remite titularului de cont pe baza căruia se fac înregistrările în contabilitatea acestuia;",
-      "e) documentul pe baza căruia banca înregistrează intrările şi ieşirile în/din contul curent al titularului."
+      "a) cheltuieli fixe și variabile;",
+      "b) cheltuieli încorporabile, neîncorporabile și supletive;",
+      "c) cheltuieli ale activității de bază și cheltuieli ale activității auxiliare;",
+      "d) cheltuieli directe și indirecte."
     ],
     "correct": [
-      "d) un document emis de bancă, care se remite titularului de cont pe baza căruia se fac înregistrările în contabilitatea acestuia;"
+      "d) cheltuieli directe și indirecte;"
     ]
   },
   {
-    "question": "9. Din punct de vedere al băncii, soldul debitor al contului curent al clientului reflectă:",
+    "question": "9. Costul perioadei cuprinde:",
     "answers": [
-      "a) o datorie a băncii pentru descoperit de cont (linia de credit);",
-      "b) o resursă atrasă de la titular;",
-      "c) o datorie a băncii faţă de titular pentru disponibilul din contul curent;",
-      "d) o creanţă a băncii faţă de titular pentru disponibilul din contul curent;",
-      "e) o creanţă a băncii pentru descoperit de cont (linia de credit)."
+      "a) cheltuiala fixă aferentă gradului de neutilizare a activității;",
+      "b) cheltuiala generală de administrație, atunci când evidența producției se organizează la nivelul costului de producție;",
+      "c) reducerile comerciale primite de la terți;",
+      "d) diminuarea capitalului social al entității ca urmare a reducerii valorii nominale a unei acțiuni."
     ],
     "correct": [
-      "e) o creanţă a băncii pentru descoperit de cont (linia de credit)."
+      "a) cheltuiala fixă aferentă gradului de neutilizare a activității;",
+      "b) cheltuiala generală de administrație, atunci când evidența producției se organizează la nivelul costului de producție;"
     ]
   },
   {
-    "question": "10. Din punct de vedere al băncii, soldul creditor al contului curent al clientului reflectă:",
+    "question": "10. Cheltuielile de regie mixte sunt analizate în cadrul:",
     "answers": [
-      "a) o datorie a băncii pentru descoperit de cont (linia de credit);",
-      "b) o resursă atrasă de la titular;",
-      "c) o datorie a băncii faţă de titular pentru disponibilul din contul curent;",
-      "d) o creanţă a băncii faţă de titular pentru disponibilul din contul curent;",
-      "e) o creanţă a băncii pentru descoperit de cont (linia de credit)."
+      "a) delimitării cheltuielilor în variabile și fixe;",
+      "b) delimitării cheltuielilor în directe și indirecte;",
+      "c) delimitării cheltuielilor în încorporabile și neîncorporabile;",
+      "d) delimitării cheltuielilor în funcție de purtătorul de cost."
     ],
     "correct": [
-      "b) o resursă atrasă de la titular;",
-      "c) o datorie a băncii faţă de titular pentru disponibilul din contul curent;"
+      "a) delimitării cheltuielilor în variabile și fixe;"
     ]
   },
   {
-    "question": "11. Acordarea creditelor la termen altor instituţii de credit se înregistrează:",
+    "question": "11. Costul indirect mediu pentru un interval de timp se determină astfel:",
     "answers": [
-      "a) 1422  = 1111;",
-      "b) 1412  = 1111;",
-      "c) 1111 = 1422;",
-      "d) 1111 = 1412;",
-      "e) 1417 = 1111."
+      "a) prin raportarea cantității totale de bunuri produse la numărul de perioade cuprinse în interval;",
+      "b) prin raportarea cheltuielilor totale la întreaga cantitate de bunuri produse în respectivul interval;",
+      "c) prin raportarea cheltuielilor totale la numărul de perioade cuprinse în interval;",
+      "d) prin raportarea cantității de bunuri produse la totalul cheltuielilor ocazionate în interval."
     ],
     "correct": [
-      "b) 1412  = 1111;"
+     "c) prin raportarea cheltuielilor totale la numărul de perioade cuprinse în interval;"
     ]
   },
   {
-    "question": "12. Dobânda aferentă creditelor la termen acordate altor instituţii de credit, neajunsă la scadenţă se înregistrează:",
+    "question": "12. Delimitarea cheltuielilor în variabile și fixe se poate realiza prin:",
     "answers": [
-      "a) 1417 = 1111;",
-      "b) 1427 = 7014;",
-      "c) 1417 = 6014;",
-      "d) 6014 = 1427;",
-      "e) 1417 = 7014"
+      "a) procedeul costului fix minim;",
+      "b) procedeul costului mediu variabil;",
+      "c) procedeul celor mai mici pătrate;",
+      "d) procedeul punctelor de maxim și minim."
     ],
     "correct": [
-      "e) 1417 = 7014"
+      "c) procedeul celor mai mici pătrate;",
+      "d) procedeul punctelor de maxim și minim;"
     ]
   },
   {
-    "question": "13. Primirea unui împrumut de refinanţare de la BNR se înregistrează:",
+    "question": "13. Ideile esențiale ale procedeelor bazate pe principiul costurilor parțiale sunt:",
     "answers": [
-      "a) 1111 = 112;",
-      "b) 112 = 1111;",
-      "c) 1111 = 7011;",
-      "d) 6011 = 1111;",
-      "e) 1111 = 7014"
+      "a) analiza costului complet nu este condiționată de analiza costului parțial;",
+      "b) analiza se bazează pe cheltuielile variabile sau pe cheltuielile directe;",
+      "c) analiza costurilor ia în considerare doar cheltuielile previzionate;",
+      "d) analiza ia în calcul doar partea pertinentă a cheltuielilor;"
     ],
     "correct": [
-      "a) 1111 = 112;"
+      "b) analiza se bazează pe cheltuielile variabile sau pe cheltuielile directe;",
+      "d) analiza ia în calcul doar partea pertinentă a cheltuielilor;"
     ]
   },
   {
-    "question": "14. Contul 1172 „Datorii ataşate” ţine evidenţa:",
+    "question": "14. Procedeul celor mai mici pătrate presupune:",
     "answers": [
-      "a) dobânzilor încasate pentru împrumuturile de refinanţare primite de la BNR;",
-      "b) dobânzilor plătite pentru împrumuturile de refinanţare primite de la BNR;",
-      "c) dobânzilor calculate pentru împrumuturile de refinanţare primite de la BNR, neajunse la scadenţă;",
-      "d) dobânzilor calculate pentru împrumuturile de refinanţare primite de la BNR, ajunse la scadenţă;",
-      "e) dobânzilor calculate pentru împrumuturile primite de la alte instituţii de credit, neajunse la scadenţă"
+      "a) determinarea volumului mediu de activitate pe o anumită perioadă;",
+      "b) determinarea abaterii cheltuielilor fixe totale;",
+      "c) determinarea modificării relative a veniturilor;",
+      "d) determinarea cheltuielilor variabile unitare."
     ],
     "correct": [
-      "c) dobânzilor calculate pentru împrumuturile de refinanţare primite de la BNR, neajunse la scadenţă;"
+      "a) determinarea volumului mediu de activitate pe o anumită perioadă;",
+      "d) determinarea cheltuielilor variabile unitare;"
     ]
   },
   {
-    "question": "15. Contul 131 „Depozite la instituţii de credit” reflectă:",
+    "question": "15. Costul aferent ultimului lot de produse adăugat poartă denumirea de:",
     "answers": [
-      "a) o formă de atragere de lichidităţi de pe piaţa interbancară;",
-      "b) disponibilităţile unei bănci care sunt plasate în conturile de depozite la alte instituţii de credit;",
-      "c) plasament sub forma creditelor acordate altor instituţii de credit;",
-      "d) se debitează la lichidarea depozitului;",
-      "e) se creditează la constituirea depozitului."
+      "a) cost al subactivității;",
+      "b) cost marginal;",
+      "c) cost mediu;",
+      "d) cost complet."
     ],
     "correct": [
-      "b) disponibilităţile unei bănci care sunt plasate în conturile de depozite la alte instituţii de credit;"
+      "b) cost marginal;"
     ]
   },
   {
-    "question": "16. Dobânda aferentă depozitelor constituite la instituţii de credit, neajunsă la scadenţă se înregistrează:",
+    "question": "16. Costului marginal este egal cu costul variabil unitar atunci când:",
     "answers": [
-      "a) 1317 = 1111;",
-      "b) 1327 = 7013;",
-      "c) 1317 = 6013;",
-      "d) 6013 = 1327;",
-      "e) 1317 = 7013"
+      "a) cheltuielile fixe raman constante;",
+      "b) cheltuielile variabile sunt constante;",
+      "c) cheltuielile directe sunt proporționale cu cantitățile de produse;",
+      "d) cheltuielile indirecte sunt proporționale cu cantitățile de produse;"
     ],
     "correct": [
-      "e) 1317 = 7013"
+      "a) cheltuielile fixe raman constante;"
     ]
   },
   {
-    "question": "17. Dobânda datorată pentru depozitele constituite de alte instituţii de credit se înregistrează:",
+    "question": "17. Costul de oportunitate ține cont de:",
     "answers": [
-      "a) 6013 = 1317;",
-      "b) 1327 = 7013;",
-      "c) 1327 = 7011;",
-      "d) 6013 = 1327;",
-      "e) 6013 = 1111"
+      "a) anticiparea nivelului riscului proiectului;",
+      "b) anvergura proiectului investițional;",
+      "c) implementarea proiectului și prețul acestuia în timp;",
+      "d) ultima unitate de produs fabricată și vândută."
     ],
     "correct": [
-      "d) 6013 = 1327;"
+      "a) anticiparea nivelului riscului proiectului;",
+      "c) implementarea proiectului și prețul acestuia în timp;" 
     ]
   },
   {
-    "question": "18. Constituirea unui depozit la termen de către o instituţie de credit la banca de referinţă se înregistrează:",
+    "question": "18. Alegerea unui plan optim investițional se poate realiza determinând:",
     "answers": [
-      "a) 1111 = 1322;",
-      "b) 1322 = 1111;",
-      "c) 1111 = 7013;",
-      "d) 1322 = 1111;",
-      "e) 1312 = 1111"
+      "a) costul subactivității;",
+      "b) costul marginal;",
+      "c) costul de oportunitate;",
+      "d) costul aferent perioadei."
     ],
     "correct": [
-      "a) 1111 = 1322;"
+      "c) costul de oportunitate;"
     ]
   },
   {
-    "question": "19. Darea în pensiune a unor valori în relaţia interbancară se reflectă:",
+    "question": "19. Costul subactivității poate fi generat de următorii factori:",
     "answers": [
-      "a) 1111 = 151;",
-      "b) 1111 = 152;",
-      "c) 152 = 1111;",
-      "d) 1111 = 132;",
-      "e) 1111 = 1527."
+      "a) utilizarea necorespunzătoare a capacității de producție;",
+      "b) ineficineța factorilor de producție;",
+      "c) abaterea de la nivelul programat al producției;",
+      "d) utilizarea unor capacități tehnice învechite."
     ],
     "correct": [
-      "b) 1111 = 152;"
+      "a) utilizarea necorespunzătoare a capacității de producție;",
+      "c) abaterea de la nivelul programat al producției;"
     ]
   },
   {
-    "question": "20. Primirea în pensiune a unor valori în relaţia interbancară se înregistrează:",
+    "question": "20. Costul subactivității se include în:",
     "answers": [
-      "a) 1111 = 152;",
-      "b) 151 = 1111;",
-      "c) 1111 = 151;",
-      "d) 152 = 1111;",
-      "e) 1517 = 1111"
+      "a) cheltuielile supletive;",
+      "b) cheltuielile încorporabile;",
+      "c) costul perioadei;",
+      "d) alta varianta de raspuns."
     ],
     "correct": [
-      "b) 151 = 1111;"
+      "c) costul perioadei;"
     ]
   },
   {
-    "question": "21. Plata în numerar a dobânzilor clientelei nebancare pentru conturile de depozit se înregistrează:",
+    "question": "21. Direct-costing reprezintă:",
     "answers": [
-      "a) 101 = 1111;",
-      "b) 2537 = 101;",
-      "c) 1111 = 2531;",
-      "d) 2531 = 1111;",
-      "e) 2531 = 101."
+      "a) o metodă de evaluare a stocurilor;",
+      "b) o metodă de calcul a costurilor de tip parțial;",
+      "c) o metodă de calcul a costurilor bazată pe separarea acestora în fixe și variabile;",
+      "d) o metodă de decontare a costurilor perioadei."
     ],
     "correct": [
-      "b) 2537 = 101;"
+      "b) o metodă de calcul a costurilor de tip parțial;",
+      "c) o metodă de calcul a costurilor bazată pe separarea acestora în fixe și variabile;"
     ]
   },
   {
-    "question": "22. Se depun sume în numerar în contul curent la BNR:",
+    "question": "22. Contribuția brută unitară este utilizată:",
     "answers": [
-      "a) 1111 = 101;",
-      "b) 101 = 1111;",
-      "c) 341 = 101;",
-      "d) 1111 = 109;",
-      "e) 1111 = 102"
+      "a) pentru determinarea costului brut unitar;",
+      "b) pentru acoperirea cheltuielilor fixe;",
+      "c) pentru acoperirea cheltuielilor variabile;",
+      "d) pentru obținerea unui anumit profit."
     ],
     "correct": [
-      "a) 1111 = 101;"
+      "b) pentru acoperirea cheltuielilor fixe;",
+      "d) pentru obținerea unui anumit profit."
     ]
   },
   {
-    "question": "23. Se depun sume în numerar de către un client în contul său curent:",
+    "question": "23. Punctul de echilibru este acel nivel de activitate în care:",
     "answers": [
-      "a) 101 = 2511;",
-      "b) 2511 = 101;",
-      "c) 341 = 2511;",
-      "d) 1111 = 2511;",
-      "e) 1111 = 2511."
+      "a) firma înregistrează maximul de profit;",
+      "b) cheltuielile sunt egale cu veniturile;",
+      "c) cheltuielile sunt mai mici decât veniturile;",
+      "d) veniturile sunt mai mici decât cheltuielile."
     ],
     "correct": [
-      "a) 101 = 2511;"
+      "b) cheltuielile sunt egale cu veniturile;"
     ]
   },
   {
-    "question": "24. Încasarea dobânzii aferente soldului debitor al contului 2511 „Conturi curente”:",
+    "question": "24. Contribuția brută unitară se determină astfel:",
     "answers": [
-      "a) 2511 = 25172;",
-      "b) 2511 = 25171;",
-      "c) 25171 = 2511;",
-      "d) 25172 = 2511;",
-      "e) 101 = 25171"
+      "a) ca diferența dintre veniturile totale și cheltuielile totale;",
+      "b) ca suma dintre prețul de vânzare unitar și costul total unitar;",
+      "c) ca diferența dintre prețul de vânzare unitar și costul total unitar;",
+      "d) ca suma dintre costul total unitar și costul fix total."
     ],
     "correct": [
-      "b) 2511 = 25171;"
+      "c) ca diferența dintre prețul de vânzare unitar și costul total unitar;"
     ]
   },
   {
-    "question": "25. Constituirea unui depozit la termen din contul curent al clientului nebancar se înregistrează:",
+    "question": "25. Cu cât factorul de acoperire este mai mare, cu atât contribuția produsului la profit este:",
     "answers": [
-      "a) 2511 = 2533;",
-      "b) 2511 = 6025;",
-      "c) 2511 = 375;",
-      "d) 2532 = 2511;",
-      "e) 2511 = 2532."
+      "a) mai mică;",
+      "b) constantă;",
+      "c) egală cu zero;",
+      "d) mai mare."
     ],
     "correct": [
-      "e) 2511 = 2532."
+      "d) mai mare."
     ]
   },
   {
-    "question": "26. Retragerea de numerar de către un client agent economic dintr-un cont de depozit la termen se înregistrează:",
+    "question": "26. Care dintre următoarele este o funcție a bugetului?",
     "answers": [
-      "a) 2511 = 1111;",
-      "b) 2511 = 101;",
-      "c) 101 = 2532;",
-      "d) 101 = 2511;",
-      "e) 2532 = 101"
+      "a) funcția de control;",
+      "b) funcția de previziune;",
+      "c) funcția de aprovizionare;",
+      "d) funcția de desfacere."
     ],
     "correct": [
-      "e) 2532 = 101"
+      "a) funcția de control;",
+      "b) funcția de previziune;"
     ]
   },
   {
-    "question": "27. Contul 2511 „Conturi curente” se debitează cu:",
+    "question": "27. Condițiile prealabile de eficacitate în procesul de elaborare a bugetelor sunt:",
     "answers": [
-      "a) creditele obţinute de client de la bancă;",
-      "b) sumele plătite prin virament;",
-      "c) depuneri de numerar în contul curent;",
-      "d) dobânzile încasate pentru disponibilul păstrat în contul curent;",
-      "e) prin debitul contului 702 „Venituri din operaţiuni cu clientela”."
+      "a) delegarea sistematică a puterii;",
+      "b) elaborarea unei structuri centralizate;",
+      "c) luarea în calcul a problemelor umane;",
+      "d) implementarea unui sistem informatic de gestiune."
     ],
     "correct": [
-      "b) sumele plătite prin virament;"
+      "a) delegarea sistematică a puterii;",
+      "c) luarea în calcul a problemelor umane;"
     ]
   },
   {
-    "question": "28. Se înregistrează dobânda aferentă soldului creditor al contului 2511 „Conturi curente”:",
+    "question": "28. În cadrul etapelor de elaborare a bugetelor au loc:",
     "answers": [
-      "a) 25171 = 7024;",
-      "b) 6024 = 25171;",
-      "c) 6024 = 2511;",
-      "d) 2511 = 6024;",
-      "e) 6024 = 25172."
+      "a) efectuarea de studii preliminare;",
+      "b) întocmirea mai multor proiecte de buget global și alegerea unuia;",
+      "c) preluarea datelor din bugetul perioadei precedente;",
+      "d) supunerea la vot a variantei optime de buget."
     ],
     "correct": [
-      "e) 6024 = 25172."
+      "a) efectuarea de studii preliminare;",
+      "b) întocmirea mai multor proiecte de buget global și alegerea unuia;"
     ]
   },
   {
-    "question": "29. Se achită dobânda calculată aferentă soldului creditor al contului 2511 „Conturi curente”:",
+    "question": "29. Sunt indicatori ai metodei Direct Costing:",
     "answers": [
-      "a) 25171 = 2511;",
-      "b) 6024 = 25171;",
-      "c) 25172 = 2511;",
-      "d) 2511 = 6024;",
-      "e) 6024 = 25172."
+      "a) cifra de afaceri și coeficientul de siguranță dinamic;",
+      "b) factorul de acoperire și intervalul de siguranță dinamic;",
+      "c) pragul de rentabilitate și rezultatul exercițiului;",
+      "d) pragul de rentabilitate și coeficientul de siguranță dinamic."
     ],
     "correct": [
-      "c) 25172 = 2511;"
+      "b) factorul de acoperire și intervalul de siguranță dinamic;",
+      "d) pragul de rentabilitate și coeficientul de siguranță dinamic;"
     ]
   },
   {
-    "question": "30. Contul 2021 „Credite de trezorerie” se creditează cu:",
+    "question": "30. Indicatorii care arată cu cât pot scădea vânzările până la punctul de echilibru:",
     "answers": [
-      "a) creditele obţinute de client de la bancă;",
-      "b) creditele/ratele restituite băncii;",
-      "c) depuneri de numerar în contul curent;",
-      "d) dobânzile plătite pentru creditele de trezorerie;",
-      "e) dobânzile încasate pentru creditele de trezorerie."
+      "a) pragul de rentabilitate;",
+      "b) coeficientul de siguranță dinamic și intervalul de siguranță dinamic;",
+      "c) pragul de rentabilitate și factorul de acoperire;",
+      "d) pragul de rentabilitate și coeficientul de siguranță dinamic."
     ],
     "correct": [
-      "b) creditele/ratele restituite băncii;"
+      "b) coeficientul de siguranță dinamic și intervalul de siguranță dinamic;"
     ]
   },
   {
-    "question": "31. Contul 20271 „Creanţe ataşate” se debitează cu:",
+    "question": "31. Cum ar fi mai avantajos să procedeze firma?",
     "answers": [
-      "a) dobânzile calculate de către bancă pentru acordarea creditului de trezorerie, neajunse la scadenţă;",
-      "b) dobânzile plătite de către bancă pentru acordarea creditului de trezorerie, neajunse la scadenţă;",
-      "c) depuneri de numerar în contul curent;",
-      "d) dobânzile plătite de client pentru creditele de trezorerie;",
-      "e) creditul contului 6017 „Alte cheltuieli cu dobânzile”."
+      "a) îl vinde acum;",
+      "b) îl vinde la anul;",
+      "c) îl vinde după amortizare;",
+      "d) îl vinde la valoarea justă."
     ],
     "correct": [
-      "a) dobânzile calculate de către bancă pentru acordarea creditului de trezorerie, neajunse la scadenţă;"
+      "b) îl vinde la anul;"
     ]
   },
   {
-    "question": "32. Acordarea de către bancă clientului său nebancar a unui credit de trezorerie se înregistrează:",
+    "question": "32. Cum ar fi mai avantajos să procedeze firma cu terenul?",
     "answers": [
-      "a) 2511 „Conturi curente” = 2021 „Credite de trezorerie”;",
-      "b) 20271 „Creanţe ataşate” = 70213 „Dobânzi de la creditele de trezorerie”;",
-      "c) 70213 „Dobânzi de la creditele de trezorerie” = 2021 „Credite de trezorerie”;",
-      "d) 2021 „Credite de trezorerie” = 2511 „Conturi curente”;",
-      "e) 20271 „Creanţe ataşate” = 2511 „Conturi curente”."
+      "a) îl închiriază un an;",
+      "b) îl închiriază un an și apoi îl vinde;",
+      "c) îl vinde acum;",
+      "d) îi calculează amortizare."
     ],
     "correct": [
-      "d) 2021 „Credite de trezorerie” = 2511 „Conturi curente”;"
+      "c) îl vinde acum;"
     ]
   },
   {
-    "question": "33. Dobânda calculată de bancă, neajunsă la scadenţă, aferentă creditului de trezorerie, se înregistrează:",
+    "question": "33. Poate fi acceptată comanda suplimentară?",
     "answers": [
-      "a) 2511 „Conturi curente” = 2021 „Credite de trezorerie”;",
-      "b) 20271 „Creanţe ataşate” = 70213 „Dobânzi de la creditele de trezorerie”;",
-      "c) 70213 „Dobânzi de la creditele de trezorerie” = 2021 „Credite de trezorerie”;",
-      "d) 2021 „Credite de trezorerie” = 2511 „Conturi curente”;",
-      "e) 20271 „Creanţe ataşate” = 2511 „Conturi curente”."
+      "a) da, pentru că rezultatul marginal este pozitiv;",
+      "b) nu, pentru că rezultatul marginal este pozitiv;",
+      "c) da, pentru că rezultatul marginal este negativ;",
+      "d) nu, pentru că rezultatul marginal este negativ."
     ],
     "correct": [
-      "b) 20271 „Creanţe ataşate” = 70213 „Dobânzi de la creditele de trezorerie”;"
+      "a) da, pentru că rezultatul marginal este pozitiv;"
     ]
   },
   {
-    "question": "34. Creditele pentru echipament acordate clienţilor se înregistrează:",
+    "question": "34. Costul subactivității și costul unitar sunt:",
     "answers": [
-      "a) 2511 „Conturi curente” = 2052 „Credite pentru echipament”;",
-      "b) 20271 „Creanţe ataşate” = 2052 „Credite pentru echipament”;",
-      "c) 2511 „Conturi curente” = 2052 „Credite pentru echipament”;",
-      "d) 2052 „Credite pentru echipament” = 2511 „Conturi curente”;",
-      "e) 20571 „Creanţe ataşate” = 2511 „Conturi curente”."
+      "a) 1.625 lei, respectiv 98,75 lei;",
+      "b) 98,75 lei, respectiv 625 lei;",
+      "c) 625 lei, respectiv 98,75 lei;",
+      "d) 98,75 lei, respectiv 1.625 lei."
     ],
     "correct": [
-      "d) 2052 „Credite pentru echipament” = 2511 „Conturi curente”;"
+      "c) 625 lei, respectiv 98,75 lei;"
     ]
   },
   {
-    "question": "35. Clientul A, agent economic, are un disponibil în contul curent la bancă suma de 50.000 lei. Acesta face o plată către un furnizor al său, pe baza ordinului de plată emis, în sumă de 20.000 lei şi încasează de la un client, pe bază de cec suma de 15.000 lei. Soldul contului 2511/client A va fi:",
+    "question": "35. Cota de costuri indirecte (coeficient unic) este:",
     "answers": [
-      "a) sold creditor 15.000 lei;",
-      "b) sold debitor 15.000 lei;",
-      "c) sold creditor 30.000 lei;",
-      "d) sold creditor 45.000 lei;",
-      "e) sold debitor 45.000 lei."
+      "a) 60.000 lei, 30.000 lei, 10.000 lei;",
+      "b) 30.000 lei, 10.000 lei, 60.000 lei;",
+      "c) 10.000 lei, 30.000 lei, 60.000 lei;",
+      "d) 10.000 lei, 60.000 lei, 30.000 lei."
     ],
     "correct": [
-      "d) sold creditor 45.000 lei;"
+      "d) 10.000 lei, 60.000 lei, 30.000 lei;"
     ]
   },
   {
-    "question": "36. Banca X acordă unui client un credit de consum în valoare de 45.000 lei, pe o perioadă de 6 luni, cu o dobândă de 15% pe an. Creditul se rambursează în rate egale lunare. Care este dobânda plătită de client pentru a doua lună?",
+    "question": "36. Cota de amortizare (coeficienți diferențiați) este:",
     "answers": [
-      "a) 562,5 lei;",
-      "b) 2.812,5 lei;",
-      "c) 468,75 lei;",
-      "d) 825,25 lei;",
-      "e) altă variantă."
+      "a) 4.200 lei, 10.800 lei;",
+      "b) 10.800 lei, 4.200 lei;",
+      "c) 15.000 lei, 250 lei;",
+      "d) 250 lei, 15.000 lei."
     ],
     "correct": [
-      "c) 468,75 lei;"
+      "b) 10.800 lei, 4.200 lei;"
+    ]
+  },
+  {
+    "question": "37. Cota de costuri indirecte (cifre relative de structură) este:",
+    "answers": [
+      "a) 60.000 lei, 30.000 lei, 10.000 lei;",
+      "b) 30.000 lei, 10.000 lei, 60.000 lei;",
+      "c) 10.000 lei, 60.000 lei, 30.000 lei;",
+      "d) 10.000 lei, 30.000 lei, 60.000 lei."
+    ],
+    "correct": [
+      "c) 10.000 lei, 60.000 lei, 30.000 lei;"
+    ]
+  },
+  {
+    "question": "38. Cota de energie electrică (coeficienți diferențiați) este:",
+    "answers": [
+      "a) 5.000 lei, 1.500 lei;",
+      "b) 3.000 lei, 2.000 lei;",
+      "c) 2.000 lei, 3.000 lei;",
+      "d) 1.500 lei, 5.000 lei."
+    ],
+    "correct": [
+      "c) 2.000 lei, 3.000 lei;"
+    ]
+  },
+  {
+    "question": "39. Cheltuielile fixe totale (metoda celor mai mici pătrate) sunt:",
+    "answers": [
+      "a) 122.100.000 lei;",
+      "b) 100.122.000 lei;",
+      "c) 121.200.000 lei;",
+      "d) alta varianta."
+    ],
+    "correct": [
+      "d) alta varianta."
+    ]
+  },
+  {
+    "question": "40. Pragul de rentabilitate și cantitatea pentru profit 34.000 lei sunt:",
+    "answers": [
+      "a) 7.855 bucăți, 10.945 bucăți;",
+      "b) 10.945 bucăți, 7.855 bucăți;",
+      "c) 157.091 bucăți, 10.945 bucăți;",
+      "d) 10.945 bucăți, 157.091 bucăți."
+    ],
+    "correct": [
+      "a) 7.855 bucăți, 10.945 bucăți;"
+    ]
+  },
+  {
+    "question": "41. Intervalul de siguranță și indicele de siguranță dinamic sunt:",
+    "answers": [
+      "a) 52.909 lei, 74,81%;",
+      "b) 210.000 lei, 74,81%;",
+      "c) 52.909 lei, 25,19%;",
+      "d) 157.091 lei, 25,19%."
+    ],
+    "correct": [
+      "c) 52.909 lei, 25,19%;"
+    ]
+  },
+  {
+    "question": "42. Pragul de rentabilitate și intervalul de siguranță sunt:",
+    "answers": [
+      "a) 7.855,54 lei, 52.909 bucăți;",
+      "b) 7.855,54 bucăți, 52.909 lei;",
+      "c) 52.909 bucăți, 7.855,54 lei;",
+      "d) 52.909 lei, 7.855,54 bucăți."
+    ],
+    "correct": [
+      "b) 7.855,54 bucăți, 52.909 lei;"
+    ]
+  },
+  {
+    "question": "43. Cheltuielile fixe totale (puncte minim–maxim) sunt:",
+    "answers": [
+      "a) 122.100.000 lei;",
+      "b) 100.122.000 lei;",
+      "c) 121.200.000 lei;",
+      "d) alta varianta."
+    ],
+    "correct": [
+      "d) alta varianta."
     ]
   }
 ]
