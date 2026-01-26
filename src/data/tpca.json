@@ -80,7 +80,7 @@
     "answers": [
       "a) o creştere a rezervei din reevaluare, dacă nu a existat o descreştere anterioară recunoscută ca o cheltuială aferentă acelui activ",
       "b) un venit ce compensează cheltuiala cu descreşterea de valoare recunoscută anterior, la acelaşi element de activ",
-      "c) o scădere a rezerei din reevaluare cu minimul dintre valoarea rezervei din reevaluare şi valoarea descreşterii",
+      "c) o scădere a rezervei din reevaluare cu minimul dintre valoarea rezervei din reevaluare şi valoarea descreşterii",
       "d) o cheltuială, atunci când nu există rezerve din reevaluare care să acopere descreşterea de valoare"
     ],
     "correct": [
@@ -443,7 +443,7 @@
       "d) 1.260,00 lei"
     ],
     "correct": [
-      "d) 1.260,00 lei"
+      "a) 1.581,63 lei"
     ]
   },
   {
