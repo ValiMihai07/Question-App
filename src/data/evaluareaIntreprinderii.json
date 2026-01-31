@@ -1,282 +1,508 @@
 [
   {
     "question": "1. Estimarea valorii de piață a companiei se face în funcție de:",
-    "answers": ["a) Cât ar costa realizarea unei replici...", "b) Care este fluxul de venit net actualizat...", "c) Care sunt alternativele investiționale...", "d) Toate cele de mai sus."],
+    "answers": [
+      "a) Cât ar costa realizarea unei replici a întreprinderii evaluate, pornind de la activul net;",
+      "b) Care este fluxul de venit net actualizat, achiziționat prin plata (ipotetică) a prețului;",
+      "c) Care sunt alternativele investiționale disponibile (comparabile);",
+      "d) Toate cele de mai sus."
+    ],
     "correct": ["d) Toate cele de mai sus."]
   },
   {
     "question": "2. În sens restrâns, evaluarea este:",
-    "answers": ["a) O analiză, opinie sau concluzie...", "b) Procesul de estimare a unui tip de valoare...", "c) Procesul de calcul a unui tip de valoare...", "d) Procesul de calcul a unui tip de valoare..."],
+    "answers": [
+      "a) O analiză, opinie sau concluzie referitoare la natura, calitatea, valoarea sau utilitatea unor anumite proprietăți sau aspecte ale unei anumite întreprinderi;",
+      "b) Procesul de estimare a unui tip de valoare, pentru o anumită proprietate, la o anumită dată și concretizată în raportul de evaluare;",
+      "c) Procesul de calcul a unui tip de valoare, pentru o anumită proprietate, la o anumită dată și concretizată în raportul de evaluare;",
+      "d) Procesul de calcul a unui tip de valoare, pentru o anumită întreprindere, la o anumită dată și concretizată în opinia asupra evaluării."
+    ],
     "correct": ["b) Procesul de estimare a unui tip de valoare, pentru o anumită proprietate, la o anumită dată și concretizată în raportul de evaluare;"]
   },
   {
     "question": "3. Evaluarea întreprinderii este cerută în scopuri de:",
-    "answers": ["a) Privatizare sau dovedire a corupției;", "b) Tranzacționare și informare;", "c) Tranzacționare și informare;", "d) Vânzare-cumpărare, fuziune-divizare, restructurare..."],
+    "answers": [
+      "a) Privatizare sau dovedire a corupției;",
+      "b) Tranzacționare (înregistrare în contabilitate, garanții bancare etc) și informare (vânzare-cumpărare, fuziune, divizare etc);",
+      "c) Tranzacționare (vânzare-cumpărare, fuziune, divizare etc) și informare (înregistrare în contabilitate, garanții bancare etc);",
+      "d) Vânzare-cumpărare, fuziune-divizare, restructurare, impozitare și raportare financiară periodică."
+    ],
     "correct": ["c) Tranzacționare (vânzare-cumpărare, fuziune, divizare etc) și informare (înregistrare în contabilitate, garanții bancare etc);"]
   },
   {
     "question": "4. Evaluările pot fi:",
-    "answers": ["a) evaluări contabile, administrative, economice și financiare;", "b) evaluări contabile și evaluări economice;", "c) evaluări fiscale;", "c) evaluări pe bază de acte normative."],
+    "answers": [
+      "a) evaluări contabile, evaluări administrative si evaluări economice și financiare;",
+      "b) evaluări contabile si evaluări economice;",
+      "c) evaluări fiscale;",
+      "c) evaluãri pe bazã de acte normative."
+    ],
     "correct": ["a) evaluări contabile, evaluări administrative si evaluări economice și financiare;"]
   },
   {
-    "question": "5. Obiectivul evaluării economice si financiare îl reprezintă:",
-    "answers": ["a) determinarea valorii patrimoniale...", "b) determinarea valorii de piață...", "c) reevaluarea bunurilor...", "d) determinarea masei impozabile."],
-    "correct": ["b) determinarea valorii de piață a bunurilor si întreprinderilor;"]
+    "question": "5. Obiectivul evaluării economice și financiare îl reprezintă:",
+    "answers": [
+      "a) determinarea valorii patrimoniale si a valorii prin rentabilitate a întreprinderilor;",
+      "b) determinarea valorii de piatã a bunurilor si întreprinderilor;",
+      "c) reevaluarea bunurilor din întreprindere, în vederea aducerii la inflatie;",
+      "d) determinarea masei impozabile."
+    ],
+    "correct": ["b) determinarea valorii de piatã a bunurilor si întreprinderilor;"]
   },
   {
-    "question": "6. Valoarea este creată din interacțiunea următorilor factori:",
-    "answers": ["a) Utilitatea și raritatea;", "b) Dorința și puterea de cumpărare;", "c) Utilitatea, raritatea, dorința și puterea de cumpărare;", "d) Valoarea de piață depinde doar de..."],
+    "question": "6. Valoarea este creată din interacțiunea următorilor factori interdependenți:",
+    "answers": [
+      "a) Utilitatea și raritatea;",
+      "b) Dorința și puterea de cumpărare;",
+      "c) Utilitatea, raritatea, dorința și puterea de cumpărare;",
+      "d) Valoarea de piață depinde doar de factorii cererii, și anume utilitatea și puterea de cumpărare."
+    ],
     "correct": ["c) Utilitatea, raritatea, dorința și puterea de cumpărare;"]
   },
   {
     "question": "7. Utilitatea bunului în întreprindere se determină în funcție de:",
-    "answers": ["a) gradul de participare la realizarea profiturilor;", "b) parametrii tehnici de eficiență;", "c) gradul de uzură;", "d) prețul de achiziție."],
+    "answers": [
+      "a) gradul de participare la realizarea profiturilor;",
+      "b) parametrii tehnici de eficiență;",
+      "c) gradul de uzură;",
+      "d) prețul de achiziție."
+    ],
     "correct": ["a) gradul de participare la realizarea profiturilor;"]
   },
   {
     "question": "8. Concepte de bază în evaluare sunt:",
-    "answers": ["a) Proprietate/active;", "b) Preț, cost, piață;", "c) Valoare;", "d) Toate cele de mai sus."],
+    "answers": [
+      "a) Proprietate/active;",
+      "b) Preț, cost, piață;",
+      "c) Valoare;",
+      "d) Toate cele de mai sus."
+    ],
     "correct": ["d) Toate cele de mai sus."]
   },
   {
     "question": "9. Proprietatea este un concept:",
-    "answers": ["a) Economic...", "b) Juridic...", "c) Tehnic și comercial...", "d) Juridic, drepturi personale de posesiune..."],
+    "answers": [
+      "a) Economic, ce se referă la toate beneficiile legate de deținerea acesteia;",
+      "b) Juridic, ce se referă la toate avantajele, drepturile și beneficiile legate de deținerea acesteia;",
+      "c) Tehnic și comercial, ce se referă la toate avantajele legate de deținerea acesteia;",
+      "d) Juridic, ce se referă la drepturile personale de posesiune asupra unei proprietăți imobiliare."
+    ],
     "correct": ["b) Juridic, ce se referă la toate avantajele, drepturile și beneficiile legate de deținerea acesteia;"]
   },
   {
     "question": "10. În sens limitat, proprietatea personală constă în:",
-    "answers": ["a) Drepturi asupra proprietății imobiliare;", "b) Drepturi asupra obiectelor fizice;", "c) Avantaje și beneficii asupra proprietății reale;", "d) Acțiuni ce reprezintă procent din capital."],
+    "answers": [
+      "a) Drepturile personale de posesiune asupra unei proprietăți imobiliare (terenuri și construcții);",
+      "b) Drepturile personale de posesiune asupra obiectelor fizice, altele decât cele care formează proprietatea imobiliară, numită proprietate personală;",
+      "c) Toate avantajele, drepturile și beneficiile legate de deținerea proprietății reale;",
+      "d) Acțiuni ce reprezintă un procent din capitalul propriu."
+    ],
     "correct": ["b) Drepturile personale de posesiune asupra obiectelor fizice, altele decât cele care formează proprietatea imobiliară, numită proprietate personală;"]
   },
   {
     "question": "11. Prețul este:",
-    "answers": ["a)... sumă estimată comunicată clientului;", "b)... indicație asupra valorii relative;", "c)... sumă necesară pentru a crea un bun;", "d)... probabilitatea unui preț într-o tranzacție ipotetică."],
+    "answers": [
+      "a) Termenul utilizat pentru o sumă estimată, comunicată clientului sau băncii, referitor la cea mai probabilă sumă ce ar putea fi plătită pentru un bun sau serviciu;",
+      "b) O indicație asupra valorii relative date bunurilor sau serviciilor de către un anumit cumpărător și/sau vânzător, în anumite situații particulare;",
+      "c) Termenul utilizat pentru a exprima o sumă necesară pentru a crea sau produce un bun sau serviciu;",
+      "d) Probabilitatea unui preț ce ar putea fi plătit pentru bunuri și servicii într-o tranzacție ipotetică."
+    ],
     "correct": ["b) O indicație asupra valorii relative date bunurilor sau serviciilor de către un anumit cumpărător și/sau vânzător, în anumite situații particulare;"]
   },
   {
     "question": "12. Costul este:",
-    "answers": ["a) Probabilitatea unui cost într-o tranzacție ipotetică;", "b) Suma necesară pentru a crea un activ...", "c) Suma necesară pentru a produce un activ;", "d) Termenul utilizat pentru suma necesară."],
-    "correct": ["c) Suma necesară pentru a crea sau produce un activ (corporal sau necorporal) sau a realiza un serviciu, prin însumarea cheltuileilor cumulate;"]
+    "answers": [
+      "a) Probabilitatea unui cost ce ar putea fi acceptat pentru bunuri și servicii într-o tranzacție ipotetică;",
+      "b) Suma necesară pentru a crea sau produce un activ (corporal sau necorporal) sau a realiza un serviciu, prin însumarea cheltuielilor cumulate și profitul antreprenorului;",
+      "c) Suma necesară pentru a crea sau produce un activ (corporal sau necorporal) sau a realiza un serviciu, prin însumarea cheltuielilor cumulate;",
+      "d) Termenul utilizat pentru a exprima suma necesară pentru a cumpăra de pe piață sau a produce un bun sau serviciu."
+    ],
+    "correct": ["c) Suma necesară pentru a crea sau produce un activ (corporal sau necorporal) sau a realiza un serviciu, prin însumarea cheltuielilor cumulate;"]
   },
   {
     "question": "13. Imperfecțiunile uzuale ale piețelor sunt legate:",
-    "answers": ["a) asimetria informațiilor;", "b) creșterea sau descreșterea bruscă a cererii;", "c) dispariția temporară a ofertei;", "d) toate cele de mai sus."],
+    "answers": [
+      "a) asimetria informațiilor între vânzător și cumpărător;",
+      "b) creșterea sau descreșterea bruscă și neașteptată a cererii;",
+      "c) dispariția temporară, dar bruscă a ofertei;",
+      "d) toate cele de mai sus."
+    ],
     "correct": ["d) toate cele de mai sus."]
   },
   {
     "question": "14. Valoarea este un concept economic care se referă la:",
-    "answers": ["a) probabilitatea unui preț într-o tranzacție ipotetică;", "b) măsura beneficiului economic adus proprietarului;", "c) indicație asupra valorii relative...", "d) suma necesară pentru a produce un bun."],
-    "correct": ["a) probabilitatea unui preț ce ar putea fi plătit...", "b) măsura beneficiului economic adus proprietarului..."]
+    "answers": [
+      "a) probabilitatea unui preț ce ar putea fi plătit pentru bunuri și servicii într-o tranzacție ipotetică (valoare de schimb);",
+      "b) măsura beneficiului economic adus proprietarului de acele bunuri și servicii (valoare de utilizare);",
+      "c) indicație asupra valorii relative date bunurilor sau serviciilor de către un anumit cumpărător și/sau vânzător, în anumite situații particulare;",
+      "d) suma necesară pentru a crea sau produce un bun sau serviciu."
+    ],
+    "correct": [
+      "a) probabilitatea unui preț ce ar putea fi plătit pentru bunuri și servicii într-o tranzacție ipotetică (valoare de schimb);",
+      "b) măsura beneficiului economic adus proprietarului de acele bunuri și servicii (valoare de utilizare);"
+    ]
   },
   {
     "question": "15. Conceptul economic de valoare reflectă:",
-    "answers": ["a) imaginea pieței generale asupra beneficiilor viitoare;", "b) imaginea investitorului asupra beneficiilor viitoare;", "c) imaginea evaluatorului...", "d) suma necesară pentru a cumpăra un bun."],
-    "correct": ["a) imaginea pe care o are piața...", "b) imaginea pe care o are un anumit investitor..."]
+    "answers": [
+      "a) imaginea pe care o are piața în general despre beneficiile viitoare, care îi revin celui care posedă/ar poseda proprietatea la data efectivă a evaluării;",
+      "b) imaginea pe care o are un anumit investitor despre beneficiile viitoare, care îi revin celui care posedă/ar poseda proprietatea la data efectivă a evaluării;",
+      "c) imaginea pe care o are evaluatorul despre beneficiile viitoare, care îi revin celui care posedă/ar poseda proprietatea la data efectivă a evaluării;",
+      "d) suma necesară pentru a cumpăra de pe piață sau a produce un bun sau serviciu."
+    ],
+    "correct": [
+      "a) imaginea pe care o are piața în general despre beneficiile viitoare, care îi revin celui care posedă/ar poseda proprietatea la data efectivă a evaluării;",
+      "b) imaginea pe care o are un anumit investitor despre beneficiile viitoare, care îi revin celui care posedă/ar poseda proprietatea la data efectivă a evaluării;"
+    ]
   },
   {
-    "question": "16. Standardele Internaționale de Evaluare recunosc trei categorii:",
-    "answers": ["a) Valoarea de piață, de investiție, de exploatare;", "b) Valoarea de piață, justă, reziduală;", "c) Valoarea de piață, valoarea justă și de investiție;", "d) Valoarea de lichidare, justă și de investiție."],
+    "question": "16. Standardele Internaționale de Evaluare recunosc și definesc bazele de evaluare, considerând următoarele trei categorii principale:",
+    "answers": [
+      "a) Valoarea de piață, valoarea de investiție și valoarea de exploatare;",
+      "b) Valoarea de piață, valoarea justă și valoarea reziduală;",
+      "c) Valoarea de piață, valoarea justă și valoarea de investiție;",
+      "d) Valoarea de lichidare, valoarea justă și valoarea de investiție."
+    ],
     "correct": ["c) Valoarea de piață, valoarea justă și valoarea de investiție;"]
   },
   {
     "question": "17. Valoarea de piață este:",
-    "answers": ["a) suma estimată pentru care o proprietate...", "b) prețul estimat pentru transferul unui activ;", "c) suma obținută prin actualizarea fluxului de venit;", "d) o formă a valorii speciale."],
+    "answers": [
+      "a) suma estimată pentru care o proprietate s-ar schimba între un vânzător hotărât și un cumpărător hotărât, la data evaluării;",
+      "b) prețul estimat pentru transferul unui activ, care reflectă interesele specifice ale părților;",
+      "c) suma obținută prin actualizarea fluxului de venit anticipat de investitor din proprietatea evaluată;",
+      "d) o formă a valorii speciale ce rezultă din combinarea a două sau mai multe active."
+    ],
     "correct": ["a) suma estimată pentru care o proprietate s-ar schimba între un vânzător hotărât și un cumpărător hotărât, la data evaluării;"]
   },
   {
     "question": "18. Valoarea de investiție se estimează ca:",
-    "answers": ["a) sumă ce reflectă atribute specifice...", "b) valoarea bazată pe cerințele investiționale individuale;", "c) beneficiile obținute din vânzarea activului;", "d) valoarea investiției la sfârșitul exploatării."],
-    "correct": ["b) valoarea pe care este dispus să o dea un investitor..."]
+    "answers": [
+      "a) Suma ce reflectă atributele specifice ale unui activ și care reprezintă valoare doar pentru un cumpărător special;",
+      "b) valoarea pe care este dispus să o dea un investitor, respectiv valoarea bazată pe cerințele investiționale individuale;",
+      "c) beneficiile pe care o entitate le obține din vânzarea activului/întreprinderii evaluate;",
+      "d) valoarea de piață a unei investiții la sfârșitul perioadei de exploatare, timp în care suma investită a fost recuperată integral."
+    ],
+    "correct": ["b) valoarea pe care este dispus să o dea un investitor, respectiv valoarea bazată pe cerințele investiționale individuale;"]
   },
   {
     "question": "19. Valoarea de investiție se estimează:",
-    "answers": ["a) costul de înlocuire net;", "b) comparația directă sau capitalizarea profitului;", "c) actualizarea fluxului de venit anticipat;", "d) nu se estimează, se calculează."],
+    "answers": [
+      "a) prin estimarea costului de înlocuire net al proprietății;",
+      "b) prin comparația directă sau capitalizarea profitului;",
+      "c) prin actualizarea fluxului de venit anticipat de investitor din proprietatea evaluată;",
+      "d) valoarea de investiție nu se estimează, ci se calculează."
+    ],
     "correct": ["c) prin actualizarea fluxului de venit anticipat de investitor din proprietatea evaluată;"]
   },
   {
-    "question": "20. Valoarea de lichidare este egală cu:",
-    "answers": ["a) valoarea de origine minus uzura;", "b) prețul de vânzare posibil minus datorii și cheltuieli;", "c) valoarea actuală a bunului;", "d) costul de achiziție."],
-    "correct": ["b) pretul de vânzare posibil... minus datoriile..."]
+    "question": "20. Valoarea de lichidare a unui bun este egală cu:",
+    "answers": [
+      "a) valoarea de origine, mai puțin uzura;",
+      "b) prețul de vânzare posibil de obținut, mai puțin datoriile care grevează bunul și cheltuielile ocazionate de lichidare;",
+      "c) valoarea actuală a bunului;",
+      "d) costul de achiziție."
+    ],
+    "correct": ["b) prețul de vânzare posibil de obținut, mai puțin datoriile care grevează bunul și cheltuielile ocazionate de lichidare;"]
   },
-
   {
-    "question": "21. Cauzele diferenței între valoarea de piață și valoarea de investiție sunt:",
-    "answers": ["a) diferențe în estimarea potențialului de profit;", "b) perceperea riscurilor identic;", "c) nu există diferențe;", "d) motivații specifice ale părților."],
+    "question": "21. Cauzele unei posibile diferențe între valoarea de piață și valoarea de investiție sunt:",
+    "answers": [
+      "a) diferențe în estimarea potențialului de a genera profit;",
+      "b) perceperea riscurilor afacerii în mod identic;",
+      "c) nu există diferențe semnificative;",
+      "d) cumpărătorul și vânzătorul sunt motivați specific."
+    ],
     "correct": ["a) diferențe în estimarea potențialului de a genera profit;"]
   },
-
   {
     "question": "22. Care tip de valoare este sinonim cu valoarea de piață:",
-    "answers": ["a) Valoarea de asigurare;", "b) Valoarea de lichidare;", "c) Valoarea de investiție;", "d) Valoarea de schimb."],
+    "answers": [
+      "a) Valoarea de asigurare;",
+      "b) Valoarea de lichidare;",
+      "c) Valoarea de investiție;",
+      "d) Valoarea de schimb."
+    ],
     "correct": ["d) Valoarea de schimb."]
   },
-
   {
     "question": "23. Valoarea justă este:",
-    "answers": ["a) un concept mai larg față de valoarea de piață;", "b) un concept mai restrâns;", "c) similar cu valoarea de piață;", "d) similar cu valoarea de investiție."],
-    "correct": ["c) un concept similar cu valoarea de piață;"]
+    "answers": [
+      "a) un concept mai larg comparativ cu valoarea de piață;",
+      "b) un concept mai restrâns comparativ cu valoarea de piață;",
+      "c) un concept similar cu valoarea de piață;",
+      "d) un concept similar cu valoarea de investiție."
+    ],
+    "correct": ["a) un concept mai larg comparativ cu valoarea de piață;"]
   },
-
   {
     "question": "24. Valoarea intrinsecă:",
-    "answers": ["a) pentru întreprinderi necotate;", "b) diferența între cursul de piață și valoarea reală;", "c) suma obținută dacă afacerea este lichidată pe bucăți;", "d) valoarea investiției la sfârșitul exploatării."],
-    "correct": ["b) se stabileşte în scopul cunoaşterii diferenţei dintre cursul de piaţă şi valoarea reală..."]
+    "answers": [
+      "a) se determină, de regulă, pentru întreprinderile necotate la bursă;",
+      "b) se stabilește în scopul cunoașterii diferenței dintre cursul de piață și valoarea reală a unei acțiuni, servind la fundamentarea deciziei de a vinde sau de a cumpăra acțiuni;",
+      "c) reflectă suma ce poate fi obținută dacă afacerea este lichidată și activele sunt vândute bucată cu bucată;",
+      "d) este valoarea de piață a unei investiții la sfârșitul perioadei de exploatare, timp în care suma investită a fost recuperată integral."
+    ],
+    "correct": ["b) se stabilește în scopul cunoașterii diferenței dintre cursul de piață și valoarea reală a unei acțiuni, servind la fundamentarea deciziei de a vinde sau de a cumpăra acțiuni;"]
   },
-
   {
     "question": "25. Valoarea specială este:",
-    "answers": ["a) valoare doar pentru actualul proprietar;", "b) valoare pentru un cumpărător special;", "c) valoare doar pentru un cumpărător special;", "d) valoare pentru majoritatea participanților."],
-    "correct": ["c) Suma ce reflectă atributele specifice... doar pentru un cumpărător special;"]
+    "answers": [
+      "a) Suma ce reflectă atributele specifice ale unui activ și care reprezintă valoare doar pentru actualul proprietar;",
+      "b) Suma ce reflectă atributele generale ale unui activ și care reprezintă valoare doar pentru un cumpărător special;",
+      "c) Suma ce reflectă atributele specifice ale unui activ și care reprezintă valoare doar pentru un cumpărător special;",
+      "d) Suma ce reflectă atributele specifice ale unui activ și care reprezintă valoare doar pentru marea majoritate a participanților pe piață."
+    ],
+    "correct": ["c) Suma ce reflectă atributele specifice ale unui activ și care reprezintă valoare doar pentru un cumpărător special;"]
   },
-
   {
-    "question": "26. Valoarea de garantare a creditului ipotecar este:",
-    "answers": ["a) apropiată de valoarea de utilizare;", "b) apropiată de valoarea justă;", "c) apropiată de valoarea forțată;", "d) valoare sustenabilă pe termen lung."],
+    "question": "26. Valoarea de garantare a creditului ipotecar reprezintă:",
+    "answers": [
+      "a) Un tip de valoare foarte apropiat de valoarea de utilizare;",
+      "b) Un tip de valoare foarte apropiat de valoarea justă;",
+      "c) Un tip de valoare foarte apropiat de valoarea forțată;",
+      "d) Valoarea estimată ca fiind sustenabilă pe termen lung."
+    ],
     "correct": ["d) Valoarea estimată ca fiind sustenabilă pe termen lung."]
   },
-
   {
     "question": "27. Conform principiului substituției:",
-    "answers": ["a) valoarea economică determinată de un bun substituibil;", "b) se alege bunul cu prețul cel mai mare;", "c) valoarea firmei conform percepției asupra câștigurilor ulterioare;", "d) valoarea este valabilă doar la data evaluării."],
-    "correct": ["a) valoarea economică a unui bun este determinată de valoarea altui bun substituibil;"]
+    "answers": [
+      "a) valoarea economică a unui bun este determinată de valoarea altui bun, care este substituibil și, în aceeași manieră, dorit;",
+      "b) atunci când pe piață sunt disponibile mai multe bunuri similare cu prețuri diferite se alege cel cu prețul cel mai mare;",
+      "c) valoarea firmei se determină pe percepția asupra câștigurilor ulterioare realizate din exploatarea firmei;",
+      "d) valoarea determinată prin activitatea de evaluare este valabilă numai la o anumită dată, numită data evaluării."
+    ],
+    "correct": ["a) valoarea economică a unui bun este determinată de valoarea altui bun, care este substituibil și, în aceeași manieră, dorit;"]
   },
-
   {
     "question": "28. Conform principiului veniturilor viitoare anticipate:",
-    "answers": ["a) valoarea patrimonială;", "b) valoarea firmei pe baza câștigurilor viitoare;", "c) prețul maxim plătibil de investitor;", "d) valoarea firmei reflectată după specificul activității."],
-    "correct": ["b) Valoarea firmei se determină pe baza câştigurilor ulterioare;"]
+    "answers": [
+      "a) Valoarea este o reflectare a valorii patrimoniale;",
+      "b) Valoarea firmei se determină pe baza percepției asupra câștigurilor ulterioare realizate din exploatarea firmei;",
+      "c) Valoarea firmei este prețul de cumpărare maxim pe care este dispus să-l plătească un investitor;",
+      "d) Valoarea firmei este cea care reflectă cel mai bine specificul activității firmei."
+    ],
+    "correct": ["b) Valoarea firmei se determină pe baza percepției asupra câștigurilor ulterioare realizate din exploatarea firmei;"]
   },
-
   {
     "question": "29. Procesul de evaluare reprezintă:",
-    "answers": ["a) procedură sistematică pentru estimarea valorii;", "b) ansamblul metodelor și tehnicilor;", "c) estimare sistematică a valorii de piață;", "d) procedură utilizată pentru valoarea de piață."],
-    "correct": ["a) Procedură sistematică utilizată pentru a estima într-o manieră credibilă..."]
+    "answers": [
+      "a) Procedură sistematică utilizată pentru a estima într-o manieră credibilă o anumită valoare a întreprinderii;",
+      "b) Ansamblul metodelor și tehnicilor utilizate pentru a estima valoare de piață a întreprinderii;",
+      "c) Procedură sistematică utilizată pentru a estima, într-o manieră credibilă valoarea de piață a întreprinderii;",
+      "d) Procedură utilizată pentru a estima cel mai credibil valoare de piață a întreprinderii."
+    ],
+    "correct": ["a) Procedură sistematică utilizată pentru a estima într-o manieră credibilă o anumită valoare a întreprinderii;"]
   },
-
   {
     "question": "30. Primul pas într-o evaluare este:",
-    "answers": ["a) formularea raportului;", "b) definirea misiunii evaluatorului;", "c) formularea tipului de valoare vizat;", "d) precizarea clientului și destinatarului."],
+    "answers": [
+      "a) Formularea clară a raportului pe care-l va realiza evaluatorul;",
+      "b) Definirea misiunii evaluatorului;",
+      "c) Formularea clară a tipului de valoare pe care-l va urmări evaluatorul;",
+      "d) Precizarea clară a clientului și destinatarul evaluării."
+    ],
     "correct": ["b) Definirea misiunii evaluatorului;"]
   },
-
   {
-    "question": "31. Activ din afara exploatării:",
-    "answers": ["a) Active utilizate sub capacitate;", "b) Active supradimensionate;", "c) Active închiriate terților;", "d) Active supraevaluate în contabilitate."],
+    "question": "31. Termenul de activ din afara exploatării se referă la:",
+    "answers": [
+      "a) Active utilizate sub capacitatea proiectată;",
+      "b) Active supradimensionate;",
+      "c) Active închiriate terților;",
+      "d) Active supraevaluate în contabilitate."
+    ],
     "correct": ["c) Active închiriate terților;"]
   },
-
   {
-    "question": "32. Valoarea de investiție = valoarea de piață dacă:",
-    "answers": ["a) metode adecvate;", "b) ipotezele sunt acceptate de toți participanții;", "c) nu se ține seama de ANC;", "d) rata de actualizare corect estimată."],
-    "correct": ["b) Ipotezele utilizate ar fi acceptate de către toți participanții pe piață;"]
+    "question": "32. Valoarea de investiție poate să fie egală cu valoarea de piață numai dacă:",
+    "answers": [
+      "a) Metodele aplicate sunt adecvate scopului evaluării;",
+      "b) Ipotezele utilizate în estimarea ei ar fi acceptate de către toți participanții de pe piață;",
+      "c) Nu se ține seama de metoda ANC (activul net corectat);",
+      "d) Se estimează corect rata de actualizare."
+    ],
+    "correct": ["b) Ipotezele utilizate în estimarea ei ar fi acceptate de către toți participanții de pe piață;"]
   },
-
   {
     "question": "33. Principiul contribuției arată că:",
-    "answers": ["a) valoarea unei părți depinde de contribuția la întreg;", "b) depinde de ponderea CIN;", "c) ponderea valorii de lichidare;", "d) nu este un principiu de evaluare."],
-    "correct": ["a) valoarea unei părţi depinde de cât contribuie la valoarea întregului;"]
+    "answers": [
+      "a) valoarea unei părți a unei afaceri/întreprinderi depinde de cât de mult contribuie la valoarea întregului;",
+      "b) valoarea unei părți a unei afaceri/întreprinderi depinde de ponderea costurilor de înlocuire nete (CIN) în total CIN al întregului;",
+      "c) valoarea unei părți a unei afaceri/întreprinderi depinde de ponderea valorii de lichidare în total valoare de lichidare a întregului;",
+      "d) nu este un principiu utilizat în evaluarea întreprinderii."
+    ],
+    "correct": ["a) valoarea unei părți a unei afaceri/întreprinderi depinde de cât de mult contribuie la valoarea întregului;"]
   },
-
   {
-    "question": "34. Ultima etapă în evaluare este:",
-    "answers": ["a) prezentarea anexelor;", "b) prezentarea copiilor;", "c) reconcilierea rezultatelor și estimarea valorii finale;", "d) declarația privind condițiile limitative."],
+    "question": "34. Ultima etapă în procesul de evaluare este:",
+    "answers": [
+      "a) prezentarea anexelor care au ca fundament valoarea;",
+      "b) prezentarea copiilor după bilanț, autorizațiile de funcționare, etc;",
+      "c) reconcilierea rezultatelor și estimarea valorii finale;",
+      "d) declarația privind condițiile limitative și certificarea competenței evaluatorului."
+    ],
     "correct": ["c) reconcilierea rezultatelor și estimarea valorii finale;"]
   },
-
   {
-    "question": "35. Separarea activelor din afara exploatării se face în:",
-    "answers": ["a) Diagnosticul juridic;", "b) Diagnosticul operațional;", "c) Diagnosticul economico-financiar;", "d) Metoda ANC."],
+    "question": "35. Analiza și separarea activelor din afara exploatării se realizează în cadrul:",
+    "answers": [
+      "a) Diagnosticului juridic;",
+      "b) Diagnosticului operațional;",
+      "c) Diagnosticului economico-financiar;",
+      "d) Aplicării metodei Activului net corectat."
+    ],
     "correct": ["d) Aplicării metodei Activului net corectat."]
   },
-
   {
-    "question": "36. Analiza calității produselor se face în:",
-    "answers": ["a) Diagnosticul juridic;", "b) Diagnosticul comercial;", "c) Diagnosticul operațional;", "d) Nu prezintă interes."],
-    "correct": ["b) Diagnosticul comercial;"]
+    "question": "36. Analiza calității produselor și serviciilor se urmărește în:",
+    "answers": [
+      "a) Diagnosticul juridic;",
+      "b) Diagnosticul comercial;",
+      "c) Diagnosticul operațional;",
+      "d) Nu prezintă interes în evaluarea întreprinderii."
+    ],
+    "correct": ["c) Diagnosticul operațional;"]
   },
-
   {
-    "question": "37. Analiza capacității de producție se realizează în:",
-    "answers": ["a) Diagnosticul juridic;", "b) Diagnosticul operațional;", "c) Diagnosticul resurselor umane;", "d) Corecțiile metodei ANC."],
+    "question": "37. Analiza capacității de producție și a gradului de utilizare a capacității de producție se realizează în:",
+    "answers": [
+      "a) Diagnosticul juridic;",
+      "b) Diagnosticul operațional;",
+      "c) Diagnosticul resurselor umane;",
+      "d) Cadrul corecțiilor din metoda ANC."
+    ],
     "correct": ["b) Diagnosticul operațional;"]
   },
-
   {
     "question": "38. Analiza eficienței utilizării potențialului uman are în vedere:",
-    "answers": ["a) Evoluția personalului auxiliar;", "b) Evoluția productivității muncii;", "c) Dinamica raportului mijloace fixe/salariați;", "d) Mobilitatea personalului."],
+    "answers": [
+      "a) Evoluția ponderii personalului auxiliar;",
+      "b) Evoluția productivității muncii;",
+      "c) Dinamica raportului mijloace fixe/număr de salariați;",
+      "d) Dinamica mobilității personalului."
+    ],
     "correct": ["b) Evoluția productivității muncii;"]
   },
-
   {
-    "question": "39. Drepturile de proprietate intelectuală sunt stabilite în:",
-    "answers": ["a) Diagnosticul operațional;", "b) Diagnosticul resurselor umane;", "c) Diagnosticul juridic;", "d) Diagnosticul comercial."],
-    "correct": ["c) Diagnosticul juridic;"]
+    "question": "39. Existența unor drepturi de proprietate intelectuală este stabilită în cadrul:",
+    "answers": [
+      "a) Diagnosticului operațional și are influență asupra fluxurilor de venit actualizate;",
+      "b) Diagnosticului resurselor umane și are influență asupra activului net corectat;",
+      "c) Diagnosticului juridic și are influență asupra activului net corectat;",
+      "d) Diagnosticului comercial și are influență în evaluarea pe bază de comparație."
+    ],
+    "correct": ["c) Diagnosticului juridic și are influență asupra activului net corectat;"]
   },
-
   {
-    "question": "40. Lichiditatea generală curentă =",
-    "answers": ["a) active totale / datorii curente", "b) active totale / datorii totale", "c) active circulante / datorii curente", "d) active circulante / datorii totale"],
-    "correct": ["c) active circulante / datorii curente"]
+    "question": "40. Lichiditatea generală curentă se calculează prin raportul dintre:",
+    "answers": [
+      "a) active totale / datorii curente;",
+      "b) active totale / datorii totale;",
+      "c) active circulante / datorii curente;",
+      "d) active circulante / datorii totale."
+    ],
+    "correct": ["c) active circulante / datorii curente;"]
   },
-
   {
-    "question": "41. Lichiditatea rapidă =",
-    "answers": ["a) active totale / datorii totale", "b) stocuri + creanțe / datorii curente", "c) stocuri + creanțe / datorii nefinanciare", "d) creanțe + disponibilități / datorii curente"],
-    "correct": ["d) creanțe + disponibilități / datorii curente"]
+    "question": "41. Lichiditatea rapidă (intermediară) se calculează prin raportul dintre:",
+    "answers": [
+      "a) active totale / datorii totale;",
+      "b) stocuri plus creanțe / datorii curente;",
+      "c) stocuri plus creanțe / datorii nefinanciare;",
+      "d) creanțe plus disponibilități / datorii curente."
+    ],
+    "correct": ["d) creanțe plus disponibilități / datorii curente."]
   },
-
   {
-    "question": "42. Rata solvabilității generale =",
-    "answers": ["a) active totale / datorii curente", "b) active totale / datorii totale", "c) active imobilizate / datorii curente", "d) active totale / datorii bancare"],
-    "correct": ["b) active totale / datorii totale"]
+    "question": "42. Rata solvabilității generale exprimă raportul dintre:",
+    "answers": [
+      "a) active totale / datorii curente;",
+      "b) active totale / datorii totale;",
+      "c) active imobilizate / datorii curente;",
+      "d) active totale / datorii bancare."
+    ],
+    "correct": ["b) active totale / datorii totale;"]
   },
-
   {
-    "question": "43. Rata autonomiei financiare globale:",
-    "answers": ["a) capital permanent / capital propriu", "b) capital propriu / capital total", "c) capital propriu / capital social", "d) capital propriu / capital împrumutat"],
-    "correct": ["b) capital propriu / capital total"]
+    "question": "43. Rata autonomiei financiare globale este:",
+    "answers": [
+      "a) capital permanent / capital propriu;",
+      "b) capital propriu / capital total;",
+      "c) capital propriu / capital social;",
+      "d) capital propriu / capital împrumutat."
+    ],
+    "correct": ["b) capital propriu / capital total;"]
   },
-
   {
     "question": "44. Rata rentabilității financiare este:",
-    "answers": ["a) Profit brut / capital permanent", "b) Profit brut / capital social", "c) Flux numerar actualizat / capital permanent", "d) Profit net / capital propriu"],
-    "correct": ["d) Profit net / capital propriu"]
+    "answers": [
+      "a) Profit brut / capital permanent;",
+      "b) Profit brut / capital social;",
+      "c) Flux de numerar actualizat net / capital permanent;",
+      "d) Profit net / capital propriu."
+    ],
+    "correct": ["d) Profit net / capital propriu."]
   },
-
   {
     "question": "45. Abordarea patrimonială se recomandă la:",
-    "answers": ["a) Evaluarea întreprinderii în totalitate;", "b) Evaluarea participațiilor minoritare;", "c) Evaluarea întreprinderilor din servicii profesionale;", "d) Toate de mai sus."],
+    "answers": [
+      "a) Evaluarea întreprinderii în totalitate;",
+      "b) Evaluarea participațiilor minoritare;",
+      "c) Evaluarea întreprinderilor din sfera serviciilor profesionale;",
+      "d) La toate cazurile de mai sus."
+    ],
     "correct": ["a) Evaluarea întreprinderii în totalitate;"]
   },
-
   {
-    "question": "46. În abordarea patrimonială, terenul se tratează:",
-    "answers": ["a) Valoare contabilă actualizată;", "b) Valoare de profitabilitate;", "c) Costul de achiziție;", "d) Valoarea de piață."],
+    "question": "46. În abordarea patrimonială, terenul va fi tratat:",
+    "answers": [
+      "a) Pe baza valorii din bilanțul contabil, actualizată;",
+      "b) Pe baza valorii de profitabilitate;",
+      "c) Pe baza costului de achiziție;",
+      "d) Pe baza valorii de piață."
+    ],
     "correct": ["d) Pe baza valorii de piață."]
   },
-
   {
-    "question": "47. În metoda ANC, cheltuielile de constituire sunt:",
-    "answers": ["a) preluate la valoarea contabilă", "b) eliminate", "c) preluate la valoarea corectată", "d) actualizate prin indexare"],
-    "correct": ["b) Sunt eliminate"]
+    "question": "47. În metoda Activului net corectat, cheltuielile de constituire sunt tratate astfel:",
+    "answers": [
+      "a) Sunt preluate la valoarea contabilă;",
+      "b) Sunt eliminate;",
+      "c) Sunt preluate la valoarea corectată;",
+      "d) Sunt actualizate prin indexare."
+    ],
+    "correct": ["b) Sunt eliminate;"]
   },
-
   {
     "question": "48. Costul de înlocuire al unui bun mobil este:",
-    "answers": ["a) costul de reproducție minus deprecierea", "b) costul de dislocare", "c) costul componentelor înlocuite", "d) costul unui substitut modernizat"],
-    "correct": ["d) costul unui substitut modernizat, cu funcții identice."]
+    "answers": [
+      "a) Costul de reproducție minus deprecierea;",
+      "b) Costul de dislocare a acestuia de pe amplasamentul său;",
+      "c) Costul componentelor înlocuite prin reparație;",
+      "d) Costul unui substitut modernizat, cu funcții identice."
+    ],
+    "correct": ["d) Costul unui substitut modernizat, cu funcții identice."]
   },
-
   {
-    "question": "49. Principiul de bază pentru costul de înlocuire este:",
-    "answers": ["a) Principiul contribuției", "b) Principiul concurenței", "c) Principiul substituției", "d) Principiul celei mai bune utilizări"],
-    "correct": ["c) Principiul substituției"]
+    "question": "49. Principiul de bază aplicabil în determinarea costului de înlocuire a unui bun este:",
+    "answers": [
+      "a) Principiul contribuției;",
+      "b) Principiul concurenței;",
+      "c) Principiul substituției;",
+      "d) Principiul celei mai bune utilizări."
+    ],
+    "correct": ["c) Principiul substituției;"]
   },
-
   {
-    "question": "50. Metoda de evaluare a terenului ce ține cont de raportul teren/proprietate este:",
-    "answers": ["a) Metoda proporției (alocării)", "b) Metoda extracției", "c) Metoda parcelării", "d) Metoda comparației vânzărilor"],
-    "correct": ["a) Metoda proporției (alocării)"]
+    "question": "50. Metoda de evaluare a terenului care ia în considerare raportul între valoarea terenului și valoarea proprietății este metoda:",
+    "answers": [
+      "a) Proporției (alocării);",
+      "b) Extracției;",
+      "c) Parcelării;",
+      "d) Comparației vânzărilor."
+    ],
+    "correct": ["a) Proporției (alocării);"]
   }
 ]
