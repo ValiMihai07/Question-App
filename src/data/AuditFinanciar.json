@@ -1,0 +1,567 @@
+[
+  {
+    "question": "1) Dosarele de lucru pot include:",
+    "answers": [
+      "a) situațiile financiare periodice în original",
+      "b) informații privind competitorii care au devansat entitatea examinată din punct de vedere al performanței",
+      "c) strategia generală și planul de audit",
+      "d) probe de audit colectate pe parcursul misiunii",
+      "e) diferite documente, contracte și procese verbale în original"
+    ],
+    "correct": [
+      "c) strategia generală și planul de audit",
+      "d) probe de audit colectate pe parcursul misiunii"
+    ]
+  },
+  {
+    "question": "2) Forma și conținutul documentelor de lucru sunt influențate de factorii:",
+    "answers": [
+      "a) forma pe care o solicită entitatea examinată pentru raportul de audit",
+      "b) obiectul de activitate al clientului de audit",
+      "c) particularitățile sistemului de control intern al clientului de audit",
+      "d) reglementările în domeniu, în vigoare la nivel național",
+      "e) reglementările în domeniu, în vigoare la nivel comunitar"
+    ],
+    "correct": [
+      "b) obiectul de activitate al clientului de audit",
+      "c) particularitățile sistemului de control intern al clientului de audit"
+    ]
+  },
+  {
+    "question": "3) Confirmarea se realizează prin:",
+    "answers": [
+      "a) discuții directe cu principalii parteneri de afaceri",
+      "b) întrebări adresate personalului din compartimentele de aprovizionare și desfacere",
+      "c) deplasarea la organele fiscale pentru obținerea cazierului fiscal",
+      "d) confirmări de la terți cu informații conținute în înregistrări contabile",
+      "e) validarea cu informații obținute prin intermediul publicului"
+    ],
+    "correct": [
+      "d) confirmări de la terți cu informații conținute în înregistrări contabile"
+    ]
+  },
+  {
+    "question": "4) Frauda dovedită:",
+    "answers": [
+      "a) este frauda care implică unul sau mai mulți membri din conducerea entității-client",
+      "b) este frauda care implică doar angajații entității-client",
+      "c) desemnează acele circumstanțe care sugerează o acțiune frauduloasă",
+      "d) este acțiunea sau operațiunea frauduloasă hotărâtă de către tribunal",
+      "e) este abaterea flagrantă constatată la examinarea raportărilor periodice"
+    ],
+    "correct": [
+      "d) este acțiunea sau operațiunea frauduloasă hotărâtă de către tribunal"
+    ]
+  },
+  {
+    "question": "5) Principalele tehnici utilizate de către auditorii financiari externi sunt următoarele:",
+    "answers": [
+      "a) inspecția activelor, observarea, intervievarea",
+      "b) doar observarea și interogarea",
+      "c) doar inspecția stocurilor, observarea proceselor și intervievarea persoanelor",
+      "d) inspecția activelor, testele conducerii, verificarea înregistrărilor și a documentelor",
+      "e) inspecția, analiza matematică și testarea"
+    ],
+    "correct": [
+      "a) inspecția activelor, observarea, intervievarea"
+    ]
+  },
+  {
+    "question": "6) Profesionistul ia în considerare pragul de semnificație:",
+    "answers": [
+      "a) numai la nivelul global al situațiilor financiare",
+      "b) numai detaliat în relație cu soldurile conturilor",
+      "c) atât la nivelul global al situațiilor financiare, cât și detaliat",
+      "d) ca prag maximal tolerabil al măsurii în care raportările pot fi denaturate",
+      "e) ca limită minimală tolerabilă a măsurii în care situațiile financiare pot fi denaturate"
+    ],
+    "correct": [
+      "c) atât la nivelul global al situațiilor financiare, cât și detaliat",
+      "d) ca prag maximal tolerabil al măsurii în care raportările pot fi denaturate"
+    ]
+  },
+  {
+    "question": "7) Alegerea abordării auditului (ABS sau ADF) se bazează pe:",
+    "answers": [
+      "a) scepticism profesional din partea auditorului",
+      "b) raționamentul profesional al auditorului/echipei de audit",
+      "c) rezultatele care se doresc a fi obținute",
+      "d) evaluarea riscurilor și a costului obținerii de probe fiabile",
+      "e) alegerea celei mai costisitoare variante"
+    ],
+    "correct": [
+      "b) raționamentul profesional al auditorului/echipei de audit",
+      "d) evaluarea riscurilor și a costului obținerii de probe fiabile"
+    ]
+  },
+  {
+    "question": "8) Credibilitatea probelor de audit depinde de:",
+    "answers": [
+      "a) sursa din care sunt obținute informațiile probante",
+      "b) cantitatea dovezilor obținute",
+      "c) circumstanțele individuale în care sunt obținute testimonialele auditului",
+      "d) gradul de suficiență al probelor de audit",
+      "e) rezonabilitatea elementelor probante"
+    ],
+    "correct": [
+      "a) sursa din care sunt obținute informațiile probante",
+      "c) circumstanțele individuale în care sunt obținute testimonialele auditului"
+    ]
+  },
+  {
+    "question": "9) În procesul de colectare și selectare a elementelor probante auditorul trebuie să:",
+    "answers": [
+      "a) abordeze toate informațiile existente",
+      "b) își păstreze independența și să aplice scepticismul profesional",
+      "c) ia în considerare doar evidențele contabile",
+      "d) să se bazeze doar pe documente pe hârtie",
+      "e) aleagă exclusiv probele necesare pentru a ajunge la un nivel de justă cunoaștere"
+    ],
+    "correct": [
+      "b) își păstreze independența și să aplice scepticismul profesional",
+      "e) aleagă exclusiv probele necesare pentru a ajunge la un nivel de justă cunoaștere"
+    ]
+  },
+  {
+    "question": "10) Abordarea bazată pe sisteme (ABS) se caracterizează prin faptul că:",
+    "answers": [
+      "a) profesionistul nu ia în considerare sistemul de control intern",
+      "b) profesionistul folosește proceduri de fond",
+      "c) profesionistul se bazează pe sistemul de control intern",
+      "d) auditorul folosește teste ale mecanismelor de control",
+      "e) profesionistul folosește teste pentru detectarea erorilor monetare"
+    ],
+    "correct": [
+      "c) profesionistul se bazează pe sistemul de control intern",
+      "d) auditorul folosește teste ale mecanismelor de control"
+    ]
+  },
+
+  {
+    "question": "11) Documentarea auditului presupune:",
+    "answers": [
+      "a) colectarea tuturor documentelor de lucru pe suport hârtie",
+      "b) adunarea tuturor dosarelor de lucru pregătite de și pentru auditor",
+      "c) colectarea documentelor de lucru pe hârtie sau suport electronic",
+      "d) păstrarea unor copii ale raportărilor periodice",
+      "e) întocmirea documentelor financiar-contabile ale entității examinate"
+    ],
+    "correct": [
+      "b) adunarea tuturor dosarelor de lucru pregătite de și pentru auditor",
+      "c) colectarea documentelor de lucru pe hârtie sau suport electronic"
+    ]
+  },
+
+  {
+    "question": "12) Pragul de semnificație în audit:",
+    "answers": [
+      "a) este o însușire calitativă a informației",
+      "b) este limita până la care denaturarea poate fi acceptată",
+      "c) este stabilit de către entitatea client",
+      "d) este stabilit de către auditor",
+      "e) reprezintă nivelul minim tolerabil al denaturării"
+    ],
+    "correct": [
+      "b) este limita până la care denaturarea poate fi acceptată",
+      "d) este stabilit de către auditor"
+    ]
+  },
+
+  {
+    "question": "13) Elementele probante sunt mai credibile în următoarele cazuri:",
+    "answers": [
+      "a) când probele sunt obținute din evidențe neoficiale",
+      "b) când mărturiile sunt exprimate oral",
+      "c) când auditorul poate obține confirmări din exteriorul entității",
+      "d) când informațiile probante sunt furnizate de documente în copie",
+      "e) când dovezile sunt obținute doar din documente interne"
+    ],
+    "correct": [
+      "c) când auditorul poate obține confirmări din exteriorul entității"
+    ]
+  },
+
+  {
+    "question": "14) Inspecția activelor, ca tehnică de audit, constă în:",
+    "answers": [
+      "a) examinarea documentelor",
+      "b) urmărirea unei activități efectuate de alții",
+      "c) examinarea directă a activelor și observarea inventarierii",
+      "d) executarea independentă a controalelor efectuate de angajați",
+      "e) obținerea unei declarații de la un terț"
+    ],
+    "correct": [
+      "c) examinarea directă a activelor și observarea inventarierii"
+    ]
+  },
+
+  {
+    "question": "15) Latura calitativă a elementelor probante presupune:",
+    "answers": [
+      "a) un anumit grad de suficiență",
+      "b) rigoare și coerență",
+      "c) relevanță și credibilitate",
+      "d) coerență și exactitate",
+      "e) credibilitate și suficiență"
+    ],
+    "correct": [
+      "c) relevanță și credibilitate"
+    ]
+  },
+
+  {
+    "question": "16) Profilul situațiilor financiare este dat de:",
+    "answers": [
+      "a) caracteristicile cantitative",
+      "b) definirea, recunoașterea și evaluarea elementelor",
+      "c) conceptul de profit",
+      "d) conceptul de capital",
+      "e) obținerea unei impresii asupra activității"
+    ],
+    "correct": [
+      "b) definirea, recunoașterea și evaluarea elementelor",
+      "d) conceptul de capital"
+    ]
+  },
+
+  {
+    "question": "17) Elementele probante sunt mai credibile în următoarele cazuri:",
+    "answers": [
+      "a) când probele sunt obținute direct de auditor",
+      "b) când mărturiile sunt exprimate oral",
+      "c) când auditorul poate obține confirmări din exterior",
+      "d) când informațiile sunt furnizate de documente în copie",
+      "e) când dovezile sunt obținute doar din documente interne"
+    ],
+    "correct": [
+      "a) când probele sunt obținute direct de auditor",
+      "c) când auditorul poate obține confirmări din exterior"
+    ]
+  },
+
+  {
+    "question": "18) Documentele de lucru:",
+    "answers": [
+      "a) sunt proprietatea auditorului",
+      "b) sunt proprietatea entității-client",
+      "c) nu pot fi utilizate drept probe în proceduri legale",
+      "d) pot fi folosite ca probe în orice procedură legală",
+      "e) înlocuiesc documentele contabile ale clientului"
+    ],
+    "correct": [
+      "a) sunt proprietatea auditorului",
+      "d) pot fi folosite ca probe în orice procedură legală"
+    ]
+  },
+
+  {
+    "question": "19) Gradul de adecvare al informațiilor probante se referă la:",
+    "answers": [
+      "a) măsura cantității acestora",
+      "b) gradul de credibilitate al acestora",
+      "c) rezonabilitatea probelor de audit",
+      "d) gradul de persuasiune furnizat de elementele probante",
+      "e) gradul de relevanță al informațiilor probante"
+    ],
+    "correct": [
+      "b) gradul de credibilitate al acestora",
+      "e) gradul de relevanță al informațiilor probante"
+    ]
+  },
+
+  {
+    "question": "20) Tehnica dublei încrucișări presupune:",
+    "answers": [
+      "a) verificarea unei informații dintr-o altă sursă internă",
+      "b) precizarea sursei și destinației pe fiecare document",
+      "c) verificarea unei informații prin apelarea la o sursă externă",
+      "d) menționarea sursei și destinației pe documentele de lucru",
+      "e) o legătură logică a tuturor dosarelor de lucru"
+    ],
+    "correct": [
+      "d) menționarea sursei și destinației pe documentele de lucru",
+      "e) o legătură logică a tuturor dosarelor de lucru"
+    ]
+  },
+
+  {
+    "question": "21) Probele de audit financiar includ:",
+    "answers": [
+      "a) doar informațiile din evidențele contabile",
+      "b) orice informații utile, cu excepția celor contabile",
+      "c) informațiile furnizate de evidențele contabile",
+      "d) orice alte informații obținute de auditor",
+      "e) orice informații utile, cu excepția celor din presă"
+    ],
+    "correct": [
+      "c) informațiile furnizate de evidențele contabile",
+      "d) orice alte informații obținute de auditor"
+    ]
+  },
+
+  {
+    "question": "22) Frauda poate implica:",
+    "answers": [
+      "a) omiterea neintenționată a unor fapte",
+      "b) greșeli matematice",
+      "c) manipularea sau falsificarea înregistrărilor",
+      "d) aplicarea tendențioasă a politicilor contabile",
+      "e) greșeli neintenționate"
+    ],
+    "correct": [
+      "c) manipularea sau falsificarea înregistrărilor",
+      "d) aplicarea tendențioasă a politicilor contabile"
+    ]
+  },
+
+  {
+    "question": "23) Abordarea directă de fond (ADF) se caracterizează prin faptul că:",
+    "answers": [
+      "a) profesionistul nu mai testează sistemul de control intern",
+      "b) oferă estimări ale asigurării furnizate de controale",
+      "c) presupune testarea mecanismelor de control",
+      "d) presupune testarea prin proceduri de fond a tranzacțiilor",
+      "e) profesionistul folosește proceduri de fond pentru detectarea erorilor"
+    ],
+    "correct": [
+      "a) profesionistul nu mai testează sistemul de control intern",
+      "e) profesionistul folosește proceduri de fond pentru detectarea erorilor"
+    ]
+  },
+
+  {
+    "question": "24) Pragul de semnificație în audit:",
+    "answers": [
+      "a) desemnează importanța relativă a elementului",
+      "b) reprezintă nivelul de la care denaturarea poate fi acceptată",
+      "c) reprezintă nivelul minim tolerabil al denaturării",
+      "d) este o valoare limită, numită prag de materialitate",
+      "e) este luat în considerare doar la nivel global"
+    ],
+    "correct": [
+      "a) desemnează importanța relativă a elementului",
+      "d) este o valoare limită, numită prag de materialitate"
+    ]
+  },
+
+  {
+    "question": "25) Concludența probelor de audit nu este influențată de:",
+    "answers": [
+      "a) măsura cantității informațiilor probante",
+      "b) riscul de denaturare",
+      "c) relevanța elementelor probante",
+      "d) credibilitatea dovezilor de audit",
+      "e) gradul de rezonabilitate al probelor de audit"
+    ],
+    "correct": [
+      "e) gradul de rezonabilitate al probelor de audit"
+    ]
+  },
+  {
+    "question": "26) Riscul de audit se determină de regulă cu ajutorul:",
+    "answers": [
+      "a) tehnicilor sondajului statistic",
+      "b) matricei riscurilor economice",
+      "c) matricei sintezei procesului de audit",
+      "d) tehnicilor de audit",
+      "e) procedurilor de audit"
+    ],
+    "correct": [
+      "a) tehnicilor sondajului statistic"
+    ]
+  },
+  {
+    "question": "27) Documentarea misiunii:",
+    "answers": [
+      "a) reprezintă o importantă sursă de informare pentru întocmirea corectă a situațiilor financiare",
+      "b) facilitează planificarea și execuția angajamentului",
+      "c) furnizează probe consistente pentru plângerile și acțiunile judiciare",
+      "d) nu poate furniza o evidență a punctelor slabe ale activității clientului",
+      "e) oferă mărturia concluziilor și opiniilor finale ale echipei de audit"
+    ],
+    "correct": [
+      "b) facilitează planificarea și execuția angajamentului",
+      "e) oferă mărturia concluziilor și opiniilor finale ale echipei de audit"
+    ]
+  },
+  {
+    "question": "28) Condițiile și evenimentele care sporesc riscul de apariție a erorilor și fraudelor pot include:",
+    "answers": [
+      "a) dubii referitoare la integritatea sau competența auditorului",
+      "b) presiuni neobișnuite în cadrul sau asupra entității",
+      "c) tranzacții obișnuite, în special aproape de finele anului",
+      "d) probleme în obținerea probelor de audit competente",
+      "e) factorii specifici sistemelor de informații necomputerizate"
+    ],
+    "correct": [
+      "b) presiuni neobișnuite în cadrul sau asupra entității",
+      "d) probleme în obținerea probelor de audit competente"
+    ]
+  },
+  {
+    "question": "29) Presiunile neobișnuite în cadrul sau asupra entității se reflectă în următoarele aspecte:",
+    "answers": [
+      "a) sectorul de activitate este în declin",
+      "b) se înregistrează un nivel corespunzător al fondului de rulment",
+      "c) entitatea este dependentă de un singur furnizor sau client",
+      "d) există o structură corporativă complexă",
+      "e) se înregistrează un ritm rapid de schimbare a personalului important"
+    ],
+    "correct": [
+      "a) sectorul de activitate este în declin",
+      "c) entitatea este dependentă de un singur furnizor sau client"
+    ]
+  },
+  {
+    "question": "30) Componentele riscului în audit sunt:",
+    "answers": [
+      "a) riscul de denaturare semnificativă și riscul de nedetectare",
+      "b) riscul inerent, riscul de control, riscul de nedetectare",
+      "c) riscul financiar și riscul economic",
+      "d) riscul financiar, riscul operațional și riscul de control",
+      "e) riscul fiscal, riscul etic și riscul inerent"
+    ],
+    "correct": [
+      "a) riscul de denaturare semnificativă și riscul de nedetectare",
+      "b) riscul inerent, riscul de control, riscul de nedetectare"
+    ]
+  },
+  {
+    "question": "31) Testele de control cuprind:",
+    "answers": [
+      "a) cunoașterea elementelor de bilanț și a operațiunilor economice",
+      "b) investigarea și observarea controalelor interne unde nu s-au constatat deficiențe",
+      "c) verificarea documentelor contabile centralizatoare",
+      "d) verificarea controalelor interne neesențiale",
+      "e) elaborarea procedurilor controlului intern de către auditor"
+    ],
+    "correct": [
+      "a) cunoașterea elementelor de bilanț și a operațiunilor economice",
+      "b) investigarea și observarea controalelor interne unde nu s-au constatat deficiențe"
+    ]
+  },
+  {
+    "question": "32) Pentru diminuarea riscului global, auditorul va considera:",
+    "answers": [
+      "a) natura procedurilor de fond",
+      "b) efectuarea procedurilor de fond la începutul exercițiului",
+      "c) întinderea procedurilor de fond",
+      "d) întinderea testelor de control",
+      "e) momentul în care se efectuează testele de control"
+    ],
+    "correct": [
+      "a) natura procedurilor de fond",
+      "c) întinderea procedurilor de fond"
+    ]
+  },
+  {
+    "question": "33) Riscurile specifice entității se referă la:",
+    "answers": [
+      "a) riscurile legate de situația economică a întreprinderii",
+      "b) riscurile legate de organizarea generală a entității",
+      "c) verificarea cât mai lejeră a modului de gestionare a documentelor",
+      "d) absența unor proceduri la nivel național",
+      "e) riscuri legate de atitudinea personalului de execuție"
+    ],
+    "correct": [
+      "a) riscurile legate de situația economică a întreprinderii",
+      "b) riscurile legate de organizarea generală a entității"
+    ]
+  },
+  {
+    "question": "34) Riscurile legate de natura operațiunilor tratate sunt determinate de faptul că datele existente pot fi:",
+    "answers": [
+      "a) nerepetitive",
+      "b) punctuale",
+      "c) excepționale",
+      "d) de rutină",
+      "e) generale"
+    ],
+    "correct": [
+      "b) punctuale",
+      "c) excepționale"
+    ]
+  },
+  {
+    "question": "35) Un raport de audit financiar induce în eroare dacă:",
+    "answers": [
+      "a) se afirmă din greșeală că a existat o neconformitate",
+      "b) se omite prezentarea limitelor de întindere a auditului",
+      "c) nu s-au detectat abaterile importante și nu sunt semnalate în raport",
+      "d) auditorul nu conștientizează riscurile asumate",
+      "e) se afirmă că situațiile financiare induc în eroare utilizatorii"
+    ],
+    "correct": [
+      "b) se omite prezentarea limitelor de întindere a auditului",
+      "c) nu s-au detectat abaterile importante și nu sunt semnalate în raport"
+    ]
+  },
+  {
+    "question": "36) Atunci când riscul de audit este crescut, auditorul va compensa acest lucru:",
+    "answers": [
+      "a) crescând nivelul riscului de denaturare semnificativă",
+      "b) reducând nivelul riscului de denaturare semnificativă",
+      "c) reducând riscul de nedetectare prin modificarea testelor",
+      "d) crescând nivelul riscului prin teste extinse",
+      "e) reducând probabilitatea existenței denaturărilor nesemnificative"
+    ],
+    "correct": [
+      "b) reducând nivelul riscului de denaturare semnificativă",
+      "c) reducând riscul de nedetectare prin modificarea testelor"
+    ]
+  },
+  {
+    "question": "37) Raportarea financiară frauduloasă poate implica:",
+    "answers": [
+      "a) manipularea, falsificarea sau modificarea înregistrărilor contabile",
+      "b) furtul activelor unei entități",
+      "c) chitanțe frauduloase, furt de active",
+      "d) determinarea unei entități să efectueze o plată pentru bunuri nerecepționate",
+      "e) aplicarea greșită în mod intenționat a politicilor contabile"
+    ],
+    "correct": [
+      "a) manipularea, falsificarea sau modificarea înregistrărilor contabile",
+      "e) aplicarea greșită în mod intenționat a politicilor contabile"
+    ]
+  },
+  {
+    "question": "38) Erorile desemnează:",
+    "answers": [
+      "a) greșeli neintenționate apărute în situațiile financiare",
+      "b) acțiuni intenționate ale conducerii",
+      "c) denaturări rezultate din raportarea frauduloasă",
+      "d) greșeli neintenționate comise de auditor",
+      "e) greșeli intenționate comise de auditor"
+    ],
+    "correct": [
+      "a) greșeli neintenționate apărute în situațiile financiare"
+    ]
+  },
+  {
+    "question": "39) Probele de audit reprezintă:",
+    "answers": [
+      "a) totalitatea informațiilor din evidențele contabile utilizate de examinator",
+      "b) totalitatea procedurilor utilizate de examinator",
+      "c) informațiile necesare realizării evidenței contabile",
+      "d) informațiile utilizate de examinator în investigații și raționamente",
+      "e) procedurile apelate de examinator împreună cu aserțiunile managementului"
+    ],
+    "correct": [
+      "d) informațiile utilizate de examinator în investigații și raționamente"
+    ]
+  },
+  {
+    "question": "40) Dubiile referitoare la integritatea sau competența conducerii se manifestă astfel:",
+    "answers": [
+      "a) sincope continue în corectarea deficiențelor majore",
+      "b) ritm lent de schimbare a personalului important",
+      "c) supradimensionarea departamentului contabilitate",
+      "d) lipsa garanțiilor materiale ale administratorilor și gestionarilor",
+      "e) presiuni financiare asupra managerilor"
+    ],
+    "correct": [
+      "a) sincope continue în corectarea deficiențelor majore",
+      "d) lipsa garanțiilor materiale ale administratorilor și gestionarilor"
+    ]
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "question": "1) În modalitatea directă, organizarea și derularea exportului sau importului de bunuri și servicii se realizează de către:",
+    "answers": [
+      "a) firma producătoare pe contul și pe riscul ei",
+      "b) firmele de comision în intermedierea comerțului exterior",
+      "c) orice societate de comerț exterior SCE",
+      "d) unitățile prestatoare de servicii"
+    ],
+    "correct": ["a) firma producătoare pe contul și pe riscul ei"]
+  },
+  {
+    "question": "2) În modalitatea indirectă, organizarea și derularea exportului sau importului se realizează prin intermediul:",
+    "answers": [
+      "a) firmelor producătoare",
+      "b) doar firmele de comision în intermedierea comerțului exterior",
+      "c) societăților de comerț exterior",
+      "d) unitățile prestatoare de servicii"
+    ],
+    "correct": ["c) societăților de comerț exterior"]
+  },
+  {
+    "question": "3) Rezultatele activității de comerț exterior derulate în modalitatea directă se reflectă în gestiunea:",
+    "answers": [
+      "a) societății de comerț exterior",
+      "b) producătorului",
+      "c) comisionarului",
+      "d) unității prestatoare de servicii"
+    ],
+    "correct": ["b) producătorului"]
+  },
+  {
+    "question": "4) Rezultatele activității de comerț exterior derulate în modalitatea indirectă se reflectă în gestiunea societății de comerț exterior dacă:",
+    "answers": [
+      "a) este un export în comision",
+      "b) este un import în comision",
+      "c) este un export pe cont propriu",
+      "d) este un import pe cont propriu"
+    ],
+    "correct": [
+      "c) este un export pe cont propriu",
+      "d) este un import pe cont propriu"
+    ]
+  },
+  {
+    "question": "5) Care dintre următoarele condiții de livrare sunt exclusiv maritime:",
+    "answers": [
+      "a) CFR",
+      "b) FCA",
+      "c) DAT",
+      "d) FAS"
+    ],
+    "correct": [
+      "a) CFR",
+      "d) FAS"
+    ]
+  },
+  {
+    "question": "6) Incasso-ul documentar este o tehnică de plată care constă în:",
+    "answers": [
+      "a) acordarea de către exportator băncii sale a unui mandat de a încasa suma unei tranzacții comerciale",
+      "b) acordarea de către importator băncii sale a unui mandat de a plăti valoarea unei tranzacții comerciale",
+      "c) angajamentul asumat de către o bancă de a plăti o sumă contra documentelor",
+      "d) angajamentul unei bănci de a plăti orice sumă datorată furnizorilor"
+    ],
+    "correct": ["a) acordarea de către exportator băncii sale a unui mandat de a încasa suma unei tranzacții comerciale"]
+  },
+  {
+    "question": "7) Acreditivul documentar este o tehnică de plată care constă în:",
+    "answers": [
+      "a) mandat de încasare dat de exportator",
+      "b) mandat de plată dat de importator",
+      "c) angajamentul unei bănci de a plăti o sumă contra documentelor",
+      "d) angajamentul unei bănci de a plăti orice sumă datorată furnizorilor"
+    ],
+    "correct": ["c) angajamentul unei bănci de a plăti o sumă contra documentelor"]
+  },
+  {
+    "question": "8) Plata unei facturi dintr-un acreditiv documentar se înregistrează cu formula contabilă:",
+    "answers": [
+      "a) 401 = 5411",
+      "b) (variantă lipsă în PDF)",
+      "c) 5414 = 5124",
+      "d) 5411 = 5121"
+    ],
+    "correct": [
+      "a) 401 = 5411",
+      "b) (variantă lipsă în PDF)"
+    ]
+  },
+  {
+    "question": "9) Încasarea unei facturi dintr-un cont de acreditiv documentar deschis de client se înregistrează cu formula contabilă:",
+    "answers": [
+      "a) 5121 = 5411",
+      "b) 5124 = 5414",
+      "c) 5121 = 4111",
+      "d) 5124 = 461"
+    ],
+    "correct": [
+      "c) 5121 = 4111",
+      "d) 5124 = 461"
+    ]
+  },
+  {
+    "question": "10) Diferențele de curs valutar sunt favorabile atunci când:",
+    "answers": [
+      "a) la actualizarea unei creanțe cursul a crescut",
+      "b) la actualizarea unei creanțe cursul a scăzut",
+      "c) la actualizarea unei datorii cursul a scăzut",
+      "d) la actualizarea unei datorii cursul a crescut"
+    ],
+    "correct": [
+      "a) la actualizarea unei creanțe cursul a crescut",
+      "c) la actualizarea unei datorii cursul a scăzut"
+    ]
+  },
+  {
+    "question": "11) Diferențele de curs valutar sunt nefavorabile atunci când:",
+    "answers": [
+      "a) la actualizarea unei creanțe cursul a crescut",
+      "b) la actualizarea unei creanțe cursul a scăzut",
+      "c) la actualizarea unei datorii cursul a scăzut",
+      "d) la actualizarea unei datorii cursul a crescut"
+    ],
+    "correct": [
+      "b) la actualizarea unei creanțe cursul a scăzut",
+      "d) la actualizarea unei datorii cursul a crescut"
+    ]
+  },
+  {
+    "question": "12) Primirea unui efect de comerț în schimbul unei creanțe se înregistrează cu formula:",
+    "answers": [
+      "a) 403 = 401",
+      "b) 4111 = 413",
+      "c) 401 = 403",
+      "d) 413 = 4111"
+    ],
+    "correct": ["d) 413 = 4111"]
+  },
+  {
+    "question": "13) Acceptarea unui efect de comerț în schimbul unei datorii se înregistrează cu formula:",
+    "answers": [
+      "a) 403 = 401",
+      "b) 4111 = 413",
+      "c) 401 = 403",
+      "d) 413 = 4111"
+    ],
+    "correct": ["c) 401 = 403"]
+  },
+  {
+    "question": "14) Creditul furnizor este un credit acordat:",
+    "answers": [
+      "a) exportatorului",
+      "b) importatorului",
+      "c) SCE comisionar de import",
+      "d) SCE comisionar de export"
+    ],
+    "correct": ["a) exportatorului"]
+  },
+  {
+    "question": "15) Care formulă contabilă reflectă înregistrarea unor diferențe de curs valutar:",
+    "answers": [
+      "a) 5124 = 665",
+      "b) 401 = 765",
+      "c) 665 = 4111",
+      "d) 765 = 5124"
+    ],
+    "correct": [
+      "b) 401 = 765",
+      "c) 665 = 4111"
+    ]
+  },
+  {
+    "question": "16) Care formulă contabilă reflectă înregistrarea unor diferențe de curs valutar:",
+    "answers": [
+      "a) 5124 = 665",
+      "b) 4111 = 765",
+      "c) 665 = 401",
+      "d) 765 = 5124"
+    ],
+    "correct": [
+      "b) 4111 = 765",
+      "c) 665 = 401"
+    ]
+  },
+  {
+    "question": "17) Caracterul specific al activității de comerț exterior este determinat de:",
+    "answers": [
+      "a) modul în care se negociază tranzacțiile",
+      "b) modul în care se derulează operațiile de livrare, transport și decontare",
+      "c) modul specific de desfășurare a operațiilor",
+      "d) utilizarea avansurilor, garanțiilor și efectelor de comerț"
+    ],
+    "correct": [
+      "a) modul în care se negociază tranzacțiile",
+      "b) modul în care se derulează operațiile de livrare, transport și decontare"
+    ]
+  },
+  {
+    "question": "18) În categoria operațiilor combinate de comerț exterior se includ:",
+    "answers": [
+      "a) comerțul invizibil",
+      "b) reexportul",
+      "c) contrapartida",
+      "d) asigurările"
+    ],
+    "correct": [
+      "b) reexportul",
+      "c) contrapartida"
+    ]
+  },
+  {
+    "question": "19) Exportator poate fi:",
+    "answers": [
+      "a) firmă de producție cumpărătoare de materii prime",
+      "b) firmă de producție vânzătoare pe piața externă",
+      "c) firmă de comerț cumpărătoare de mărfuri",
+      "d) firmă de comerț vânzătoare pe piața externă"
+    ],
+    "correct": [
+      "b) firmă de producție vânzătoare pe piața externă",
+      "d) firmă de comerț vânzătoare pe piața externă"
+    ]
+  },
+  {
+    "question": "20) Importator poate fi:",
+    "answers": [
+      "a) firmă de producție cumpărătoare de materii prime",
+      "b) firmă de producție vânzătoare pe piața externă",
+      "c) firmă de comerț cumpărătoare de mărfuri",
+      "d) firmă de comerț vânzătoare pe piața externă"
+    ],
+    "correct": [
+      "a) firmă de producție cumpărătoare de materii prime",
+      "c) firmă de comerț cumpărătoare de mărfuri"
+    ]
+  },
+  {
+    "question": "21) Atunci când organizarea și derularea exportului și importului se realizează de firmele producătoare, tranzacțiile se derulează:",
+    "answers": [
+      "a) pe cont propriu",
+      "b) în comision",
+      "c) în modalitatea indirectă",
+      "d) în modalitatea directă"
+    ],
+    "correct": ["d) în modalitatea directă"]
+  },
+  {
+    "question": "22) În cazul operațiilor derulate pe cont propriu, SCE reflectă în contabilitatea lor:",
+    "answers": [
+      "a) doar datoriile și creanțele comerciale",
+      "b) cheltuieli și venituri din comercializarea mărfurilor",
+      "c) cheltuieli și venituri proprii de exploatare",
+      "d) venituri proprii sub forma comisioanelor"
+    ],
+    "correct": [
+      "b) cheltuieli și venituri din comercializarea mărfurilor",
+      "c) cheltuieli și venituri proprii de exploatare"
+    ]
+  },
+  {
+    "question": "23) În cazul operațiilor derulate în comision, SCE reflectă în contabilitatea lor:",
+    "answers": [
+      "a) doar datoriile și creanțele comerciale",
+      "b) cheltuieli și venituri din comercializarea mărfurilor",
+      "c) cheltuieli și venituri proprii de exploatare",
+      "d) venituri proprii sub forma comisioanelor"
+    ],
+    "correct": [
+      "c) cheltuieli și venituri proprii de exploatare",
+      "d) venituri proprii sub forma comisioanelor"
+    ]
+  },
+  {
+    "question": "24) Regulile Incoterms fac referiri exprese la:",
+    "answers": [
+      "a) stabilirea locului de trecere a cheltuielilor și riscurilor",
+      "b) drepturile vânzătorilor de a solicita avansuri",
+      "c) drepturile clienților de a reține garanții",
+      "d) obligația vânzătorului de a aviza cumpărătorul"
+    ],
+    "correct": [
+      "a) stabilirea locului de trecere a cheltuielilor și riscurilor",
+      "d) obligația vânzătorului de a aviza cumpărătorul"
+    ]
+  },
+  {
+    "question": "25) În care dintre grupele Incoterms locul de predare al mărfurilor nu coincide cu cel de transferare a riscurilor:",
+    "answers": [
+      "a) Grupa C",
+      "b) Grupa D",
+      "c) Grupa E",
+      "d) Grupa F"
+    ],
+    "correct": ["a) Grupa C"]
+  },
+  {
+    "question": "26) Transferul mărfurilor și riscurilor pe chei, în portul de îmbarcare convenit, corespunde condiției Incoterms:",
+    "answers": [
+      "a) DAP",
+      "b) FAS",
+      "c) CIF",
+      "d) EXW"
+    ],
+    "correct": ["b) FAS"]
+  },
+  {
+    "question": "27) Clauza Incoterms care stipulează condiții maxime pentru vânzător este:",
+    "answers": [
+      "a) CPT",
+      "b) FAS",
+      "c) CIF",
+      "d) DDP"
+    ],
+    "correct": ["d) DDP"]
+  },
+  {
+    "question": "28) Cambia este un ordin scris și necondiționat… În terminologie:",
+    "answers": [
+      "a) X este emitent, Y este tras, Z este trăgător",
+      "b) X este trăgător, Y este tras, Z este beneficiar",
+      "c) X este ordonator, Y este trăgător, Z este beneficiar",
+      "d) X este beneficiar, Y este ordonator, Z este tras"
+    ],
+    "correct": ["b) X este trăgător, Y este tras, Z este beneficiar"]
+  },
+  {
+    "question": "29) Transferul fondurilor bănești printr-un mecanism care corelează livrarea cu plata se poate realiza prin:",
+    "answers": [
+      "a) plăți în avans",
+      "b) incasso documentar",
+      "c) plata la predarea mărfii",
+      "d) acreditivul documentar"
+    ],
+    "correct": [
+      "b) incasso documentar",
+      "d) acreditivul documentar"
+    ]
+  },
+  {
+    "question": "30) Operații contabile în derularea decontărilor prin acreditiv documentar:",
+    "answers": [
+      "a) 5414 = 4111",
+      "b) 581 = 5414",
+      "c) 401 = 5414",
+      "d) 5414 = 5121"
+    ],
+    "correct": [
+      "b) 581 = 5414",
+      "c) 401 = 5414"
+    ]
+  },
+  {
+    "question": "31) Operații contabile în derularea decontărilor prin acreditiv documentar:",
+    "answers": [
+      "a) 5414 = 581",
+      "b) 581 = 5414",
+      "c) 5121 = 5414",
+      "d) 5414 = 401"
+    ],
+    "correct": [
+      "a) 5414 = 581",
+      "b) 581 = 5414"
+    ]
+  },
+  {
+    "question": "32) Creditul acordat exportatorului când acesta consimte o amânare de plată se numește:",
+    "answers": [
+      "a) forfetare",
+      "b) factoring",
+      "c) credit furnizor",
+      "d) credit cumpărător"
+    ],
+    "correct": ["c) credit furnizor"]
+  },
+  {
+    "question": "33) Finanțarea directă acordată importatorului de banca din țara exportatorului se numește:",
+    "answers": [
+      "a) forfetare",
+      "b) factoring",
+      "c) credit furnizor",
+      "d) credit cumpărător"
+    ],
+    "correct": ["d) credit cumpărător"]
+  },
+  {
+    "question": "34) Transformarea unei creanțe într-o sumă lichidă înainte de scadență generează o operațiune de:",
+    "answers": [
+      "a) avans",
+      "b) scontare",
+      "c) creditare",
+      "d) acreditiv"
+    ],
+    "correct": ["b) scontare"]
+  },
+  {
+    "question": "35) Dacă la momentul reevaluării unei datorii/creanțe cursul de schimb a crescut față de momentul inițial:",
+    "answers": [
+      "a) creanțele se majorează cu diferența de curs valutar",
+      "b) creanțele se micșorează cu diferența de curs valutar",
+      "c) datoriile se majorează cu diferența de curs valutar",
+      "d) datoriile se micșorează cu diferența de curs valutar"
+    ],
+    "correct": [
+      "a) creanțele se majorează cu diferența de curs valutar",
+      "c) datoriile se majorează cu diferența de curs valutar"
+    ]
+  },
+  {
+    "question": "36) Dacă la momentul reevaluării unei datorii/creanțe cursul de schimb a scăzut față de momentul inițial:",
+    "answers": [
+      "a) creanțele se majorează cu diferența de curs valutar",
+      "b) creanțele se micșorează cu diferența de curs valutar",
+      "c) datoriile se majorează cu diferența de curs valutar",
+      "d) datoriile se micșorează cu diferența de curs valutar"
+    ],
+    "correct": [
+      "b) creanțele se micșorează cu diferența de curs valutar",
+      "d) datoriile se micșorează cu diferența de curs valutar"
+    ]
+  },
+  {
+    "question": "37) Diferențele favorabile de curs valutar apar în situația:",
+    "answers": [
+      "a) scăderii cursului de schimb față de momentul inițial, pentru datoriile în valută",
+      "b) creșterii cursului de schimb față de momentul inițial, pentru creanțele în valută",
+      "c) creșterii cursului de schimb față de momentul inițial pentru datoriile în valută",
+      "d) scăderii cursului de schimb față de momentul inițial pentru creanțele în valută"
+    ],
+    "correct": [
+      "a) scăderii cursului de schimb față de momentul inițial, pentru datoriile în valută",
+      "b) creșterii cursului de schimb față de momentul inițial, pentru creanțele în valută"
+    ]
+  },
+  {
+    "question": "38) Diferențele nefavorabile de curs valutar apar în situația în care:",
+    "answers": [
+      "a) scade cursul de schimb față de momentul inițial pentru datoriile în valută",
+      "b) crește cursul de schimb față de momentul inițial, pentru datoriile în valută",
+      "c) crește cursul de schimb față de momentul inițial pentru creanțele în valută",
+      "d) scade cursul de schimb față de momentul inițial, pentru creanțele în valută"
+    ],
+    "correct": [
+      "b) crește cursul de schimb față de momentul inițial, pentru datoriile în valută",
+      "d) scade cursul de schimb față de momentul inițial, pentru creanțele în valută"
+    ]
+  },
+  {
+    "question": "39) Avansurile în valută solicitate de furnizor extern clientului intern, în cadrul operațiilor de import în comision, se înregistrează la SCE cu formula:",
+    "answers": [
+      "a) 167 = 5124",
+      "b) 409 = 5124",
+      "c) 5124 = 419",
+      "d) 5124 = 267"
+    ],
+    "correct": [
+      "b) 409 = 5124",
+      "c) 5124 = 419"
+    ]
+  },
+  {
+    "question": "40) Garanțiile restituite de clienți către furnizori, în cadrul operațiilor de import în comision, se reflectă la SCE cu formula:",
+    "answers": [
+      "a) 5124 = 267",
+      "b) 471/X = 4111",
+      "c) 167 = 5124",
+      "d) 401 = 471/X"
+    ],
+    "correct": [
+      "a) 5124 = 267",
+      "c) 167 = 5124"
+    ]
+  }
+]

@@ -1,0 +1,630 @@
+[
+  {
+    "question": "1) Conceptul de flux în interiorul unei întreprinderi este definit ca fiind:",
+    "answers": [
+      "a) Acea operațiune contabilă nemonetară care ca scop diminuarea profitului în vederea obținerii unei economii de impozit;",
+      "b) Operațiunea contabilă prin care se urmărește majorarea profitului în vederea realizării unui beneficiu acționarilor;",
+      "c) Toate mișcările generate de operațiunile economice derulate de întreprindere, ce vor avea impact imediat sau ulterior asupra trezoreriei;",
+      "d) Acele cantități de bunuri care intră într-o întreprindere;",
+      "e) Bunurile care urmează să fie achiziționate de întreprindere în vederea maximizării câștigului."
+    ],
+    "correct": ["c) Toate mișcările generate de operațiunile economice derulate de întreprindere, ce vor avea impact imediat sau ulterior asupra trezoreriei;"]
+  },
+  {
+    "question": "2) Fluxurile reale ale unei întreprinderi reprezintă:",
+    "answers": [
+      "a) Cantitatea de bunuri care intră sau iese dintr-o întreprindere;",
+      "b) Cantitatea de bani (de numerar) care intră într-o întreprindere și care influențează trezoreria acesteia în sensul majorării;",
+      "c) Cantitatea de bani (de numerar) care intră într-o întreprindere și care influențează trezoreria acesteia în sensul diminuării;",
+      "d) Cantitatea de bunuri și numerar care intră respectiv iese dintr-o întreprindere;",
+      "e) Cantitatea de bunuri și numerar care intră și iese dintr-o întreprindere în sensul majorării sau diminuării trezoreriei."
+    ],
+    "correct": ["a) Cantitatea de bunuri care intră sau iese dintr-o întreprindere;"]
+  },
+  {
+    "question": "3) Fluxurile financiare ale unei întreprinderi reprezintă:",
+    "answers": [
+      "a) Acele intrări și ieșiri efective de numerar care au influență asupra trezoreriei;",
+      "b) Acele intrări și ieșiri efective de bunuri;",
+      "c) Orice operațiune contabilă cu caracter nemonetar;",
+      "d) Veniturile și cheltuielile unei întreprinderi care au caracter nemonetar și care sunt deductibile fiscal;",
+      "e) Doar acele intrări de numerar care presupun o influență asupra trezoreriei."
+    ],
+    "correct": ["a) Acele intrări și ieșiri efective de numerar care au influență asupra trezoreriei;"]
+  },
+  {
+    "question": "4) Fluxurile financiare de utilizări reprezintă:",
+    "answers": [
+      "a) Orice formă de lichiditate care este atrasă în întreprindere prin vânzare de active;",
+      "b) Resursele financiare obținute prin contractarea unor credite bancare;",
+      "c) Lichiditățile utilizate pentru achiziția de imobilizări, stocuri sau creșterea creanțelor față de clienți;",
+      "d) Fluxurile concretizate în creșterea de lichidități prin orice mijloc;",
+      "e) Operațiunea de creștere a lichidităților prin emisiunea de obligațiuni."
+    ],
+    "correct": ["a) Orice formă de lichiditate care este atrasă în întreprindere prin vânzare de active;"]
+  },
+  {
+    "question": "5) După conținutul lor, fluxurile pot fi:",
+    "answers": [
+      "a) Reale și financiare;",
+      "b) De utilizări și de resurse;",
+      "c) De exploatare, financiare și de investiție;",
+      "d) De trezorerie și decalate;",
+      "e) De utilizări și de exploatare."
+    ],
+    "correct": ["a) Reale și financiare;"]
+  },
+  {
+    "question": "6) După destinația lor, fluxurile pot fi:",
+    "answers": [
+      "a) Reale și financiare;",
+      "b) De utilizări și de resurse;",
+      "c) De exploatare, financiare și de investiție;",
+      "d) De trezorerie și decalate;",
+      "e) De utilizări și de exploatare."
+    ],
+    "correct": ["b) De utilizări și de resurse;"]
+  },
+  {
+    "question": "7) După momentul incidenței asupra trezoreriei, fluxurile pot fi:",
+    "answers": [
+      "a) Reale și financiare;",
+      "b) De utilizări și de resurse;",
+      "c) De exploatare, financiare și de investiție;",
+      "d) De trezorerie și decalate;",
+      "e) De utilizări și de exploatare."
+    ],
+    "correct": ["d) De trezorerie și decalate;"]
+  },
+  {
+    "question": "8) Plata de 1000 lei ca urmare a achiziției unui teren reprezintă:",
+    "answers": [
+      "a) Un flux financiar de intrare aferent activității de finanțare;",
+      "b) Un flux financiar de intrare aferent activității de exploatare;",
+      "c) Un flux financiar de ieșire aferent activității de exploatare;",
+      "d) Un flux financiar de intrare aferent activității de investiție;",
+      "e) Un flux financiar de ieșire aferent activității de investiție."
+    ],
+    "correct": ["e) Un flux financiar de ieșire aferent activității de investiție."]
+  },
+  {
+    "question": "9) Plata de 500 lei aferentă unei facturi privind furnizarea de materie primă reprezintă:",
+    "answers": [
+      "a) Flux financiar de intrare aferent activității de investiție;",
+      "b) Flux financiar de ieșire aferent activității de exploatare;",
+      "c) Flux financiar de ieșire aferent activității de finanțare;",
+      "d) Flux real aferent activității de investiție;",
+      "e) Nu reprezintă flux."
+    ],
+    "correct": ["b) Flux financiar de ieșire aferent activității de exploatare;"]
+  },
+  {
+    "question": "10) Valoarea de 1500 lei obținută din vânzarea unui autoturism reprezintă:",
+    "answers": [
+      "a) Flux financiar de ieșire aferent activității de finanțare;",
+      "b) Flux financiar de intrare aferent activității de finanțare;",
+      "c) Flux financiar de intrare aferent activității de exploatare;",
+      "d) Flux financiar de intrare aferent activității investiționale;",
+      "e) Nu reprezintă flux."
+    ],
+    "correct": ["d) Flux financiar de intrare aferent activității investiționale;"]
+  },
+
+  {
+    "question": "11) Dintre următoarele operațiuni, reprezintă fluxuri aferente activității de exploatare:",
+    "answers": [
+      "a) Plata salariilor;",
+      "b) Cheltuiala cu salariile;",
+      "c) Încasări din vânzare de bunuri și prestare de servicii;",
+      "d) Amenzile și penalitățile;",
+      "e) Plata de dobânzi."
+    ],
+    "correct": [
+      "a) Plata salariilor;",
+      "c) Încasări din vânzare de bunuri și prestare de servicii;"
+    ]
+  },
+
+  {
+    "question": "12) Având în vedere următoarele operațiuni, reprezintă fluxuri aferente activității de finanțare:",
+    "answers": [
+      "a) Încasarea creanțelor de la clienți;",
+      "b) Plata unor dobânzi ca urmare a contractării unor credite;",
+      "c) Încasarea din emisiunea de obligațiuni;",
+      "d) Conversia datoriilor în acțiuni;",
+      "e) Plata furnizorilor de imobilizări."
+    ],
+    "correct": [
+      "b) Plata unor dobânzi ca urmare a contractării unor credite;",
+      "c) Încasarea din emisiunea de obligațiuni;"
+    ]
+  },
+
+  {
+    "question": "13) Conversia datoriilor în acțiuni reprezintă:",
+    "answers": [
+      "a) Flux financiar aferent activității de finanțare;",
+      "b) Flux financiar aferent activității de investiție;",
+      "c) Flux financiar aferent activității de exploatare;",
+      "d) Poate fi privit atât ca flux financiar aferent activității de exploatare cât și de finanțare;",
+      "e) Nu reprezintă un flux financiar."
+    ],
+    "correct": ["e) Nu reprezintă un flux financiar."]
+  },
+
+  {
+    "question": "14) Dintre următoarele fluxuri, reprezintă fluxuri aferente activității de investiție:",
+    "answers": [
+      "a) Plata furnizorilor de materii prime și materiale consumabile;",
+      "b) Plata privind achiziționarea unor utilaje;",
+      "c) Încasarea unor creanțe de la clienți;",
+      "d) Încasarea contravalorii unor mijloace fixe;",
+      "e) Orice plată privind contractarea unor împrumuturi."
+    ],
+    "correct": [
+      "b) Plata privind achiziționarea unor utilaje;",
+      "d) Încasarea contravalorii unor mijloace fixe;"
+    ]
+  },
+
+  {
+    "question": "15) Potrivit IAS 1, componentele situațiilor financiare sunt:",
+    "answers": [
+      "a) Bilanțul financiar și bilanțul funcțional;",
+      "b) Situația fluxurilor financiare de trezorerie și contul de rezultate;",
+      "c) Bilanț contabil, cont de profit și pierdere, situația modificării capitalurilor, situația fluxurilor de trezorerie precum și notele și politicile contabile;",
+      "d) Bilanț funcțional, cont de profit și pierdere, situația modificării capitalurilor, situația fluxurilor de trezorerie precum și notele și politicile contabile;",
+      "e) Bilanț financiar, cont de profit și pierdere, situația modificării capitalurilor, situația fluxurilor de trezorerie;"
+    ],
+    "correct": ["c) Bilanț contabil, cont de profit și pierdere, situația modificării capitalurilor, situația fluxurilor de trezorerie precum și notele și politicile contabile;"]
+  },
+
+  {
+    "question": "16) În bilanțul financiar imobilizările corporale sunt reflectate:",
+    "answers": [
+      "a) La valoare brută;",
+      "b) La valoarea justă;",
+      "c) La valoarea contabilă rămasă de amortizat;",
+      "d) La valoarea reziduală;",
+      "e) La o valoare astfel încât firma să aibă de câștigat la finele exercițiului financiar."
+    ],
+    "correct": ["b) La valoarea justă;"]
+  },
+
+  {
+    "question": "17) Cheltuielile înregistrate în avans sunt reflectate în bilanțul financiar astfel:",
+    "answers": [
+      "a) La valoarea lor actualizată;",
+      "b) La valoarea lor din bilanțul contabil;",
+      "c) Se adună la nivelul creanțelor, fiind privite ca drepturi nerevendicate ale întreprinderii;",
+      "d) Sunt considerate non-valori si nu se trec în bilanțul financiar;",
+      "e) Se trec la același nivel ca și în bilanțul contabil și bilanțul funcțional."
+    ],
+    "correct": ["d) Sunt considerate non-valori si nu se trec în bilanțul financiar;"]
+  },
+
+  {
+    "question": "18) Fondul de rulment plecând de la bilanțul financiar se determină ca:",
+    "answers": [
+      "a) Diferență între capitalurile proprii si active imobilizate;",
+      "b) Diferență între capitalurile permanente și active imobilizate;",
+      "c) Diferență între activele imobilizate și datoriile de exploatare pe termen scurt;",
+      "d) Diferență între activele circulante și datoriile totale;",
+      "e) Diferență între activele circulante și datoriile din exploatare pe termen scurt."
+    ],
+    "correct": [
+      "b) Diferență între capitalurile permanente și active imobilizate;",
+      "e) Diferență între activele circulante și datoriile din exploatare pe termen scurt."
+    ]
+  },
+
+  {
+    "question": "19) Necesarul de fond de rulment reprezintă:",
+    "answers": [
+      "a) Partea de resurse financiare pe care întreprinderea o deține în vederea creșterii volumui de activitate;",
+      "b) Partea de resurse financiare deținute de o întreprindere pentru procurarea de mijloace fixe;",
+      "c) Resursele financiare de care întreprinderea are nevoie pentru finanțarea activității;",
+      "d) Diferența dintre necesitățile de finanțare ale ciclului de exploatare și datoriile din exploatare;",
+      "e) Contravaloarea stocurilor ce urmează a fi valorificate de la nivelul unei întreprinderi."
+    ],
+    "correct": [
+      "c) Resursele financiare de care întreprinderea are nevoie pentru finanțarea activității;",
+      "d) Diferența dintre necesitățile de finanțare ale ciclului de exploatare și datoriile din exploatare;"
+    ]
+  },
+
+  {
+    "question": "20) Imobilizările luate în calculul activului aciclic stabil sunt reflectate în bilanțul funcțional:",
+    "answers": [
+      "a) La valoarea netă;",
+      "b) La valoarea justă;",
+      "c) La valoarea de lichidare;",
+      "d) La valoarea reziduală;",
+      "e) La valoarea brută."
+    ],
+    "correct": ["e) La valoarea brută."]
+  },
+
+  {
+    "question": "21) În cadrul activului ciclic din exploatare sunt incluse:",
+    "answers": [
+      "a) Stocurile;",
+      "b) Investițiile pe termen scurt;",
+      "c) Titlurile financiare deținute în cadrul entităților afiliate;",
+      "d) Avansurile plătite furnizorilor;",
+      "e) Datoriile către stat."
+    ],
+    "correct": [
+      "a) Stocurile;",
+      "d) Avansurile plătite furnizorilor;"
+    ]
+  },
+
+  {
+    "question": "22) În cadrul surselor proprii de origine internă potrivit bilanțului funcțional, includem:",
+    "answers": [
+      "a) Amortismentele;",
+      "b) Capitalul social;",
+      "c) Rezervele;",
+      "d) Împrumuturile pe termen scurt;",
+      "e) Împrumuturile pe termen mediu și lung."
+    ],
+    "correct": [
+      "a) Amortismentele;",
+      "c) Rezervele;"
+    ]
+  },
+
+  {
+    "question": "23) Marja comercială într-o întreprindere se determină:",
+    "answers": [
+      "a) Ca diferență între veniturile din exploatare și cheltuielile aferente vânzării de mărfuri;",
+      "b) Profitul aferent vânzărilor și cheltuielile aferente cifrei de afaceri;",
+      "c) Venituri din vânzări de mărfuri și costul mărfurilor vândute;",
+      "d) Ca diferență între excedentul brut din exploatare și cifra de afaceri;",
+      "e) Ca sumă între veniturile aferente activității de exploatare și financiare."
+    ],
+    "correct": ["c) Venituri din vânzări de mărfuri și costul mărfurilor vândute;"]
+  },
+
+  {
+    "question": "24) În cadrul producției exercițiului se includ:",
+    "answers": [
+      "a) Producția vândută și producția nefinalizată;",
+      "b) Producția stocată și producția în curs de execuție;",
+      "c) Producția vândută, variația producției stocate și producția imobilizată;",
+      "d) Producția realizată pentru nevoile interne;",
+      "e) Producția valorificată și producția în curs de execuție."
+    ],
+    "correct": ["c) Producția vândută, variația producției stocate și producția imobilizată;"]
+  },{
+    "question": "25) Producția imobilizată reprezintă:",
+    "answers": [
+      "a) Producția realizată și stocată;",
+      "b) Producția stocată dar care a fost contractată în vederea vânzării la o dată ulterioară;",
+      "c) Producția nevalorificată;",
+      "d) Producția ce nu poate fi valorificată ca urmare a unor defecte de producție;",
+      "e) Producția realizată în regie proprie pentru satisfacerea unor nevoi interne."
+    ],
+    "correct": ["e) Producția realizată în regie proprie pentru satisfacerea unor nevoi interne."]
+  },
+  {
+    "question": "26) Excedentul brut din exploatare se deosebește de rezultatul din exploatare prin faptul că:",
+    "answers": [
+      "a) Excedentul brut are un caracter nemonetar;",
+      "b) Excedentul vizează doar veniturile și plățile ce aduc o economie de impozit;",
+      "c) Excedentul brut vizează doar veniturile și cheltuielile ce au caracter monetar;",
+      "d) Excedentul brut vizează doar acele venituri și cheltuieli ce au efect asupra trezoreriei;",
+      "e) Nu reprezintă nicio diferență, ambii indicatori reflectând același lucru."
+    ],
+    "correct": [
+      "c) Excedentul brut vizează doar veniturile și cheltuielile ce au caracter monetar;",
+      "d) Excedentul brut vizează doar acele venituri și cheltuieli ce au efect asupra trezoreriei;"
+    ]
+  },
+  {
+    "question": "27) Rezultatul curent al unei întreprinderi se determină cu relația:",
+    "answers": [
+      "a) Venituri din exploatare - cheltuieli din exploatare + venituri extraordinare - cheltuieli extraordinare;",
+      "b) Venituri financiare + venituri din exploatare + venituri extraordinare;",
+      "c) Venituri din exploatare - cheltuieli din exploatare + venituri financiare - cheltuieli financiare;",
+      "d) Rezultatul din exploatare + rezultatul extraordinar;",
+      "e) Rezultatul din exploatare + rezultatul financiar."
+    ],
+    "correct": [
+      "c) Venituri din exploatare - cheltuieli din exploatare + venituri financiare - cheltuieli financiare;",
+      "e) Rezultatul din exploatare + rezultatul financiar."
+    ]
+  },
+  {
+    "question": "28) Excedentul brut din exploatare, în mărime absolută, este influențat de următorii factori:",
+    "answers": [
+      "a) Nivelul de prelucrare al materiilor prime în întreprindere;",
+      "b) Nivelul vânzărilor;",
+      "c) Gradul de pregătire al salariaților;",
+      "d) Gradul de fiscalitate;",
+      "e) Managementul firmei."
+    ],
+    "correct": [
+      "a) Nivelul de prelucrare al materiilor prime în întreprindere;",
+      "d) Gradul de fiscalitate;"
+    ]
+  },
+  {
+    "question": "29) Prin excedentul brut din exploatare pot fi acoperite o serie de necesități precum:",
+    "answers": [
+      "a) Remunerarea capitalului propriu și împrumutat;",
+      "b) Menținerea capitalului tehnic;",
+      "c) Plata impozitelor și taxelor;",
+      "d) Plata amenzilor și penalităților;",
+      "e) Niciuna din cele de mai sus."
+    ],
+    "correct": [
+      "a) Remunerarea capitalului propriu și împrumutat;",
+      "b) Menținerea capitalului tehnic;"
+    ]
+  },
+  {
+    "question": "30) Rata amortizării aferentă excedentului brut din exploatare se determină ca raport între:",
+    "answers": [
+      "a) Excedent brut din exploatare și amortizare;",
+      "b) Capital tehnic și amortizare;",
+      "c) Amortizare și excedent brut din exploatare;",
+      "d) Valoarea rămasă de amortizat a mijloacelor fixe și excedent brut din exploatare;",
+      "e) Valoarea netă a activului și excedent brut din exploatare."
+    ],
+    "correct": ["c) Amortizare și excedent brut din exploatare;"]
+  },
+  {
+    "question": "31) Capacitatea de autofinanțare reprezintă:",
+    "answers": [
+      "a) Totalitatea veniturilor unei întreprinderi;",
+      "b) Împrumuturile pe termen lung realizate de o întreprindere pentru finanțarea investițiilor;",
+      "c) Potențialul financiar de creștere economică a unei întreprinderi;",
+      "d) Sursa internă de finanțare obținută în urma activității desfășurate de întreprindere;",
+      "e) Un indicator ce reflectă cheltuielile aferente activității de exploatare."
+    ],
+    "correct": [
+      "c) Potențialul financiar de creștere economică a unei întreprinderi;",
+      "d) Sursa internă de finanțare obținută în urma activității desfășurate de întreprindere;"
+    ]
+  },
+  {
+    "question": "32) Capacitatea de autofinanțare și excedentul brut din exploatare au următoarele caracteristici:",
+    "answers": [
+      "a) Ambele vizează întreaga activitate a firmei;",
+      "b) Ambele au un caracter monetar;",
+      "c) Capacitatea de autofinanțare spre deosebire de excedent nu are un caracter net;",
+      "d) Excedentul brut din exploatare față de capacitatea de autofinanțare are în vedere atât veniturile și cheltuielile monetare cât și nemonetare;",
+      "e) Excedentul brut are un caracter monetar și are în vedere doar activitatea de exploatare precum capacitatea de autofinanțare are un caracter net global."
+    ],
+    "correct": ["e) Excedentul brut are un caracter monetar și are în vedere doar activitatea de exploatare precum capacitatea de autofinanțare are un caracter net global."]
+  },
+  {
+    "question": "33) Pentru determinarea capacității de autofinanțare avem la dispoziție următoarele metode:",
+    "answers": [
+      "a) Metoda indicilor;",
+      "b) Metoda regresiei;",
+      "c) Metoda corelației;",
+      "d) Metoda deductivă;",
+      "e) Metoda aditivă."
+    ],
+    "correct": [
+      "d) Metoda deductivă;",
+      "e) Metoda aditivă."
+    ]
+  },
+  {
+    "question": "34) Autofinanțarea într-o întreprindere se determină ca:",
+    "answers": [
+      "a) Sumă a veniturilor din exploatare și financiare;",
+      "b) Sumă a veniturilor monetare generată de activitatea de exploatare;",
+      "c) Diferență între capacitatea de autofinanțare și dividende;",
+      "d) Ca diferență între excedent brut din exploatare și valoarea adăugată;",
+      "e) Sumă între veniturile monetare aferente atât activității de exploatare cât și financiare."
+    ],
+    "correct": ["c) Diferență între capacitatea de autofinanțare și dividende;"]
+  },
+  {
+    "question": "35) Din punct de vedere al delimitărilor conceptuale autofinanțarea poate fi:",
+    "answers": [
+      "a) Autofinanțare mixtă;",
+      "b) Autofinanțarea încrucișată;",
+      "c) Autofinanțare de dezvoltare;",
+      "d) Autofinanțare de menținere;",
+      "e) Autofinanțare monetară."
+    ],
+    "correct": [
+      "c) Autofinanțare de dezvoltare;",
+      "d) Autofinanțare de menținere;"
+    ]
+  },
+  {
+    "question": "36) Pentru elaborarea taboului de finanțare este necesară:",
+    "answers": [
+      "a) Evaluarea activelor întreprinderii;",
+      "b) Realizarea unei analize în dinamică folosind metoda indicilor;",
+      "c) Realizarea unei analize în dinamică folosind modificarea relativă;",
+      "d) Realizarea bilanțurilor diferențiale care să reflecte variațiile tuturor posturilor bilanțiere;",
+      "e) Realizarea unor corecții la nivelul activelor imobilizate."
+    ],
+    "correct": [
+      "d) Realizarea bilanțurilor diferențiale care să reflecte variațiile tuturor posturilor bilanțiere;"
+    ]
+  },
+  {
+    "question": "37) Transferul de la bilanțul diferențial la tabloul de finanțare se face astfel:",
+    "answers": [
+      "a) Variațiile pozitive ale activului corespund creării și achiziționării de active fizice sau financiare, ceea ce presupune utilizări de fonduri;",
+      "b) Variațiile negative ale activului corespund creării și achiziționării de active fizice sau financiare, ceea ce presupune utilizări de fonduri;",
+      "c) Variațiile pozitive ale activului se corectează cu indicele prețurilor de consum;",
+      "d) Variațiile negative ale activelor corespund în mod deosebit creșterii imobilizărilor corporale întrucât ele dețin ponderea cea mai semnificativă la nivelul unei întreprinderi;",
+      "e) Variațiile negative ale activului corespund vânzării unor bunuri contra monedă sau creanțe, reprezentând o creare de resurse."
+    ],
+    "correct": [
+      "a) Variațiile pozitive ale activului corespund creării și achiziționării de active fizice sau financiare, ceea ce presupune utilizări de fonduri;",
+      "e) Variațiile negative ale activului corespund vânzării unor bunuri contra monedă sau creanțe, reprezentând o creare de resurse."
+    ]
+  },
+  {
+    "question": "38) Transferul de la bilanțul diferențial la tabloul de finanțare se face astfel (pasiv):",
+    "answers": [
+      "a) Variațiile pozitive ale pasivului corespund noilor aporturi de fonduri sau formării unor noi datorii, ceea ce reprezintă resurse;",
+      "b) Variațiile negative corespund creării de resurse financiare;",
+      "c) Variațiile pozitive corespund rambursării datoriilor către terți;",
+      "d) Variațiile negative ale pasivului corespund rambursării unor datorii și reprezintă utilizări de resurse;",
+      "e) Atât variațiile pozitive cât și cele negative sunt corectate cu indicele de inflație."
+    ],
+    "correct": [
+      "a) Variațiile pozitive ale pasivului corespund noilor aporturi de fonduri sau formării unor noi datorii, ceea ce reprezintă resurse;",
+      "d) Variațiile negative ale pasivului corespund rambursării unor datorii și reprezintă utilizări de resurse;"
+    ]
+  },
+  {
+    "question": "39) Printre dificultățile întâmpinate în elaborarea tabloului de finanțare cele mai importante se leagă de:",
+    "answers": [
+      "a) Calculul impozitului datorat statului;",
+      "b) Variației rezultatului financiar;",
+      "c) Variației împrumuturilor și creanțelor;",
+      "d) Calculul rezultatului cu caracter strict monetar;",
+      "e) Delimitarea excedentului brut de rezultatul din exploatare."
+    ],
+    "correct": [
+      "b) Variației rezultatului financiar;",
+      "c) Variației împrumuturilor și creanțelor;"
+    ]
+  },
+  {
+    "question": "40) Printre limitele tabloului de finanțare se regăsesc:",
+    "answers": [
+      "a) Ambiguitățile la nivelul capacității de autofinanțare;",
+      "b) Dificultăți la nivelul activelor fictive;",
+      "c) Neajunsuri în efectuarea analizei financiare;",
+      "d) Dificultăți în realizarea analizei în dinamică;",
+      "e) Neajunsuri datorită utilizării metodei indicilor în defavoarea metodei relative."
+    ],
+    "correct": [
+      "a) Ambiguitățile la nivelul capacității de autofinanțare;",
+      "c) Neajunsuri în efectuarea analizei financiare;"
+    ]
+  },
+  {
+    "question": "41) Pentru aplicarea metodei indirecte în determinarea fluxurilor aferente activității de exploatare se impun realizarea unor serii de corecții precum:",
+    "answers": [
+      "a) Eliminarea efectelor operațiunilor care nu fac parte din activitatea de exploatare;",
+      "b) Creșterea stocurilor este văzută ca o intrare de numerar și se va lua în considerare valoarea acestora cu semnul plus;",
+      "c) Scăderea datoriilor este luată în considerare cu semnul plus;",
+      "d) Creșterea creanțelor se consideră o intrare de numerar și se va lua cu semnul plus;",
+      "e) Scăderea elementelor cuprinse în rezultatul exercițiului care nu influențează trezoreria."
+    ],
+    "correct": [
+      "a) Eliminarea efectelor operațiunilor care nu fac parte din activitatea de exploatare;",
+      "e) Scăderea elementelor cuprinse în rezultatul exercițiului care nu influențează trezoreria."
+    ]
+  },
+  {
+    "question": "42) Pentru elaborarea bugetului de trezorerie se aplică următoarele metode:",
+    "answers": [
+      "a) Metoda datoriilor și creanțelor;",
+      "b) Metoda contului de rezultate;",
+      "c) Metoda încasărilor și plăților;",
+      "d) Metoda bilanțurilor;",
+      "e) Metoda procent din vânzări."
+    ],
+    "correct": [
+      "c) Metoda încasărilor și plăților;",
+      "d) Metoda bilanțurilor;"
+    ]
+  },
+  {
+    "question": "43) Selectarea și finanțarea unei investiții se realizează ținând cont de:",
+    "answers": [
+      "a) Valoarea proiectului;",
+      "b) Rapiditatea întocmirii situațiilor financiare;",
+      "c) Valoarea actualizată a investiției;",
+      "d) Cifra de afaceri;",
+      "e) Rata internă de rentabilitate."
+    ],
+    "correct": [
+      "c) Valoarea actualizată a investiției;",
+      "e) Rata internă de rentabilitate."
+    ]
+  },
+  {
+    "question": "44) Capacitatea de autofinanțare și autofinanțarea au înregistrat următoarele valori:",
+    "answers": [
+      "a) 13.000 lei și 9.000 lei;",
+      "b) 17.900 lei și 12.900 lei;",
+      "c) 18.000 lei și 16.000 lei;",
+      "d) 17.800 lei și 12.500 lei;",
+      "e) 14.300 lei și 11.900 lei."
+    ],
+    "correct": ["b) 17.900 lei și 12.900 lei;"]
+  },
+  {
+    "question": "45) Capacitatea de autofinanțare și autofinanțarea au înregistrat următoarele valori:",
+    "answers": [
+      "a) 13.000 lei și 9.000 lei;",
+      "b) 17.900 lei și 12.900 lei;",
+      "c) 18.000 lei și 16.000 lei;",
+      "d) 16.100 lei și 12.100 lei;",
+      "e) 14.300 lei și 11.900 lei."
+    ],
+    "correct": ["d) 16.100 lei și 12.100 lei;"]
+  },
+  {
+    "question": "46) În structura tabloului fluxurilor de trezorerie, acordarea unui împrumut pe termen lung de către o societate industrială afectează:",
+    "answers": [
+      "a) Fluxul de trezorerie din activități de exploatare cu semnul \"+\";",
+      "b) Fluxul de trezorerie din activități de finanțare cu semnul \"-\";",
+      "c) Fluxul de trezorerie din activități de investiții cu semnul \"+\";",
+      "d) Fluxul de trezorerie din activități de investiții cu semnul \"-\";",
+      "e) Nu afectează tabloul de trezorerie."
+    ],
+    "correct": ["d) Fluxul de trezorerie din activități de investiții cu semnul \"-\";"]
+  },
+  {
+    "question": "47) În structura tabloului fluxurilor de trezorerie, plățile în favoarea furnizorilor de servicii afectează:",
+    "answers": [
+      "a) Fluxul de trezorerie din activități de exploatare cu semnul \"-\";",
+      "b) Fluxul de trezorerie din activități de finanțare cu semnul \"-\";",
+      "c) Fluxul de trezorerie din activități de exploatare cu semnul \"+\";",
+      "d) Fluxul de trezorerie din activități de investiții cu semnul \"-\";",
+      "e) Nu afectează tabloul de trezorerie."
+    ],
+    "correct": ["a) Fluxul de trezorerie din activități de exploatare cu semnul \"-\";"]
+  },
+  {
+    "question": "48) Fluxul net total de trezorerie sau cash-flow-ul se calculează conform formulei:",
+    "answers": [
+      "a) Venituri financiare - Cheltuieli financiare;",
+      "b) Venituri din exploatare - Cheltuieli de exploatare;",
+      "c) Venituri totale - Cheltuieli totale;",
+      "d) Venituri financiare încasate - cheltuieli financiare plătite;",
+      "e) Total încasări - total plăți."
+    ],
+    "correct": ["e) Total încasări - total plăți."]
+  },
+  {
+    "question": "49) Care dintre fluxurile de numerar prezentate mai jos se încadrează, conform IAS 7, în categoria fluxurilor de numerar provenite din activități de exploatare:",
+    "answers": [
+      "a) (1), (2), (3), (5);",
+      "b) (1), (3), (5), (7);",
+      "c) (1), (3), (4), (5), (7);",
+      "d) (3), (5), (6), (7);",
+      "e) (1), (2), (4), (7);"
+    ],
+    "correct": ["b) (1), (3), (5), (7);"]
+  },
+  {
+    "question": "50) Care dintre fluxurile de numerar prezentate mai jos se încadrează, conform IAS 7, în categoria fluxurilor de numerar provenite din activități de finanțare:",
+    "answers": [
+      "a) (1), (2), (3), (5);",
+      "b) (1), (3), (5), (7);",
+      "c) (2), (3), (4), (5), (7);",
+      "d) (4), (6), (7);",
+      "e) (4), (5), (6), (7);"
+    ],
+    "correct": ["d) (4), (6), (7);"]
+  }
+]
