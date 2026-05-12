@@ -25,6 +25,7 @@ import TestCTI from "./components/testCTI";
 import TestAF from "./components/testAF";
 import TestFSCG from "./components/testFSCG";
 import TestTPCA from "./components/TestTPCA";
+import TestFiscalitate35 from "./components/TestFiscalitate35";
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
@@ -113,6 +114,10 @@ const Home: React.FC = () => {
   const testTPCA = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     navigate("/testTPCA");
+  };
+  const testFiscalitate35 = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testFiscalitate35");
   };
 
   return (
@@ -276,6 +281,14 @@ const Home: React.FC = () => {
         >
           Test TPCA
         </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={testFiscalitate35}
+          sx={{ marginTop: 2 }}
+        >
+          Test Fiscalitate 35
+        </Button>
       </Box>
     </Container>
   );
@@ -306,6 +319,7 @@ const App: React.FC = () => {
         <Route path="/testAF" element={<TestAF />} />
         <Route path="/testFSCG" element={<TestFSCG />} />
         <Route path="/testTPCA" element={<TestTPCA />} />
+        <Route path="/testFiscalitate35" element={<TestFiscalitate35 />} />
       </Routes>
     </Router>
   );

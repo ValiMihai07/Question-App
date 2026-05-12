@@ -1,0 +1,353 @@
+[
+  {
+    "question": "1) Principiul predictibilității impunerii presupune:",
+    "answers": [
+      "a) niveluri cât mai reduse ale impozitelor;",
+      "b) niveluri cât mai mari ale impozitelor;",
+      "c) stabilitatea impozitelor pentru o perioadă de un an în care acestea nu pot crește;",
+      "d) o impunere progresivă."
+    ],
+    "correct": ["c) stabilitatea impozitelor pentru o perioadă de un an în care acestea nu pot crește;"]
+  },
+  {
+    "question": "2) „Fiscul” este:",
+    "answers": [
+      "a) o instituție a statului cu dreptul și obligația de a așeza, de a încasa și de a urmări plata impozitelor și taxelor datorate statului de către contribuabili;",
+      "b) o instituție de asigurări pentru impozite și taxe;",
+      "c) o bancă în care se depun impozitele și taxele;",
+      "d) un instrument de plată a impozitelor și taxelor."
+    ],
+    "correct": ["a) o instituție a statului cu dreptul și obligația de a așeza, de a încasa și de a urmări plata impozitelor și taxelor datorate statului de către contribuabili;"]
+  },
+  {
+    "question": "3) Impunerea globală presupune:",
+    "answers": [
+      "a) impozitarea separată a veniturilor realizate de o persoană prin intermediul mai multor plătitori de venituri;",
+      "b) o formă de taxare în cadrul impozitelor indirecte;",
+      "c) cumularea veniturilor realizate din diferite surse sau de la mai multe unități și aplicarea impozitului la această bază de impunere cumulată;",
+      "d) o impunere mondială."
+    ],
+    "correct": ["c) cumularea veniturilor realizate din diferite surse sau de la mai multe unități și aplicarea impozitului la această bază de impunere cumulată;"]
+  },
+  {
+    "question": "4) Impunerea forfetară presupune:",
+    "answers": [
+      "a) substituirea determinării exacte a materiei impozabile cu o valoare atribuită (forfetară) în funcție de care se stabilește impozitul;",
+      "b) o scutire de impozit;",
+      "c) o creștere a taxelor;",
+      "d) calcularea impozitelor ținând cont de cheltuielile deductibile."
+    ],
+    "correct": ["a) substituirea determinării exacte a materiei impozabile cu o valoare atribuită (forfetară) în funcție de care se stabilește impozitul;"]
+  },
+  {
+    "question": "5) Creanța fiscală accesorie reprezintă:",
+    "answers": [
+      "a) dreptul la perceperea impozitelor, taxelor și contribuțiilor sociale;",
+      "b) dreptul contribuabilului la restituirea sumelor plătite;",
+      "c) dreptul la perceperea dobânzilor, penalităților sau majorărilor de întârziere aferente unor creanțe fiscale accesorii;",
+      "d) dreptul la perceperea dobânzilor, penalităților sau majorărilor de întârziere aferente unor creanțe fiscale principale."
+    ],
+    "correct": ["d) dreptul la perceperea dobânzilor, penalităților sau majorărilor de întârziere aferente unor creanțe fiscale principale."]
+  },
+  {
+    "question": "6) Dobânda de întârziere în cadrul creanțelor fiscale accesorii reprezintă:",
+    "answers": [
+      "a) sancțiunea pentru neachitarea la scadență a impozitelor,",
+      "b) echivalentul prejudiciului creat de debitor bugetului de stat;",
+      "c) suma percepută de bancă pentru neachitarea ratelor la timp;",
+      "d) un comision bancar."
+    ],
+    "correct": ["b) echivalentul prejudiciului creat de debitor bugetului de stat;"]
+  },
+  {
+    "question": "7) Prin sechestrul înființat asupra bunurilor mobile, creditorul fiscal dobândește un drept de:",
+    "answers": [
+      "a) gaj;",
+      "b) ipotecă;",
+      "c) superficie;",
+      "d) muncă."
+    ],
+    "correct": ["a) gaj;"]
+  },
+  {
+    "question": "8) Valorificarea bunurilor sechestrate se poate face prin:",
+    "answers": [
+      "a) înțelegerea părților, consignație, vânzare directă, vânzare la licitație;",
+      "b) confiscarea bunurilor;",
+      "c) restituirea bunurilor;",
+      "d) naționalizarea bunurilor."
+    ],
+    "correct": ["a) înțelegerea părților, consignație, vânzare directă, vânzare la licitație;"]
+  },
+  {
+    "question": "9) Teoria lui Arthur Laffer presupune că:",
+    "answers": [
+      "a) impozitele trebuie să fie cât mai ridicate;",
+      "b) impozitele trebuie să fie cât mai reduse;",
+      "c) impozitele directe trebuie să fie mai mari decât impozitele indirecte;",
+      "d) impozitele prea mari provoacă o scădere a încasărilor la bugetul de stat."
+    ],
+    "correct": ["d) impozitele prea mari provoacă o scădere a încasărilor la bugetul de stat."]
+  },
+  {
+    "question": "10) Paradisurile fiscale sunt:",
+    "answers": [
+      "a) insule exotice cu o presiune fiscală apăsătoare;",
+      "b) teritorii în care autoritățile fiscale sunt autoritare;",
+      "c) state sau entități de tip statal în care persoanele fizice sau juridice beneficiază de anumite facilități fiscale;",
+      "d) inferne fiscale."
+    ],
+    "correct": ["c) state sau entități de tip statal în care persoanele fizice sau juridice beneficiază de anumite facilități fiscale;"]
+  },
+
+  {
+    "question": "11) Metodele de control fiscal în cazul inspecției fiscale sunt:",
+    "answers": [
+      "a) verificarea prin sondaj, verificarea exhaustivă și controlul electronic;",
+      "b) verificarea registrului unic de control;",
+      "c) metoda analizei de risc fiscal;",
+      "d) metoda echității fiscale."
+    ],
+    "correct": ["a) verificarea prin sondaj, verificarea exhaustivă și controlul electronic;"]
+  },
+  {
+    "question": "12) Inspecția fiscală se desfășoară pe baza principiilor:",
+    "answers": [
+      "a) echității și justiției fiscale;",
+      "b) independenței, unicității, autonomiei, ierarhizării, teritorialității și descentralizării;",
+      "c) de piață;",
+      "d) prevăzute în Codul fiscal."
+    ],
+    "correct": ["b) independenței, unicității, autonomiei, ierarhizării, teritorialității și descentralizării;"]
+  },
+  {
+    "question": "13) Rezultatul fiscal negativ în cazul impozitului pe profit reprezintă:",
+    "answers": [
+      "a) profit impozabil;",
+      "b) pierdere fiscală;",
+      "c) creșterea profitului impozabil;",
+      "d) reducerea impozitului pe salarii."
+    ],
+    "correct": ["b) pierdere fiscală;"]
+  },
+  {
+    "question": "14) Sunt cheltuieli nedeductibile în cazul impozitului pe profit:",
+    "answers": [
+      "a) cheltuielile cu sponsorizarea și donațiile;",
+      "b) cheltuielile cu salariile;",
+      "c) cheltuielile cu reclama și publicitatea;",
+      "d) cheltuielile cu mărfurile."
+    ],
+    "correct": ["a) cheltuielile cu sponsorizarea și donațiile;"]
+  },
+  {
+    "question": "15) Pierderea fiscală anuală se recuperează din profiturile obținute:",
+    "answers": [
+      "a) în următorii 10 ani consecutivi;",
+      "b) în ultimii 5 ani consecutivi;",
+      "c) în următorii 5 ani consecutivi;",
+      "d) în anul curent."
+    ],
+    "correct": ["c) în următorii 5 ani consecutivi;"]
+  },
+  {
+    "question": "16) Microîntreprinderile care fac sponsorizări pot scădea sumele aferente din impozit până la valoarea de:",
+    "answers": [
+      "a) 50% din impozitul datorat;",
+      "b) 20% din impozitul datorat;",
+      "c) microîntreprinderile nu pot face sponsorizări;",
+      "d) 0,75% din cifra de afaceri."
+    ],
+    "correct": ["c) microîntreprinderile nu pot face sponsorizări;"]
+  },
+  {
+    "question": "17) Contribuțiile obligatorii (CAS și CASS) în cazul impozitului pe salarii:",
+    "answers": [
+      "a) se rețin de la angajator în cuantum de 2,25%;",
+      "b) se rețin atât de la angajator, cât și de la angajat;",
+      "c) se rețin de la angajat: 25% CAS și 10% CASS;",
+      "d) se rețin de la angajator: 25% CAS și 10% CASS."
+    ],
+    "correct": ["c) se rețin de la angajat: 25% CAS și 10% CASS;"]
+  },
+  {
+    "question": "18) Impozitul pe dividende este:",
+    "answers": [
+      "a) un impozit indirect în cotă de 5%;",
+      "b) un impozit cu reținere la sursă în cotă de 16%;",
+      "c) taxă specială;",
+      "d) un impozit pe proprietate."
+    ],
+    "correct": ["b) un impozit cu reținere la sursă în cotă de 16%;"]
+  },
+  {
+    "question": "19) Un angajat cu un salariu de încadrare de 6000 lei și un spor de vechime de 20%. Calculați impozitul pe salariu:",
+    "answers": [
+      "a) 468 lei;",
+      "b) 368 lei;",
+      "c) 448 lei;",
+      "d) 1018 lei."
+    ],
+    "correct": ["a) 468 lei;"]
+  },
+  {
+    "question": "20) Impozitul pe clădiri se calculează în funcție de:",
+    "answers": [
+      "a) profitul proprietarului;",
+      "b) tipul clădirii: rezidențială sau nerezidențială;",
+      "c) tipul clădirii: prezidențială sau nerezidențială;",
+      "d) vârsta proprietarului."
+    ],
+    "correct": ["b) tipul clădirii: rezidențială sau nerezidențială;"]
+  },
+  {
+    "question": "21) Suprafața desfășurată în cazul impozitului pe clădiri se calculează:",
+    "answers": [
+      "a) se înmulțește suprafața utilă cu 1,4;",
+      "b) se împarte suprafața utilă la 1,4;",
+      "c) suprafața desfășurată este egală cu cea utilă;",
+      "d) se înmulțește suprafața utilă cu 2,4."
+    ],
+    "correct": ["a) se înmulțește suprafața utilă cu 1,4;"]
+  },
+  {
+    "question": "22) Dacă un debitor dobândește venituri sau bunuri urmăribile după declararea stării de insolvabilitate, organul de executare silită are obligația:",
+    "answers": [
+      "a) de a anula executarea silită;",
+      "b) de a începe inspecția fiscală;",
+      "c) de a sancționa contravențional debitorul;",
+      "d) de a lua măsurile necesare de redebitare a sumelor și de executare silită."
+    ],
+    "correct": ["d) de a lua măsurile necesare de redebitare a sumelor și de executare silită."]
+  },
+  {
+    "question": "23) Ce se înțelege prin anualitatea impozitului pe clădiri?",
+    "answers": [
+      "a) impozitul este datorat de persoana care are clădirea la 1 ianuarie;",
+      "b) impozitul este datorat de persoana care are clădirea la 31 decembrie;",
+      "c) impozitul este scutit pe tot anul;",
+      "d) impozitul se plătește în două tranșe."
+    ],
+    "correct": ["b) impozitul este datorat de persoana care are clădirea la 31 decembrie;"]
+  },
+  {
+    "question": "24) Deducerea personală se acordă:",
+    "answers": [
+      "a) numai pentru persoanele juridice;",
+      "b) pentru persoanele fizice ce nu au un venit minim garantat;",
+      "c) numai pentru veniturile din salarii la locul unde nu se află funcția de bază;",
+      "d) numai pentru veniturile din salarii la locul unde se află funcția de bază."
+    ],
+    "correct": ["d) numai pentru veniturile din salarii la locul unde se află funcția de bază."]
+  },
+  {
+    "question": "25) Penalitățile de întârziere pentru accize de 13.500 lei întârziate 55 zile:",
+    "answers": [
+      "a) 74 lei;",
+      "b) 64 lei;",
+      "c) 84 lei;",
+      "d) 244 lei."
+    ],
+    "correct": ["a) 74 lei;"]
+  },
+  {
+    "question": "26) Dacă o microîntreprindere depășește 100.000 euro venituri:",
+    "answers": [
+      "a) va datora impozit pe profit începând cu anul următor;",
+      "b) nu va datora impozit pe profit;",
+      "c) va datora impozit pe profit începând cu trimestrul respectiv;",
+      "d) va deveni contribuabil mare."
+    ],
+    "correct": ["c) va datora impozit pe profit începând cu trimestrul respectiv;"]
+  },
+  {
+    "question": "27) În cazul în care, în urma unui control fiscal, rezultă diferențe suplimentare, se întocmește:",
+    "answers": [
+      "a) somația de plată;",
+      "b) raport fiscal și decizie de impunere;",
+      "c) titlu executoriu;",
+      "d) proces-verbal de contravenție."
+    ],
+    "correct": ["b) raport fiscal și decizie de impunere;"]
+  },
+  {
+    "question": "28) Darea în plată reprezintă:",
+    "answers": [
+      "a) trecerea în proprietatea publică a statului a unor bunuri imobile, la cererea debitorului;",
+      "b) trecerea în proprietatea publică a statului a unor bunuri mobile;",
+      "c) anularea creanțelor fiscale principale;",
+      "d) anularea creanțelor fiscale accesorii."
+    ],
+    "correct": ["a) trecerea în proprietatea publică a statului a unor bunuri imobile, la cererea debitorului;"]
+  },
+  {
+    "question": "29) Profitul reinvestit reprezintă:",
+    "answers": [
+      "a) profitul brut obținut în luna achiziționării activelor;",
+      "b) soldul debitor al contului de profit și pierdere;",
+      "c) soldul contului de profit și pierdere, respectiv profitul contabil brut cumulat până la punerea în funcțiune a activelor;",
+      "d) soldul contului de profit și pierdere, respectiv pierderea contabilă brută cumulată."
+    ],
+    "correct": ["c) soldul contului de profit și pierdere, respectiv profitul contabil brut cumulat până la punerea în funcțiune a activelor;"]
+  },
+  {
+    "question": "30) Calculați pensia netă pentru o pensie de 14.000 lei:",
+    "answers": [
+      "a) 12.910 lei;",
+      "b) 10.910 lei;",
+      "c) 11.900 lei;",
+      "d) 11.910 lei."
+    ],
+    "correct": ["d) 11.910 lei."]
+  },
+  {
+    "question": "31) Cum se calculează rezultatul fiscal?",
+    "answers": [
+      "a) Venituri totale - Cheltuieli totale - Deduceri fiscale - Venituri neimpozabile + Cheltuieli nedeductibile;",
+      "b) Venituri totale - Cheltuieli totale - Deduceri fiscale - Venituri neimpozabile - Cheltuieli nedeductibile;",
+      "c) Venituri totale - Cheltuieli totale + Deduceri fiscale - Venituri neimpozabile + Cheltuieli nedeductibile;",
+      "d) Venituri totale - Cheltuieli totale + Deduceri fiscale + Venituri neimpozabile + Cheltuieli nedeductibile."
+    ],
+    "correct": ["a) Venituri totale - Cheltuieli totale - Deduceri fiscale - Venituri neimpozabile + Cheltuieli nedeductibile;"]
+  },
+  {
+    "question": "32) Cum se calculează impozitul pe venitul din salarii pentru veniturile obținute în afara funcției de bază?",
+    "answers": [
+      "a) (Vbrut + Contribuții sociale) x 16%;",
+      "b) (Vbrut - Contribuții sociale) / 16%;",
+      "c) (Vbrut - Contribuții sociale) x 10%;",
+      "d) (Vbrut - Contribuții sociale) x 10%."
+    ],
+    "correct": ["d) (Vbrut - Contribuții sociale) x 10%."]
+  },
+  {
+    "question": "33) Este obligatorie transmiterea unui Aviz de inspecție fiscală?",
+    "answers": [
+      "a) Cu 30 de zile înainte pentru marii contribuabili și cu 14 zile pentru ceilalți;",
+      "b) Cu 30 de zile înainte pentru marii contribuabili și cu 15 zile pentru ceilalți;",
+      "c) Cu 30 de zile înainte pentru marii contribuabili și imediat pentru ceilalți;",
+      "d) Nu este necesar Avizul de inspecție fiscală."
+    ],
+    "correct": ["b) Cu 30 de zile înainte pentru marii contribuabili și cu 15 zile pentru ceilalți;"]
+  },
+  {
+    "question": "34) Factorii externi care influențează presiunea fiscală sunt:",
+    "answers": [
+      "a) Nivelul de dezvoltare al fiecărei țări, nivelul fiscalității din celelalte țări;",
+      "b) Nivelul de dezvoltare al fiecărei țări, nivelul fiscalității din celelalte țări, structura cheltuielilor publice din diferite țări;",
+      "c) Nivelul de dezvoltare al fiecărei țări, structura cheltuielilor publice din diferite țări;",
+      "d) Nu există factori externi care influențează presiunea fiscală."
+    ],
+    "correct": ["b) Nivelul de dezvoltare al fiecărei țări, nivelul fiscalității din celelalte țări, structura cheltuielilor publice din diferite țări;"]
+  },
+  {
+    "question": "35) Calculați impozitul pentru o pensie brută de 14.000 lei:",
+    "answers": [
+      "a) 990 lei;",
+      "b) 890 lei;",
+      "c) 860 lei;",
+      "d) 980 lei."
+    ],
+    "correct": ["a) 990 lei;"]
+  }
+]
