@@ -1,0 +1,962 @@
+[
+  {
+    "question": "Management - 1) Gruparea angajaților pe subdiviziuni organizatorice (departamente, servicii, secții, ateliere etc.), în funcție de sarcinile pe care aceștia le execută, reprezintă o activitate specifică funcției",
+    "answers": [
+      "a. previziune",
+      "b. organizare",
+      "c. antrenare",
+      "d. control-evaluare"
+    ],
+    "correct": [
+      "b. organizare"
+    ]
+  },
+  {
+    "question": "Management - 2) Funcția de coordonare cuprinde un ansamblu de activități prin care se asigură:",
+    "answers": [
+      "a. armonizarea și sincronizarea acțiunilor individuale și colective din cadrul întreprinderii",
+      "b. extrapolarea tendințelor prezente în activitatea întreprinderii",
+      "c. reconsiderarea factorilor care îi motivează pe salariații întreprinderii",
+      "d. eliminarea cauzelor care au condus la performanțe sub standardele stabilite inițial"
+    ],
+    "correct": [
+      "a. armonizarea și sincronizarea acțiunilor individuale și colective din cadrul întreprinderii"
+    ]
+  },
+  {
+    "question": "Management - 3) Sfera de autoritate reprezintă:",
+    "answers": [
+      "a. gradul de îndeplinire a sarcinilor de către manager",
+      "b. numărul de persoane sau de compartimente subordonate nemijlocit de către un manager;",
+      "c. cantitatea de muncă pe care trebuie să o depună un manager",
+      "d. competențele pe care le deține un manager în domeniul postului ocupat"
+    ],
+    "correct": [
+      "b. numărul de persoane sau de compartimente subordonate nemijlocit de către un manager;"
+    ]
+  },
+  {
+    "question": "Management - 4) Îndeplinirea corespunzătoare a funcției de antrenare presupune, în principal:",
+    "answers": [
+      "a. înțelegerea de către manageri a rolului și particularităților factorului uman din întreprindere",
+      "b. manageri cu pregătire profesională deosebită în domeniul de activitate în care activează",
+      "c. controlul exercitat de către manageri asupra tuturor acțiunilor subordonaților",
+      "d. un sistem de motivare bazat în principal pe sancțiuni"
+    ],
+    "correct": [
+      "a. înțelegerea de către manageri a rolului și particularităților factorului uman din întreprindere"
+    ]
+  },
+  {
+    "question": "Management - 5) Domnul Krath Biro, Directorul economic al S.C. PROMOB-S.A., în reuniunea avută cu subordonații săi, a fost de părere că “... decizia deja abordată a fost posibilă deoarece am știut să înlăturăm improvizația și rutina, dar și datorită încadrării în perioada optimă de operaționalizare”. Analizați opinia directorului economic și recunoașteți la care cerințe de raționalitate a deciziei s-a referit directorul economic:",
+    "answers": [
+      "a. fundamentarea științifică și oportunitatea;",
+      "b. oportunitatea și conținutul complet",
+      "c. claritatea, concizia și caracterul necontradictoriu",
+      "d. împuternicirea și fundamentarea științifică"
+    ],
+    "correct": [
+      "a. fundamentarea științifică și oportunitatea;"
+    ]
+  },
+  {
+    "question": "Management - 6) Cerința ca o decizie să fie împuternicită se referă la faptul că:",
+    "answers": [
+      "a. este adoptată de cel în ale cărui sarcini este înscrisă în mod expres",
+      "b. este adoptată de către un specialist",
+      "c. este în concordanță cu obiectivele întreprinderii",
+      "d. este adoptată la nivelul managementului de vârf"
+    ],
+    "correct": [
+      "a. este adoptată de cel în ale cărui sarcini este înscrisă în mod expres"
+    ]
+  },
+  {
+    "question": "Management - 7) O firmă dorește să achiziționeze un nou utilaj de producție. Pe piață sunt identificați trei furnizori pentru acest tip de utilaj: ALPHA (F1), BETA (F2) și GAMA (F3). Criteriile după care se va adopta decizia de cumpărare sunt: C1 - prețul de achiziție; C2 – garanția acordată de producător; C3 - durata de recuperare a investiției. Criteriile au aceeași importanță (nu se vor folosi coeficienți de importanță în calcule). Particularitățile celor trei utilaje, în funcție de criteriile de comparație stabilite, sunt sintetizate în următorul tabel: C1 (mii lei) C2 (ani) C3 (ani) F1 600 8 6 F2 1.200 10 9 F3 800 6 5 Aplicând metoda utilității globale rezultă că decizia optimă și ordinea de preferință a variantelor decizionale sunt:",
+    "answers": [
+      "a. F1 și ordinea de preferință F1, F2, F3",
+      "b. F2 și ordinea de preferință F2, F1, F3",
+      "c. F3 și ordinea de preferință F3, F1, F2",
+      "d. F1 și ordinea de preferință F1, F3, F2"
+    ],
+    "correct": [
+      "d. F1 și ordinea de preferință F1, F3, F2"
+    ]
+  },
+  {
+    "question": "Management - 8) Un producător de bere dorește să introducă în fabricație pentru sezonul estival 2024 un nou sortiment. Managerul companiei încearcă să ia o decizie cu privire la cantitățile ce se vor produce: V1 - cantitate mare; V2 - cantitate medie; V3 - cantitate mică. La nivelul firmei nu există date exacte privind cererea pentru acest produs nou, dar specialiștii în marketing și vânzări au conturat 3 scenarii posibile: S1 - cerere mare (6-7 luni ”calde”); S2 - cerere medie (4-5 luni ”calde”); S3 - cerere mică (o vară ”scurtă”). Situația profitului (în mii lei) pentru fiecare dintre situațiile posibile este redată în tabelul de mai jos: S1 S2 S3 V1 88 53 20 V2 75 66 32 V3 57 50 39 Aplicând regula pesimistă rezultă că varianta optimă și ordinea de preferință a variantelor sunt:",
+    "answers": [
+      "a. V1 și ordinea de preferință V1, V2, V3",
+      "b. V2 și ordinea de preferință V2, V1, V3",
+      "c. V3 și ordinea de preferință V3, V1, V2",
+      "d. V3 și ordinea de preferință V3, V2, V1"
+    ],
+    "correct": [
+      "d. V3 și ordinea de preferință V3, V2, V1"
+    ]
+  },
+  {
+    "question": "Management - 9) Marian Dragu este supervizorul unei echipe de vânzări. În activitatea sa de conducere el încurajează frecvent angajații să-și exprime liber opiniile și ține cont de ele în formularea obiectivelor echipei, le apreciază acțiunile creative și stimulează colaborarea. Atmosfera în echipă este bună și angajații sunt foarte implicați în realizarea obiectivelor companiei. În funcție de modul de manifestare a autorității manageriale, se poate spune că Marian Dragu are un stil de management:",
+    "answers": [
+      "a. autoritar",
+      "b. democrat",
+      "c. permisiv",
+      "d. manipulativ"
+    ],
+    "correct": [
+      "b. democrat"
+    ]
+  },
+  {
+    "question": "Management - 10) Reprezintă elementele ”cele mai vizibile” ale unei culturi organizaționale:",
+    "answers": [
+      "a. semnele",
+      "b. miturile",
+      "c. tabuurile",
+      "d. percepțiile salariaților cu privire la structura puterii în organizație"
+    ],
+    "correct": [
+      "a. semnele"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 11) Imobilizările corporale ale entităţii se caracterizează prin următoarele:",
+    "answers": [
+      "a. valori mari şi utilizare limitată la câteva circuite economice;",
+      "b. valori stabilite individual prin hotărâre de Guvern şi utilizare la mai multe circuite economice;",
+      "c. utilizarea pe parcursul unei perioade mai mari de un an şi depăşirea unei limite de valoare minimă stabilită prin hotărâre a Guvernului;",
+      "d. includerea în cadrul activelor cu lichiditate crescută;"
+    ],
+    "correct": [
+      "c. utilizarea pe parcursul unei perioade mai mari de un an şi depăşirea unei limite de valoare minimă stabilită prin hotărâre a Guvernului;"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 12) Datoriile entităţii provenite din cumpărări de stocuri şi servicii sunt reflectate cu elementul patrimonial de pasiv:",
+    "answers": [
+      "a. credite bancare pe termen lung;",
+      "b. sume datorate acţionarilor/asociaţilor;",
+      "c. furnizori;",
+      "d. clienţi-creditori."
+    ],
+    "correct": [
+      "c. furnizori;"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 13) Plata din disponibilul de la bancă a unei obligaţii comerciale provenite din aprovizionarea cu materii prime determină:",
+    "answers": [
+      "a. scăderea disponibilului din contul de la bancă, scăderea obligaţiilor entităţii şi o modificare de structură în activ;",
+      "b. scăderea disponibilului din contul de la bancă, scăderea obligaţiilor entităţii şi o modificare de volum în sensul diminuării;",
+      "c. scăderea disponibilului din contul de la bancă şi a creanţei faţă de furnizor şi o modificare de structură în activ;",
+      "d. scăderea disponibilului din contul de la bancă, creșterea obligaţiilor entităţii şi o modificare de volum în sensul diminuării;"
+    ],
+    "correct": [
+      "b. scăderea disponibilului din contul de la bancă, scăderea obligaţiilor entităţii şi o modificare de volum în sensul diminuării;"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 14) Plata cu numerar a salariilor cuvenite angajaților determină:",
+    "answers": [
+      "a. scăderea numerarului din casierie, creşterea datoriei față de salariați şi o modificare de volum în sensul diminuării;",
+      "b. scăderea numerarului din casierie, scăderea datoriei față de salariați şi o modificare de volum în sensul diminuării;",
+      "c. creșterea numerarului din casierie, creşterea creanțelor salariaților şi o modificare de volum în sensul majorării;",
+      "d. scăderea numerarului din casierie, creşterea creanțelor salariaților şi o modificare de volum în sensul diminuării."
+    ],
+    "correct": [
+      "b. scăderea numerarului din casierie, scăderea datoriei față de salariați şi o modificare de volum în sensul diminuării;"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 15) În debitul conturilor se înregistrează:",
+    "answers": [
+      "a. sume ce se referă numai la elemente ce cresc;",
+      "b. creşteri de active şi scăderi de pasive;",
+      "c. sume ce se referă numai la elemente ce scad;",
+      "d. scăderi de active şi creşteri de pasive."
+    ],
+    "correct": [
+      "b. creşteri de active şi scăderi de pasive;"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 16) Formulele contabile de stornare în negru:",
+    "answers": [
+      "a. anulează o formulă contabilă, întocmită anterior greşit, prin inversarea acesteia;",
+      "b. nu denaturează rulajul conturilor mărindu-l artificial",
+      "c. nu stabileşte corespondenţe nereale între conturi;",
+      "d. anulează prin repetare formule contabile întocmite anterior greşit."
+    ],
+    "correct": [
+      "a. anulează o formulă contabilă, întocmită anterior greşit, prin inversarea acesteia;"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 17) Rulajele debitoare ale conturilor de activ sunt formate din:",
+    "answers": [
+      "a. existentul înscris în debit la care se adaugă totalitatea sumelor înregistrate în debit în cursul perioadei;",
+      "b. soldul iniţial debitor la care se adaugă soldul final creditor;",
+      "c. total sume debitoare diminuate cu total sume creditoare.",
+      "d. valorile obţinute prin adunarea tuturor sumelor înregistrate în debit în cursul perioadei."
+    ],
+    "correct": [
+      "d. valorile obţinute prin adunarea tuturor sumelor înregistrate în debit în cursul perioadei."
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 18) În partea dreaptă (creditul) a unei formule contabile se înscriu:",
+    "answers": [
+      "a. conturi care reflectă creşteri ale elementelor de pasiv;",
+      "b. conturi care reflectă scăderi ale elementelor de pasiv;",
+      "c. conturi care reflectă creşteri ale elementelor de activ;",
+      "d. conturi care reflectă creşteri ale elementelor de pasiv şi ale elementelor de activ."
+    ],
+    "correct": [
+      "a. conturi care reflectă creşteri ale elementelor de pasiv;"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 19) Contul 5121 “Conturi la bănci în lei” oferă următoarele informaţii: sold iniţial 700 lei, total sume creditoare 2.000 lei şi sold final 3.000 lei. Rulajul debitor aferent contului 5121 “Conturi la bănci în lei” este:",
+    "answers": [
+      "a. 1.000 lei;",
+      "b. 1.700 lei;",
+      "c. 4.300 lei;",
+      "d. 1.800 lei."
+    ],
+    "correct": [
+      "c. 4.300 lei;"
+    ]
+  },
+  {
+    "question": "Bazele contabilității - 20) Contul 404 “Furnizori de imobilizări” prezintă la începutul lunii martie un sold iniţial de 2.000 lei. În cursul lunii martie se înregistrează două achiziţii de imobilizări în valoare de 1.600 lei şi 700 lei şi trei plăţi în contul furnizorilor de imobilizări în valoare de 900 lei, 1.800 lei şi 700 lei. Soldul final al contului 404 “Furnizori de imobilizări” este:",
+    "answers": [
+      "a. 900 lei;",
+      "b. 4.300 lei;",
+      "c. 1.300 lei;",
+      "d. 7.700 lei."
+    ],
+    "correct": [
+      "a. 900 lei;"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 21) Precizaţi care dintre următoarele relaţii este corectă:",
+    "answers": [
+      "a. PNB = PIN + PIB.",
+      "b. PIB = PGB + Consumul intermediar (Ci);",
+      "c. PIN = PIB – Amortizare (A);",
+      "d. PNN = PIN + VN – Amortizare (A);"
+    ],
+    "correct": [
+      "c. PIN = PIB – Amortizare (A);"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 22) Precizaţi care dintre următoarele relaţii este incorectă:",
+    "answers": [
+      "a. PIB = PGB – Consumul intermediar (Ci );",
+      "b. PIN = VANi ;",
+      "c. PNN = PNB + Amortizare (A);",
+      "d. PIB = PIN + Amortizare (A);"
+    ],
+    "correct": [
+      "c. PNN = PNB + Amortizare (A);"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 23) Produsului intern brut (PIB) se calculează în modul următor:",
+    "answers": [
+      "a. PIB = PIN – Amortizare (A);",
+      "b. PIB = VAB i ;",
+      "c. PIB = PGB + Consumul intermediar (Ci ) ;",
+      "d. PIB = PNB – PNN;"
+    ],
+    "correct": [
+      "b. PIB = VAB i ;"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 24) În perioada recesiunii economice, măsurile de politică bugetară cu caracter anticiclic presupun:",
+    "answers": [
+      "a. menținerea sau creșterea ponderii cheltuielilor publice în PIB;",
+      "b. creșterea gradului de fiscalitate;",
+      "c. scăderea ponderii cheltuielilor publice în PIB;",
+      "d. creșterea ratei dobânzii de politică monetară;"
+    ],
+    "correct": [
+      "a. menținerea sau creșterea ponderii cheltuielilor publice în PIB;"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 25) În faza de creștere economică prelungită, politicile economice anticiclice urmăresc:",
+    "answers": [
+      "a. reducerea gradului de fiscalitate;",
+      "b. menținerea sau reducerea ponderii cheltuielilor publice în PIB;",
+      "c. scăderea ratei dobânzii de politică monetară",
+      "d. creșterea ponderii cheltuielilor publice în PIB;"
+    ],
+    "correct": [
+      "b. menținerea sau reducerea ponderii cheltuielilor publice în PIB;"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 26) În faza de recesiune/criză economică, politicile economice anticiclice presupun:",
+    "answers": [
+      "a. scăderea ponderii cheltuielilor publice în PIB;",
+      "b. creșterea ratei dobânzii de politică monetară;",
+      "c. menținerea sau reducerea gradului de fiscalitate;",
+      "d. reducerea volumului creditului în economie;"
+    ],
+    "correct": [
+      "c. menținerea sau reducerea gradului de fiscalitate;"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 27) Inflaţia prin cerere apare ca urmare:",
+    "answers": [
+      "a. a scăderii cererii agregate, într-un ritm mai mare decât oferta agregată;",
+      "b. a creşterii cererii agregate, într-un ritm mai mic decât oferta agregată;",
+      "c. a creşterii ofertei agregate, în acelaşi ritm cu cererea agregată;",
+      "d. a creşterii cererii agregate, într-un ritm mai mare decât oferta agregată;"
+    ],
+    "correct": [
+      "d. a creşterii cererii agregate, într-un ritm mai mare decât oferta agregată;"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 28) Factorii care determină creşterea costurilor şi pot deveni cauze ale inflaţiei prin costuri sunt:",
+    "answers": [
+      "a. creşterea salariilor într-un ritm superior creşterii productivităţii muncii;",
+      "b. scăderea prețurilor la materii prime și materiale;",
+      "c. presiunea fiscală scăzută, în special cea privind impozitele indirecte;",
+      "d. evoluţia salariilor într-o dinamică cel mult egală cu cea a productivităţii muncii;"
+    ],
+    "correct": [
+      "a. creşterea salariilor într-un ritm superior creşterii productivităţii muncii;"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 29) Se cunosc următoarele date referitoare la dinamica preţurilor bunurilor de consum, în decursul unui an: Bunuri economice de consum Ponderea cheltuielilor în totalul consumului Indicii specifici ai preţurilor/tarifelor Alimentare 65% 105% Nealimentare 25% 103% Servicii 10% 108% Indicele preţurilor bunurilor de consum (IPC) pe ansamblul economiei şi rata inflaţiei (Ri), în anul respectiv, au fost:",
+    "answers": [
+      "a. 108,4% şi 8,4%",
+      "b. 104,8% şi 4,8%",
+      "c. 105,3% şi 5,3%",
+      "d. 103,5% şi 3,5%"
+    ],
+    "correct": [
+      "b. 104,8% şi 4,8%"
+    ]
+  },
+  {
+    "question": "Macroeconomie - 30) Nivelul şomajului se determină astfel:",
+    "answers": [
+      "a. în mărime absolută, ca diferență între populația activă și numărul total al şomerilor;",
+      "b. în mărime absolută, exprimată prin numărul celor ocupaţi și neocupați;",
+      "c. în mărime relativă, exprimată ca raport procentual între numărul total al şomerilor şi populaţia activă;",
+      "d. în mărime relativă, calculată ca raport procentual între populaţia activă şi numărul total al şomerilor;"
+    ],
+    "correct": [
+      "c. în mărime relativă, exprimată ca raport procentual între numărul total al şomerilor şi populaţia activă;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 31) Capitalul total, după modalitățile de folosinţă, se materializează în:",
+    "answers": [
+      "a. capital social; datorii; active imobilizate; active circulante;",
+      "b. capital social, datorii pe termen lung și datorii pe termen scurt;",
+      "c. capital permanent; datorii pe termen scurt și datorii pe termen lung;",
+      "d. active imobilizate și active circulante;"
+    ],
+    "correct": [
+      "d. active imobilizate și active circulante;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 32) Capitalul propriu al întreprinderii se constituie prin:",
+    "answers": [
+      "a. însumarea capitalului social cu datoriile pe termen scurt;",
+      "b. însumarea capitalului permanent cu datoriile pe termen lung;",
+      "c. însumarea capitalului social cu grupa primelor de capital, rezervelor și rezultatelor;",
+      "d. scăderea din capitalul total a datoriilor pe termen lung;"
+    ],
+    "correct": [
+      "c. însumarea capitalului social cu grupa primelor de capital, rezervelor și rezultatelor;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 33) Activele imobilizate cuprind următoarele componente:",
+    "answers": [
+      "a. imobilizări necorporale, imobilizări corporale și stocuri;",
+      "b. imobilizări necorporale, imobilizări corporale, imobilizări financiare;",
+      "c. imobilizări necorporale, imobilizări financiare, stocuri și creanțe;",
+      "d. stocuri, creanţe, investiții pe termen scurt, casa și conturi la bănci;"
+    ],
+    "correct": [
+      "b. imobilizări necorporale, imobilizări corporale, imobilizări financiare;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 34) La o firmă se cunosc următoarele date: - capitalul social = 90.000 lei; - capitalul propriu = 105.000 lei; - datoriile pe termen scurt = 53.000 lei; - datoriile pe termen lung = 70.000 lei; - active imobilizate nete = 135.000 lei; - active circulante = 93.000 lei. Valoarea fondului de rulment net va fi:",
+    "answers": [
+      "a. 25.000 lei;",
+      "b. 23.000 lei;",
+      "c. 40.000 lei;",
+      "d. 45.000 lei;"
+    ],
+    "correct": [
+      "c. 40.000 lei;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 35) Obligațiunile sunt titluri de valoare care exprimă:",
+    "answers": [
+      "a. creanţa emitentului asupra activelor deținătorilor;",
+      "b. angajamentul emitentului de a plăti dobânda şi de a rambursa împrumutul;",
+      "c. obligația deținătorilor de a rambursa împrumutul și de a plăti dobânda;",
+      "d. dreptul de proprietate asupra unei părți din capitalul social;"
+    ],
+    "correct": [
+      "b. angajamentul emitentului de a plăti dobânda şi de a rambursa împrumutul;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 36) Printre elementele tehnice ale obligațiunilor se regăsesc:",
+    "answers": [
+      "a. prețul de emisiune, anuitatea, dobânda;",
+      "b. valoarea nominală, anuitatea, dividendele;",
+      "c. termenul de rambursare, dobânda, drepturile de atribuire;",
+      "d. valoarea nominală, dobânda, drepturile de subscriere, drepturile de atribuire;"
+    ],
+    "correct": [
+      "a. prețul de emisiune, anuitatea, dobânda;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 37) Valoarea actualizată netă (VAN) se stabileşte ca:",
+    "answers": [
+      "a. diferenţă între suma cash flow-urilor actualizate şi capitalul investit;",
+      "b. sumă între cash flow-urile actualizate şi capitalul investit;",
+      "c. raport între suma cash flow-urilor actualizate şi capitalul total;",
+      "d. diferenţă între suma cash flow-urilor actualizate şi amortisment;"
+    ],
+    "correct": [
+      "a. diferenţă între suma cash flow-urilor actualizate şi capitalul investit;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 38) Amortizarea accelerată presupune:",
+    "answers": [
+      "a. aplicarea cotei de amortizare liniară la valoarea fiscală de la data intrării în patrimoniu a mijlocului fix amortizabil;",
+      "b. multiplicarea cotei liniare cu coeficientul prevăzut de lege și aplicarea acestei cote la valoarea contabilă a mijlocului fix;",
+      "c. pentru primul an de utilizare, amortizarea nu poate depăşi 50% din valoarea fiscală de la data intrării în patrimoniu a mijlocului fix;",
+      "d. determinarea unor amortismente anuale constante pe întreaga durată de utilizare amijlocului fix;"
+    ],
+    "correct": [
+      "c. pentru primul an de utilizare, amortizarea nu poate depăşi 50% din valoarea fiscală de la data intrării în patrimoniu a mijlocului fix;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 39) Accelerarea vitezei de rotaţie a activelor circulante presupune:",
+    "answers": [
+      "a. reducerea coeficientului vitezei de rotaţie;",
+      "b. creşterea vitezei de rotaţie în zile și reducerea duratei în zile a unei rotaţii;",
+      "c. reducerea numărului de rotaţii;",
+      "d. creşterea coeficientului vitezei de rotaţie;"
+    ],
+    "correct": [
+      "d. creşterea coeficientului vitezei de rotaţie;"
+    ]
+  },
+  {
+    "question": "Gestiunea financiară a întreprinderii - 40) Rata rentabilităţii financiare exprimă:",
+    "answers": [
+      "a. capacitatea firmelor de a realiza profit brut pe baza capitalurilor permanente;",
+      "b. capacitatea firmelor de a realiza profit net pe baza capitalurilor proprii;",
+      "c. capacitatea firmelor de a realiza profit din exploatare pe baza activului economic;",
+      "d. capacitatea firmelor de a realiza profit pe baza capitalului angajat;"
+    ],
+    "correct": [
+      "b. capacitatea firmelor de a realiza profit net pe baza capitalurilor proprii;"
+    ]
+  },
+  {
+    "question": "Informatică economică - 41) Ce format de export al foilor de calcul Excel vă oferă următoarele avantajele: documentele vor arăta la fel pe majoritatea calculatoarelor, se păstrează fonturile, formatările, la fel ca documentul original, respectiv conținutul nu poate fi ușor modificat?",
+    "answers": [
+      "a. XLS;",
+      "b. TXT (tab delimited);",
+      "c. CSV (comma delimited);",
+      "d. PDF/XPS"
+    ],
+    "correct": [
+      "d. PDF/XPS"
+    ]
+  },
+  {
+    "question": "Informatică economică - 42) Care este opțiunea care oferă posibilitatea repetării liniilor din antetul tabelului pentru fiecare pagină de document:",
+    "answers": [
+      "a. Rows to repeat at top;",
+      "b. Column to repeat at top;",
+      "c. Print area",
+      "d. Header/Footer"
+    ],
+    "correct": [
+      "a. Rows to repeat at top;"
+    ]
+  },
+  {
+    "question": "Informatică economică - 43) Care din următoarele opțiuni ale comenzii Paste Special transformă coloanele de date copiate în rânduri sau invers?",
+    "answers": [
+      "a. Formulas;",
+      "b. Transpose;",
+      "c. Formats;",
+      "d. Values."
+    ],
+    "correct": [
+      "b. Transpose;"
+    ]
+  },
+  {
+    "question": "Informatică economică - 44) Se efectuează următoarele operațiuni: în celula C1 se scrie valoarea 1, se selectează celulele C1 până la C5, accesați butonul Fill, comanda Series..., iar caseta de dialog Series, selectați Columns, alegeți, din lista Type, tipul seriei Growth; tastați 2 în caseta de text Step, apoi apăsați butonul Ok. Ce valoare veți avea în celula C5?",
+    "answers": [
+      "a. 16;",
+      "b. 15;",
+      "c. 5",
+      "d. 9"
+    ],
+    "correct": [
+      "a. 16;"
+    ]
+  },
+  {
+    "question": "Informatică economică - 45) În cazul sortării, în fereastra de configurare a criteriilor de ordonare, opțiunea My data has headers va fi selectată dacă:",
+    "answers": [
+      "a. lista de sortat are pe prima linie specificațiile de antet;",
+      "b. lista de sortat nu are antet;",
+      "c. antetul listei intră o ordonarea datelor;",
+      "d. activează linie de total în listă."
+    ],
+    "correct": [
+      "a. lista de sortat are pe prima linie specificațiile de antet;"
+    ]
+  },
+  {
+    "question": "Informatică economică - 46) Celula H10 conține formula = B10+$C$10. Se copiază această formulă în celula J10. Care va fi conținutul intern al celulei J10?",
+    "answers": [
+      "a. = D10+$C$10;",
+      "b. = C10+$C$10;",
+      "c. = B10+$C$10;",
+      "d. = C10+$D$10."
+    ],
+    "correct": [
+      "a. = D10+$C$10;"
+    ]
+  },
+  {
+    "question": "Informatică economică - 47) Funcția NOW() returnează:",
+    "answers": [
+      "a. data curentă;",
+      "b. data și ora curentă;",
+      "c. locația curentă;",
+      "d. ora curentă."
+    ],
+    "correct": [
+      "b. data și ora curentă;"
+    ]
+  },
+  {
+    "question": "Informatică economică - 48) Celula A1 conține un singur caracter, “C”. Care este rezultatul funcției =FIND(A1;“ABCDE”;1)?",
+    "answers": [
+      "a. 1",
+      "b. 5",
+      "c. 3",
+      "d. 0"
+    ],
+    "correct": [
+      "c. 3"
+    ]
+  },
+  {
+    "question": "Informatică economică - 49) Care este rezultatul funcției =MID(“ABCDE”;3;2)?",
+    "answers": [
+      "a. “C”;",
+      "b. “CDE”;",
+      "c. “DE”;",
+      "d. “CD”."
+    ],
+    "correct": [
+      "d. “CD”."
+    ]
+  },
+  {
+    "question": "Informatică economică - 50) Funcția de căutare vectorială are sintaxa: LOOKUP(lookup_value, lookup_vector, result_vector) Ce reprezintă parametrul lookup_vector?",
+    "answers": [
+      "a. vectorul care furnizează rezultatul căutării;",
+      "b. valoarea căutată de funcție în vector;",
+      "c. domeniul format dintr-un singur rând sau coloană și care conține valoarea căutată;",
+      "d. vectorul căutat de funcție."
+    ],
+    "correct": [
+      "c. domeniul format dintr-un singur rând sau coloană și care conține valoarea căutată;"
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 1) Auditul statutar reprezintă:",
+    "answers": [
+      "a. examinarea/analiza oricărui sector al obiceiurilor, procedurilor şi metodelor operaţionale ale unei firme, inclusiv a resurselor angajate şi rezultatelor obţinute, în scopul evaluării eficacităţii şi eficienţei lor;",
+      "b. examinarea efectuată de un profesionist competent şi independent asupra situaţiilor financiare ale unei entităţi elaborate de conducere în vederea exprimării unei opinii motivate asupra imaginii fidele, clare şi complete a poziţiei şi situaţiei financiare, precum şi a rezultatelor obţinute de aceasta;",
+      "c. examinarea în vederea exprimării de către auditorii financiari a unei opinii asupra situaţiilor financiare, în conformitate cu Standardele Internaţionale de Audit Financiar ale Federaţiei Internaţionale a Contabililor;",
+      "d. un proces prin care persoane competente, independente colectează şi evaluează probe pentru a-şi forma o opinie asupra gradului de corespondenţă între cele observate şi anumite criterii prestabilite."
+    ],
+    "correct": [
+      "b. examinarea efectuată de un profesionist competent şi independent asupra situaţiilor financiare ale unei entităţi elaborate de conducere în vederea exprimării unei opinii motivate asupra imaginii fidele, clare şi complete a poziţiei şi situaţiei financiare, precum şi a rezultatelor obţinute de aceasta;"
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 2) Comunicarea unei entităţi cu utilizatorii situaţiilor financiare se sprijină pe axa:",
+    "answers": [
+      "a. transparenţa comunicării;",
+      "b. standardele BNR;",
+      "c. cresterea cantitativă şi calitativă a informaţiei;",
+      "d. standardele ANAF."
+    ],
+    "correct": [
+      "c. cresterea cantitativă şi calitativă a informaţiei;"
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 3) Domeniile de maxim interes pentru utilizatorii situaţiilor financiare sunt:",
+    "answers": [
+      "a. riscurile comunicaţionale;",
+      "b. poziţia financiară a întreprinderii;",
+      "c. performanţele financiare obţinute şi cele potenţiale;",
+      "d. necesităţile de resurse pentru plata salariilor."
+    ],
+    "correct": [
+      "b. poziţia financiară a întreprinderii;"
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 4) Cele trei de tipuri funadamentale de audit sunt:",
+    "answers": [
+      "a. auditul situaţiilor financiare, auditul performanţei, auditul de conformitate;",
+      "b. auditul situaţiilor financiare, auditul eficacităţii, auditul de strategie;",
+      "c. auditul situaţiilor financiare, auditul eficienţei, auditul de conformitate;",
+      "d. auditul situaţiilor financiare, auditul operaţional, auditul de conformitate."
+    ],
+    "correct": [
+      "d. auditul situaţiilor financiare, auditul operaţional, auditul de conformitate."
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 5) Precizaţi care dintre următoarele afirmaţii sunt corecte:",
+    "answers": [
+      "a. auditul financiar are două componente: auditul statutar şi auditul intern;",
+      "b. auditul statutar este parte componentă a auditului financiar;",
+      "c. miniauditul este echivalentul auditului statutar;",
+      "d. auditul facultativ include auditul statutar."
+    ],
+    "correct": [
+      "b. auditul statutar este parte componentă a auditului financiar;"
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 6) Care din următoarele mecanisme reprezintă tehnici de control:",
+    "answers": [
+      "a. verificarea periodică independentă;",
+      "b. accesul nelimitat la active;",
+      "c. enumerarea tuturor operaţiunilor şi activităţilor;",
+      "d. unificarea responsabilităţilor întrun singur departament."
+    ],
+    "correct": [
+      "a. verificarea periodică independentă;"
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 7) Consecinţele pe termen lung ale aplicării unui model de audit intern axat pe trecut sunt următoarele:",
+    "answers": [
+      "a. auditul tinde să acopere nu numai aspectele financiare;",
+      "b. de la an la an, fiecare audit aduce din ce în ce mai multă valoare;",
+      "c. procesele auditate devin competitive şi rapide;",
+      "d. auditorii interni sunt priviţi şi tind să se comporte ca „poliţişti” ai organizaţiei."
+    ],
+    "correct": [
+      "d. auditorii interni sunt priviţi şi tind să se comporte ca „poliţişti” ai organizaţiei."
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 8) Indicaţi operaţiunile care nu respectă elementele de control ale cumpărărilor şi plăţilor:",
+    "answers": [
+      "a. cererea de aprovizionare este întocmită de departamentul de aprovizionare;",
+      "b. borderoul de depunere a cecului este întocmit de furnizor;",
+      "c. casierul verifică toate documentele înaintea completării cecului;",
+      "d. departamentul contabil primeşte şi verifică factura de la furnizor."
+    ],
+    "correct": [
+      "a. cererea de aprovizionare este întocmită de departamentul de aprovizionare;"
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 9) Documentul pentru restituirea banilor într-un magazin de vânzări cu amănuntul este autorizat de către:",
+    "answers": [
+      "a. casier;",
+      "b. vânzător;",
+      "c. manager;",
+      "d. gestionar."
+    ],
+    "correct": [
+      "c. manager;"
+    ]
+  },
+  {
+    "question": "Audit financiar/Audit intern - 10) Obiectivele manageriale ale controlului intern ar putea fi:",
+    "answers": [
+      "a. menţinerea unui nivel critic al stocurilor disponibile;",
+      "b. menţinerea mijloacelor băneşti la un nivel care să permită achitarea cumpărăturilor la timp şi obţinerea unor discounturi aferente achiziţiilor;",
+      "c. menţinerea unui nivel maxim al câştigurilor din credite comerciale, maximizând vânzările;",
+      "d. prevenirea pierderilor de mijloace băneşti sau stocuri datorate furturilor sau fraudei."
+    ],
+    "correct": [
+      "b. menţinerea mijloacelor băneşti la un nivel care să permită achitarea cumpărăturilor la timp şi obţinerea unor discounturi aferente achiziţiilor;"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 1) Fondurile unei instituții publice reprezintă elemente de capital propriu care indică:",
+    "answers": [
+      "a. dreptul de posesie al statului sau al unităților administrativ teritoriale asupra bunurilor care alcătuiesc domeniul public și privat al acestuia/acestora;",
+      "b. dreptul de folosință al statului sau al unităților administrativ teritoriale asupra bunurilor care alcătuiesc domeniul public și privat al acestuia/acestora;",
+      "c. dreptul de posesie, folosință și de dispoziție al statului sau al unităților administrativ teritoriale asupra bunurilor care alcătuiesc domeniul public și privat al acestuia/acestora;",
+      "d. dreptul de posesie și de dispoziție al statului sau al unităților administrativ teritoriale asupra bunurilor care alcătuiesc domeniul public și privat al acestuia/acestora."
+    ],
+    "correct": [
+      "c. dreptul de posesie, folosință și de dispoziție al statului sau al unităților administrativ teritoriale asupra bunurilor care alcătuiesc domeniul public și privat al acestuia/acestora;"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 2) Bunurilor din domeniul public le sunt caracteristice anumite trăsături, așa cum sunt evidențiate de reglementările contabile aplicabile, astfel:",
+    "answers": [
+      "a. pot fi supuse executării silite și asupra lor se pot constitui garanții reale;",
+      "b. nu pot fi înstrăinate, ci pot fi date numai în administrare regiilor autonome și instituțiilor publice, concesionare sau închiriere;",
+      "c. pot fi dobândite de către alte persoane prin uzucapiune sau prin efectul posesiei de bună credință asupra bunurilor mobile;",
+      "d. pot fi înstrăinate regiilor autonome și instituțiilor publice."
+    ],
+    "correct": [
+      "b. nu pot fi înstrăinate, ci pot fi date numai în administrare regiilor autonome și instituțiilor publice, concesionare sau închiriere;"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 3) Printre instrumentele datoriei publice guvernamentale se includ:",
+    "answers": [
+      "a. titlurile de stat emise pe piața internă sau externă;",
+      "b. provizioanele;",
+      "c. primele privind rambursarea obligațiunilor;",
+      "d. fondul bunurilor care alcătuiesc domeniul public al statului;"
+    ],
+    "correct": [
+      "a. titlurile de stat emise pe piața internă sau externă;"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 4) Valoarea neamortizată a activelor fixe corporale transferate cu titlu gratuit se înregistrează:",
+    "answers": [
+      "a. în creditul contului 691 ”Cheltuieli extraordinare din operațiuni cu active fixe”;",
+      "b. în debitul contului 658 ”Alte cheltuieli operaționale”;",
+      "c. în debitul unuia din conturile privind fondurile instituției publice, în funcție de apartenența bunurilor la domeniul public sau privat al statului sau unităților administrativ teritoriale;",
+      "d. în debitul contului 281 ”Amortizări privind activele fixe corporale”."
+    ],
+    "correct": [
+      "b. în debitul contului 658 ”Alte cheltuieli operaționale”;"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 5) Prin intermediul contului 215 ”Alte active ale statului” se înregistrează:",
+    "answers": [
+      "a. înregistrarea reprezentațiilor teatrale, programelor de radio sau televiziune, lucrărilor muzicale, evenimentelor sportive, lucrărilor literare etc.;",
+      "b. bunurile de natura armamentului și tehnicii de luptă;",
+      "c. zăcăminte, resurse biologice necultivate, rezerve de apă;",
+      "d. echipamentul de protecție și de lucru, îmbrăcămintea specială, precum și accesoriile de pat, indiferent de valoarea și de durata lor de utilizare."
+    ],
+    "correct": [
+      "c. zăcăminte, resurse biologice necultivate, rezerve de apă;"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 6) Precizați care dintre formulele contabile de mai jos este în concordanță cu explicația asociată:",
+    "answers": [
+      "a. 682 ”Cheltuieli cu activele fixe = 231 ”Active fixe corporale în curs de -recepția finală a investiției, cu valoarea de neamortizabile” execuție” intrare a activelor fixe care nu se supun amortizării",
+      "b. 105 ”Rezerve din reevaluare” = 212 ”Construcții” - creșterea de valoare rezultată din reevaluarea construcțiilor",
+      "c. 404 ”Furnizori de active fixe” = 232 ”Avansuri acordate pentru active fixe corporale” - avansurile acordate furnizorilor de active fixe corporale",
+      "d. 212 ”Construcții” = 722 ”Venituri din producția de active fixe corporale” - construcții primite cu titlu gratuit"
+    ],
+    "correct": [
+      "a. 682 ”Cheltuieli cu activele fixe = 231 ”Active fixe corporale în curs de -recepția finală a investiției, cu valoarea de neamortizabile” execuție” intrare a activelor fixe care nu se supun amortizării"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 7) Capitalurile proprii sunt definite ca fiind interesul rezidual al statului sau al unităților administrativ-teritoriale, în calitate de proprietari ai activelor unei instituții publice, după deducerea tuturor:",
+    "answers": [
+      "a. tuturor activelor;",
+      "b. tuturor datoriilor;",
+      "c. tuturor cheltuielilor;",
+      "d. tuturor veniturilor."
+    ],
+    "correct": [
+      "b. tuturor datoriilor;"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 8) Precizați pentru care dintre formulele contabile de mai jos există neconcordanță cu explicația atașată:",
+    "answers": [
+      "a. 232 ”Avansuri acordate pentru active fixe corporale” = 770 ”Finanțarea de la buget” - avansurile acordate furnizorilor de active fixe corporale pe seama creditelor bugetare aprobate",
+      "b. 231 ”Active fixe corporale în curs de execuție” = 779 ”Venituri, bunuri și servicii primite cu titlu gratuit” - construcții în curs de execuție primite cu titlu gratuit",
+      "c. 213 ”Instalații tehnice, mijloace de transport, animale și plantații” = 102 ”Fondul bunurilor care alcătuiesc domeniul privat al statului” -recepția unor utilaje amortizabile achiziționate",
+      "d. 681 ”Cheltuieli operaționale privind amortizările, provizioanele și = 281 ”Amortizări privind activele fixe corporale” - amortizarea lunară a unui activ fix corporal ajustările pentru depreciere”"
+    ],
+    "correct": [
+      "c. 213 ”Instalații tehnice, mijloace de transport, animale și plantații” = 102 ”Fondul bunurilor care alcătuiesc domeniul privat al statului” -recepția unor utilaje amortizabile achiziționate"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 9) Referitor la un mijloc de transport se cunosc următoarele informații: valoare contabilă 200.000 lei, durata de utilizare preconizată 5 ani, iar metoda de amortizare utilizată este cea liniară. După 2 ani de exploatare activul fix este scos din evidență deoarece a fost distrus în urma producerii unor calamități naturale. Valoarea amortizată aferentă mijlocului de transport scos din evidență se înregistrează prin formula contabilă:",
+    "answers": [
+      "a. 691 ”Cheltuieli extraordinare din operațiuni cu active fixe” = 213 ”Instalații tehnice, mijloace de transport, animale și plantații” 120.000 lei",
+      "b. 690 ”Cheltuieli cu pierderi din calamități” = 213 ”Instalații tehnice, mijloace de transport, animale și plantații” 80.000 lei",
+      "c. 213 ”Instalații tehnice, mijloace de transport, animale și plantații” = 690 ”Cheltuieli cu pierderi din calamități” 40.000 lei",
+      "d. 281 ”Amortizări privind activele fixe corporale” = 213 ”Instalații tehnice, mijloace de transport, animale și plantații” 80.000 lei"
+    ],
+    "correct": [
+      "d. 281 ”Amortizări privind activele fixe corporale” = 213 ”Instalații tehnice, mijloace de transport, animale și plantații” 80.000 lei"
+    ]
+  },
+  {
+    "question": "Contabilitate publică - 10) Reevaluarea activelor fixe corporale se fundamentează, de regulă, pe:",
+    "answers": [
+      "a. valoarea realizabilă netă;",
+      "b. valoarea de ieșire;",
+      "c. valoarea justă;",
+      "d. valoarea justă minus valoarea de ieșire."
+    ],
+    "correct": [
+      "c. valoarea justă;"
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 1) Care din obiectivele enunţate mai jos aparțin contabilităţii de gestiune?",
+    "answers": [
+      "a. calculul rezultatelor în scopul repartizării acestora;",
+      "b. analiza diagnostic a întreprinderii;",
+      "c. stabilirea unei imagini fidele asupra patrimoniului şi rezultatelor întreprinderii;",
+      "d. calculul costurilor în scopul urmăririi contribuției activității desfăşurate la obţinerea rezultatelor."
+    ],
+    "correct": [
+      "d. calculul costurilor în scopul urmăririi contribuției activității desfăşurate la obţinerea rezultatelor."
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 2) Din punct de vedere practic, costul de producţie este:",
+    "answers": [
+      "a. expresia valorică a consumului celor trei factori de producţie;",
+      "b. acea parte a prețului de vânzare a unui bun economic care nu poate compensa cheltuielile suportate de unitățile economice pentru producerea şi vânzarea acelui bun;",
+      "c. expresia valorică a consumului de resurse;",
+      "d. expresia valorică a consumurilor de muncă vie şi materializată efectuate în scopul obţinerii unui produs, unei lucrări sau unui serviciu la un moment dat, consumuri care îmbracă forma cheltuielilor de producţie şi de desfacere suportate de întreprinzători."
+    ],
+    "correct": [
+      "d. expresia valorică a consumurilor de muncă vie şi materializată efectuate în scopul obţinerii unui produs, unei lucrări sau unui serviciu la un moment dat, consumuri care îmbracă forma cheltuielilor de producţie şi de desfacere suportate de întreprinzători."
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 3) Cheltuielile încorporabile care alcătuiesc structura costului de producţie se bazează pe separarea cheltuielilor în:",
+    "answers": [
+      "a. fixe;",
+      "b. directe;",
+      "c. variabile;",
+      "d. directe și indirecte."
+    ],
+    "correct": [
+      "d. directe și indirecte."
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 4) Pentru a deveni element de cost, consumurile de valori trebuie să fie exprimate obligatoriu:",
+    "answers": [
+      "a. în formă cantitativă;",
+      "b. cantitativ-valoric;",
+      "c. în formă bănească.",
+      "d. prin intermediul unui bon de consum;"
+    ],
+    "correct": [
+      "c. în formă bănească."
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 5) Cheltuielile indirecte se grupează pe feluri de cheltuieli, după natura lor, astfel:",
+    "answers": [
+      "a. cheltuieli cu amortizările şi provizioanele;",
+      "b. cheltuieli cu amortizările aferente exploatării;",
+      "c. alte cheltuieli financiare;",
+      "d. cheltuieli cu materiile prime."
+    ],
+    "correct": [
+      "b. cheltuieli cu amortizările aferente exploatării;"
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 6) Privită ca un rezultat concret material, producţia conferă contabilităţii de gestiune noţiunea de:",
+    "answers": [
+      "a. produse finite;",
+      "b. produse reziduale;",
+      "c. semifabricate;",
+      "d. purtători de costuri."
+    ],
+    "correct": [
+      "d. purtători de costuri."
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 7) Procedeul reiterării se utilizează pentru:",
+    "answers": [
+      "a. determinarea şi delimitarea cheltuielilor pe locuri şi pe purtători;",
+      "b. determinarea cantitativă şi valorică a producţiei în curs de execuţie;",
+      "c. decontarea prestaţiilor reciproce;",
+      "d. calculul costului unitar al producţiei finite."
+    ],
+    "correct": [
+      "c. decontarea prestaţiilor reciproce;"
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 8) În condiţiile producţiei sorto-tip şi sorto-dimensionale, pentru calculul costului unitar se utilizează următoarele procedee:",
+    "answers": [
+      "a. procedeul diviziunii simple;",
+      "b. procedeul valorii rămase;",
+      "c. procedeul cifrelor de echivalenţă;",
+      "d. procedeul randamentelor."
+    ],
+    "correct": [
+      "c. procedeul cifrelor de echivalenţă;"
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 9) Procedeul valorii rămase se utilizează pentru calculul costului unitar în cazul:",
+    "answers": [
+      "a. produselor reziduale inutilizabile;",
+      "b. produselor reziduale utilizabile;",
+      "c. producţiei cuplate;",
+      "d. producţiei sorto-tip."
+    ],
+    "correct": [
+      "b. produselor reziduale utilizabile;"
+    ]
+  },
+  {
+    "question": "Contabilitate de gestiune - 10) Oferind informațiile utile pentru diagnostic, luarea deciziilor şi previzionarea viitorului, contabilitatea de gestiune, prin obiectul său de studiu, procedează la:",
+    "answers": [
+      "a. determinarea productivității muncii;",
+      "b. cunoașterea indicatorilor;",
+      "c. reducerea duratei medii de viață a produselor;",
+      "d. analiza şi estimarea evoluției costurilor."
+    ],
+    "correct": [
+      "d. analiza şi estimarea evoluției costurilor."
+    ]
+  }
+]
