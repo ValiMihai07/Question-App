@@ -9,13 +9,13 @@ import { Box, Button, Container, Typography } from "@mui/material";
 // import TestPage from "./components/test";
 // import TestMama from "./components/testMama";
 // import TestEM from "./components/TestEM";
-// import TestConta from "./components/TestConta";
+import TestConta from "./components/TestConta";
 // import TestDFF from "./components/TestDFF";
 // import TestCTB from "./components/TestCTB";
-// import TestContaGestiune from "./components/TestContaGestiune";
+import TestContaGestiune from "./components/TestContaGestiune";
 // import TestAudit20 from "./components/TestAudit20";
 // import TestAudit40 from "./components/TestAudit40";
-// import TestAudit5 from "./components/TestAudit5";
+import TestAudit5 from "./components/TestAudit5";
 // import AnalizaEconomica from "./components/AnalizaEconomica";
 // import ContabilitateBancara from "./components/ContabilitateBancara";
 // import EvaluareaIntreprinderii from "./components/EvaluareaIntreprinderii";
@@ -58,15 +58,15 @@ const Home: React.FC = () => {
   //   navigate("/testEM");
   // };
 
-  // const startConta = (e: React.MouseEvent<HTMLButtonElement>) => {
-  //   e.preventDefault();
-  //   navigate("/testConta");
-  // };
+  const startConta = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testConta");
+  };
 
-  // const startContaGestiune = (e: React.MouseEvent<HTMLButtonElement>) => {
-  //   e.preventDefault();
-  //   navigate("/testContaGestiune");
-  // };
+  const startContaGestiune = (e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    navigate("/testContaGestiune");
+  };
 
   // const startAudit20 = (e: React.MouseEvent<HTMLButtonElement>) => {
   //   e.preventDefault();
@@ -76,10 +76,10 @@ const Home: React.FC = () => {
   //   e.preventDefault();
   //   navigate("/testAudit40");
   // };
-  // const startAudit5 = (e: React.MouseEvent<HTMLButtonElement>) => {
-  //   e.preventDefault();
-  //   navigate("/testAudit5");
-  // };
+   const startAudit5 = (e: React.MouseEvent<HTMLButtonElement>) => {
+     e.preventDefault();
+     navigate("/testAudit5");
+   };
   // const analizaEconomica = (e: React.MouseEvent<HTMLButtonElement>) => {
   //   e.preventDefault();
   //   navigate("/analizaEconomica");
@@ -174,22 +174,8 @@ const Home: React.FC = () => {
         >
           Test EM
         </Button>
-        <Button
-          variant="contained"
-          color="secondary"
-          onClick={startConta}
-          sx={{ marginTop: 2 }}
-        >
-          Test Conta
-        </Button>
-        <Button
-          variant="contained"
-          color="secondary"
-          onClick={startContaGestiune}
-          sx={{ marginTop: 2 }}
-        >
-          Test Conta Gestiune
-        </Button> */}
+        
+        */}
         {/* <Button
           variant="contained"
           color="secondary"
@@ -206,14 +192,7 @@ const Home: React.FC = () => {
         >
           Test Audit 40
         </Button>
-        <Button
-          variant="contained"
-          color="secondary"
-          onClick={startAudit5}
-          sx={{ marginTop: 2 }}
-        >
-          Test Audit 5
-        </Button>
+        
         <Button
           variant="contained"
           color="secondary"
@@ -246,6 +225,22 @@ const Home: React.FC = () => {
         >
           Control De Gestiune
         </Button> */}
+         <Button
+          variant="contained"
+          color="secondary"
+          onClick={startContaGestiune}
+          sx={{ marginTop: 2 }}
+        >
+          Test Conta Gestiune
+        </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startConta}
+          sx={{ marginTop: 2 }}
+        >
+          Test Conta
+        </Button>
         <Button
           variant="contained"
           color="secondary"
@@ -302,6 +297,14 @@ const Home: React.FC = () => {
         >
           Test Examen Final
         </Button>
+        <Button
+          variant="contained"
+          color="secondary"
+          onClick={startAudit5}
+          sx={{ marginTop: 2 }}
+        >
+          Test Audit 5
+        </Button>
       </Box>
     </Container>
   );
@@ -317,11 +320,11 @@ const App: React.FC = () => {
         <Route path="/testCTB" element={<TestCTB />} />
         <Route path="/testDFF" element={<TestDFF />} />
         <Route path="/testEM" element={<TestEM />} />
-        <Route path="/testConta" element={<TestConta />} />
-        <Route path="/testContaGestiune" element={<TestContaGestiune />} /> */}
+        
+         */}
         {/* <Route path="/testAudit20" element={<TestAudit20 />} />
         <Route path="/testAudit40" element={<TestAudit40 />} />
-        <Route path="/testAudit5" element={<TestAudit5 />} />
+         />
         <Route path="/analizaEconomica" element={<AnalizaEconomica />} />
         
         <Route path="/contabilitateBancara" element={<ContabilitateBancara />} />
@@ -329,9 +332,12 @@ const App: React.FC = () => {
         <Route path="/controlDeGestiune" element={<ControlDeGestiune />} /> */}
         <Route path="/testAAF" element={<TestAAF />} />
         <Route path="/testCTI" element={<TestCTI />} />
+        <Route path="/testContaGestiune" element={<TestContaGestiune />} />
+        <Route path="/testConta" element={<TestConta />} />
         <Route path="/testAF" element={<TestAF />} />
         <Route path="/testFSCG" element={<TestFSCG />} />
         <Route path="/testTPCA" element={<TestTPCA />} />
+        <Route path="/testAudit5" element={<TestAudit5 />} />
         <Route path="/testFiscalitate35" element={<TestFiscalitate35 />} />
         <Route path="/testExamenFinal" element={<TestExamenFinal />} />
       </Routes>
